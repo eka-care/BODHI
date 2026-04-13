@@ -1,0 +1,40 @@
+id,name
+1,Cardiologist
+10,Neurologist
+11,Nephrologist
+12,Urologist
+13,Ophthalmologist
+14,Oncologist
+15,Endocrinologist
+16,Psychiatrist
+17,General Surgeon
+18,Rheumatologist
+2,Dentist
+21,Pulmonologist
+22,Radiologist
+23,Plastic Surgeon
+24,Spine Surgeon
+25,IVF Specialist
+27,Physiotherapist
+29,Intensivist
+3,Dermatologist
+30,Chest Physician
+31,Diabetologist
+32,Immunologist
+33,Oral & Maxillofacial Surgeon
+35,Andrologist
+39,Pediatric Nephrologist
+4,ENT
+40,Obstetrician
+41,Clinical geneticist
+42,Allergy specialist
+43,Clinical haematologist
+44,Internal medicine specialist
+45,Trauma Specialist
+46,Vascular medicine specialist
+47,Neurosurgeon
+5,Gastroenterologist
+6,General Physician
+7,Gynaecologist
+8,Orthopedic
+9,Paediatrician

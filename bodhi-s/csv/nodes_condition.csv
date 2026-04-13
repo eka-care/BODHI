@@ -1,0 +1,780 @@
+snomed_id,name,concept_type,type_condition,triage_level,overall_likelihood,likelihood_male,likelihood_female,likelihood_age_0_1,likelihood_age_1_5,likelihood_age_6_12,likelihood_age_13_18,likelihood_age_19_30,likelihood_age_30_45,likelihood_age_45_60,likelihood_age_60_plus
+1012,FH Bruxism,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+102424008,exposure to air pollution,Misc,medical_history,opd_managed,very_high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+102430008,Consumed contaminated water,Misc,Event,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+102431007,Exposure to polluted water,Misc,medical_history,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+102877006,Nulliparous women,Misc,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+102947004,Risky sexual behaviour,Lifestyle,lifestyle,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+1033009,Arthritis of upper back,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+10509002,Acute bronchitis,Disorder,acute,worrisome,medium,1.0,0.9,0.1,1.0,0.5,0.5,0.25,0.25,0.75,0.75
+10528009,Lupus Vulgaris,Disorder,chronic,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+105651000119100,H/O Preeclampsia,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+10623005,Fibrous dysplasia,Disorder,chronic,worrisome,rare,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+106325008,Athlete,Misc,lifestyle,opd_managed,low,1.0,0.75,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+10743008,Irritable bowel syndrome,Disorder,chronic,opd_managed,medium,1.0,1.0,0.1,0.1,0.1,0.9,1.0,1.0,1.0,0.9
+108801000119109,FH blood clotting/bleeding disorder,FamilyHistory,acute_that_may_turn_chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+109385007,Kaposi's sarcoma,Disorder,chronic,worrisome,rare,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.25,1.0,1.0
+110030002,Concussion,Disorder,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+110299009,poor oral hygiene,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+110481003,Body piercings,Misc,lifestyle,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+110483000,Tobacco user,Lifestyle,lifestyle,opd_managed,high,1.0,0.9,0.0,0.0,0.0,0.0,0.75,1.0,1.0,1.0
+111196000,Dermatitis Herpetiformis,Disorder,chronic_with_acute_aggravation,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+111202002,Leukonychia,Disorder,acute,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+111243002,Knee bursitis,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+111245009,Compartment syndrome,Disorder,acute,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+111255008,Perthes disease,Disorder,chronic,worrisome,rare,1.0,0.5,0.0,0.9,1.0,0.0,0.0,0.0,0.0,0.0
+111522004,Arcus séniles,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+111541001,Benign paroxysmal positional vertigo,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0,1.0
+111864006,Chikungunya fever,Disorder,acute,opd_managed,medium,1.0,1.0,0.5,0.5,0.9,0.9,1.0,1.0,1.0,1.0
+1119303003,Post covid syndrome,Disorder,chronic,opd_managed,high,1.0,1.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,1.0
+112698002,H/O joint surgery,Procedure,medical_history,worrisome,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+11543004,Otosclerosis,Disorder,chronic,opd_managed,medium,0.9,1.0,0.0,0.0,0.25,1.0,1.0,0.5,0.25,0.1
+115665000,Atopy,Disorder,chronic_with_acute_aggravation,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1157197009,Second dose covid vaccine complete,Procedure,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+11654001,Achilles tendinitis,Disorder,acute,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.5,1.0,1.0,1.0
+11687002,Gestational Diabetes Mellitus,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,0.25,0.0
+11805005,Injury of groin,Misc,Event,emergency,medium,1.0,0.75,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+118885003,Brain surgery,Procedure,medical_history,emergency,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+12147341000119108,H/O burns,Disorder,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+12295008,Bronchiectasis,Disorder,chronic,worrisome,medium,1.0,1.0,0.1,0.25,0.25,0.25,0.5,1.0,1.0,1.0
+123471000119103,Post vaccination fever,Disorder,acute,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+124134002,G6PD deficiency,Disorder,chronic,worrisome,low,1.0,1.0,0.5,0.75,1.0,1.0,1.0,0.75,0.5,0.25
+125593007,Injury to face,Disorder,medical_history,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125594001,Injury of shoulder region,Misc,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125596004,Injury to elbow,Misc,Event,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125598003,Injury to wrist,Disorder,Event,emergency,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125599006,Injury of hand,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125600009,Injury of hip,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125601008,Injury of knee,Misc,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125603006,Injury to ankle,Misc,Injury,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125604000,Injury of foot,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125606003,Cervical vertebra fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+125608002,Lumbar vertebra fracture,Disorder,Injury,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+125635006,Injury to rectum,Disorder,Event,emergency,rare,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+125668004,Facial contusion,Disorder,Injury,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+126485001,Urticaria,Disorder,acute,opd_managed,high,1.0,1.0,0.25,0.5,0.9,0.9,1.0,1.0,1.0,0.75
+126537000,Bone carcinoma,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,0.9,1.0,0.5,0.5,1.0,1.0
+126660000,Deviated nasal septum,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.1,0.25,1.0,1.0,1.0,1.0
+126949007,Acoustic neuroma,Disorder,chronic,worrisome,low,1.0,1.0,0.1,0.1,0.1,0.1,0.25,1.0,1.0,0.9
+126952004,Neoplasm of brain,Disorder,medical_history,emergency,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+127013003,Disorder of kidney due to diabetes mellitus,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.25,0.9,1.0
+127014009,Diabetic Peripheral angiopathy,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.25,0.75,1.0
+127278005,Injury of arm,Misc,Injury,worrisome,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+127279002,Injury of leg,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+127295002,Traumatic Brain Injury,Disorder,Injury,emergency,medium,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+127364007,Primigravida,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+12745006,Pelvic surgery,Procedure,medical_history,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+128045006,Cellulitis,Disorder,acute,worrisome,high,1.0,1.0,0.25,0.25,0.25,0.25,0.5,0.75,1.0,1.0
+128053003,Deep venous thrombosis,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.75,1.0,1.0
+128060009,Varicose veins,Disorder,chronic,opd_managed,high,0.75,1.0,0.0,0.0,0.0,0.0,0.0,0.75,1.0,1.0
+128105004,von willebrand disease,Disorder,chronic,emergency,low,1.0,1.0,0.5,1.0,1.0,1.0,0.5,0.5,0.25,0.25
+128200000,Sudeck's dystrophy,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+128209004,Chronic inflammatory demyelinating polyneuropathy,Disorder,chronic_with_acute_aggravation,emergency,low,1.0,1.0,0.25,0.75,0.75,0.75,0.75,0.75,1.0,1.0
+128210009,Thoracic outlet syndrome,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.5,1.0,1.0,1.0
+128608001,Cerebral aneurysm,Disorder,acute,emergency,low,1.0,1.0,0.75,0.75,0.75,0.75,0.75,1.0,1.0,0.75
+128869009,Scabies,Disorder,acute,opd_managed,medium,1.0,1.0,0.75,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+129103003,Endometriosis,Disorder,acute_that_may_turn_chronic,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,0.75,0.1
+129127001,Ear infection,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13213009,Congenital heart disease,Disorder,chronic_with_acute_aggravation,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+132721000119104,Hypertensive emergency,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.5,0.75,1.0,1.0
+134439009,FH Premature heart disease,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13445001,Meniere's Disease,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.1,0.1,0.1,0.25,0.5,1.0,1.0
+13600006,Folliculitis,Disorder,acute,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+13619001,H/O thyroid surgery,Procedure,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+13644009,High cholesterol,Disorder,lifestyle,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+13645005,Chronic obstructive lung disease,Disorder,chronic,worrisome,medium,1.0,0.9,0.0,0.0,0.0,0.0,0.1,0.75,0.9,1.0
+13746004,Bipolar Disorder,Disorder,chronic_with_acute_aggravation,emergency,medium,1.0,1.0,0.0,0.1,0.5,0.75,1.0,0.5,0.25,0.1
+13758004,Paraphimosis,Disorder,acute,opd_managed,low,1.0,0.0,0.0,0.25,0.5,0.75,1.0,0.9,0.5,0.5
+13842006,Sub involuntion of uterus,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+14077003,Pica,Disorder,acute_that_may_turn_chronic,opd_managed,medium,0.75,1.0,0.0,0.1,0.25,0.5,1.0,0.75,0.25,0.1
+14094001,Hyperemesis Gravidarum,Disorder,acute,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+14168008,Rabies,Disorder,acute,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+14189004,Measles,Disorder,acute,worrisome,medium,1.0,1.0,1.0,1.0,0.9,0.1,0.25,0.25,0.25,0.25
+14304000,Thyroid disorder,Disorder,chronic,worrisome,high,0.75,1.0,0.1,0.1,0.1,0.25,0.5,1.0,1.0,1.0
+146799005,Suspected pregnancy,Disorder,Event,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0,0.25
+1475003,Cold sores (Herpes simplex virus 1),Disorder,acute_that_may_turn_chronic,opd_managed,high,1.0,1.0,0.1,0.1,0.25,0.5,1.0,0.75,0.5,0.5
+1482004,Chalazion,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.1,0.25,1.0,1.0,1.0,0.9
+1489008,Stye,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.1,1.0,1.0,1.0,1.0,0.9
+15111000119100,H/O chest surgery,Procedure,medical_history,worrisome,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+1539003,Trigger finger (Stenosing flexor tenosynovitis),Disorder,chronic,opd_managed,high,0.9,1.0,0.0,0.0,0.0,0.1,0.25,0.5,0.9,1.0
+154283005,Pulmonary tuberculosis,Disorder,acute,worrisome,medium,1.0,1.0,0.5,0.75,0.75,1.0,1.0,1.0,0.9,0.9
+15574005,Foot bones fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+15628003,Gonorrhea,Disorder,acute,emergency,medium,1.0,1.0,0.1,0.0,0.0,0.25,1.0,1.0,0.75,0.1
+156370009,Psoriatic arthritis,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.1,0.1,1.0,1.0,1.0,1.0,1.0
+157176002,Facial bones fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+157265008,Hip dislocation,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+157266009,Knee dislocation,Disorder,Injury,emergency,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+157271002,Ankle joint dislocation,Disorder,Injury,emergency,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+1575551000168104,H/O COVID-19,Disorder,medical_history,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+15771004,Diabetes Insipidus,Disorder,chronic,worrisome,rare,1.0,1.0,0.1,0.25,1.0,1.0,1.0,0.5,0.5,0.25
+15938005,Eclampsia,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,1.0,0.75,1.0,0.75,0.1
+160303001,Family history of diabetes,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160319008,FH Thalassemia,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160320002,FH Sickle cell anaemia,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160324006,FH mental disorder,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+160329001,FH depression,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+160336000,FH Huntingtons disease,FamilyHistory,medical_history,opd_managed,low,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160337009,FH Multiple sclerosis,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+160341008,FH Epilepsy,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160342001,FH migraine,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+160343006,FH Muscular Dystrophy,FamilyHistory,medical_history,opd_managed,rare,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160347007,FH Glaucoma,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160357008,Family history of hypertension,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+160377001,FH Asthma,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+160386006,F/H Crohns disease,FamilyHistory,medical_history,worrisome,medium,0.9,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+160408009,FH psoriasis,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+160409001,FH Alopecia,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+160413008,FH Rheumatoid Arthritis,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161413004,H/O Systemic Infection,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+161414005,H/O Pulmonary Tuberculosis,Disorder,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+161423008,H/O: chickenpox,Disorder,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+161501007,H/O Hypertension,Disorder,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+161508001,H/O Deep venous thrombosis,Disorder,chronic_with_acute_aggravation,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161525004,H/O Pneumonia,Disorder,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+161567008,H/O Rheumatoid arthritis,Disorder,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161617006,H/O Major abdominal surgery,Procedure,medical_history,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+161633009,H/O Radiation exposure,Lifestyle,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161635002,H/O Asbestos exposure,Disorder,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161805006,Previous LSCS,Procedure,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+161844003,Reduced fluid intake,Lifestyle,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+16266001,Voice Abuse,Misc,chronic,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+16356006,Multiple pregnancy,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+16607004,Missed abortion,Disorder,Event,emergency,low,0.0,1.0,0.0,0.0,0.0,0.25,1.0,0.9,0.1,0.0
+16631009,Transverse Myelitis,Disorder,chronic,emergency,low,1.0,1.0,0.0,0.1,0.5,1.0,0.9,0.9,0.25,0.25
+172631009,Ear wax removal manually,Procedure,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+1738,FH Fibromyalgia,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+17467004,Inferior Turbinate Hypertrophy,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.5,0.75,1.0,0.75,0.5
+1771000119109,Arthritis of wrist,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+17883008,Sprained hip,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18070006,Impacted wax,Disorder,acute,opd_managed,high,1.0,1.0,0.0,0.1,0.25,0.25,0.5,0.5,0.9,1.0
+18140003,Rhinosporidiosis,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+18171007,Finger fracture,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+186729003,Chlamydial genitourinary infection,Disorder,acute,opd_managed,medium,0.5,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+189176002,Genitourinary infection,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+189179009,Craniopharyngioma,Disorder,chronic,worrisome,rare,1.0,1.0,0.0,0.5,1.0,0.9,0.75,0.75,1.0,1.0
+18973006,UV Prolapse,Disorder,chronic,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.25,0.75,1.0
+190634004,Vitamin B12 deficiency,Disorder,acute,opd_managed,high,1.0,1.0,0.1,0.1,0.25,0.25,0.5,0.75,1.0,0.9
+191306005,Henoch-Schonlein purpura,Disorder,chronic,emergency,low,1.0,1.0,0.0,1.0,1.0,1.0,0.5,0.0,0.0,0.0
+19133005,Neurofibromatosis,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.1,0.1,0.5,1.0,1.0,0.5,0.5
+191480000,Alchohol withdrawal,Disorder,acute,emergency,low,1.0,0.75,0.0,0.0,0.0,0.1,0.25,1.0,1.0,0.25
+191736004,Obsessive compulsive disorder,Disorder,chronic,opd_managed,low,0.75,1.0,0.0,0.0,0.1,0.5,0.5,0.75,1.0,0.9
+191983006,Bruxism,Disorder,chronic,opd_managed,rare,1.0,1.0,0.0,1.0,1.0,0.5,0.1,0.1,0.1,0.1
+192685000,Subacute Sclerosing Panencephalitis,Disorder,acute,emergency,rare,1.0,1.0,0.75,1.0,1.0,0.75,0.25,0.1,0.1,0.1
+192970008,Cauda equina syndrome,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+192976002,Progressive supranuclear palsy,Disorder,chronic,emergency,rare,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.25,1.0,1.0
+193031009,Cluster Headache,Disorder,chronic_with_acute_aggravation,opd_managed,medium,1.0,0.9,0.0,0.0,0.0,0.1,1.0,1.0,1.0,0.9
+193093009,Bells Palsy,Disorder,acute,worrisome,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.75,0.75,1.0,1.0
+193462001,Insomnia,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.75,1.0,1.0
+19362000,Cutaneous Larva Migrans,Disorder,acute,opd_managed,low,1.0,1.0,0.0,0.9,1.0,0.9,0.75,0.75,0.5,0.25
+194828000,Angina,Disorder,acute,emergency,high,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.9,1.0,1.0
+19491003,Injury of nose,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+195708003,Recurrent Upper respiratory infections,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+195967001,Asthma,Disorder,chronic_with_acute_aggravation,worrisome,high,0.9,1.0,0.1,0.9,1.0,1.0,0.9,0.9,0.9,0.9
+196491008,Parotid Abscess,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+196542004,Ludwig’s angina,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+197321007,Fatty liver,Disorder,acute_that_may_turn_chronic,opd_managed,very_high,1.0,1.0,0.0,0.0,0.0,0.0,0.5,1.0,1.0,1.0
+197456007,Acute pancreatitis,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.9,1.0,1.0,1.0
+198130006,Pelvic Inflammatory Disease,Disorder,acute,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.5,1.0,1.0,1.0,0.5
+19843006,Hypertropic scar,Disorder,chronic,opd_managed,medium,1.0,1.0,0.1,0.1,1.0,1.0,1.0,1.0,1.0,1.0
+19886006,Sturge weber syndrome,Disorder,chronic,worrisome,rare,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.0,0.0
+199317008,Delivered twins,Misc,Event,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,1.0,0.0
+19943007,Cirrhosis,Disorder,chronic,emergency,low,1.0,0.9,0.25,0.25,0.25,0.25,0.25,1.0,1.0,1.0
+20016009,Menarche,Disorder,Event,opd_managed,low,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+200635001,Web space infection,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+201040000,Callosities/corns,Disorder,acute,opd_managed,high,1.0,1.0,0.0,0.1,0.25,1.0,1.0,1.0,1.0,1.0
+201112007,Ingrown fingernail,Disorder,acute,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+201637001,Pseudo gout,Disorder,acute_that_may_turn_chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+2024,FH Fibroid,FamilyHistory,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+202708005,Lumbosacral disc prolapse,Disorder,chronic,worrisome,high,1.0,1.0,0.0,0.1,0.1,0.1,0.1,0.5,0.9,1.0
+202855006,Tennis Elbow,Disorder,acute,opd_managed,high,1.0,0.9,0.0,0.0,0.1,0.25,0.9,1.0,1.0,0.5
+202882003,Plantar fasciitis (disorder),Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.1,0.9,0.9,1.0,1.0
+203082005,Fibromyalgia,Disorder,chronic,worrisome,medium,0.25,1.0,0.0,0.0,0.1,0.25,0.5,1.0,0.9,0.5
+203468000,Aneurysmal bone cyst,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,FH Narcolepsy,FamilyHistory,medical_history,opd_managed,rare,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+20511007,Hand bones fracture,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20610004,Trochlear nerve palsy,Disorder,acute,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+2073,Repetitive use of joint,Misc,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+2082,Poorly fitting shoes,Misc,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+20848007,Pediculosis,Disorder,acute,opd_managed,medium,0.75,1.0,0.0,1.0,1.0,0.75,0.25,0.25,0.25,0.1
+2089002,Paget's disease of the bone,Disorder,chronic,emergency,rare,1.0,1.0,0.0,0.1,0.1,0.1,0.5,0.75,1.0,1.0
+21007002,Wernicke's encephalothy,Disorder,acute,emergency,low,1.0,1.0,0.0,0.1,0.1,0.1,0.25,0.75,1.0,1.0
+2101,Exposed to forest areas,Misc,medical_history,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+21186006,Chronic Suppurative Otitis Media,Disorder,chronic,worrisome,medium,1.0,1.0,0.1,1.0,1.0,1.0,0.75,0.5,0.1,0.1
+212372004,Fat embolism syndrome,Disorder,acute,emergency,rare,1.0,1.0,0.0,0.0,0.9,1.0,1.0,1.0,0.9,0.9
+21351003,Toe fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+21397001,Vaginal douching,Lifestyle,lifestyle,opd_managed,low,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+21454007,Subarachnoid hemorrhage,Disorder,acute,emergency,low,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.75,1.0,1.0
+21794005,de Quervain's tenosynovitis,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+218220002,Lifting heavy objects,Lifestyle,lifestyle,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+21897009,Generalised Anxiety disorder (GAD),Disorder,chronic,opd_managed,medium,0.5,1.0,0.0,0.0,0.0,0.25,0.5,0.75,1.0,0.9
+219006,Alcoholic (current consumer),Lifestyle,Event,opd_managed,medium,1.0,0.9,0.0,0.0,0.0,0.0,0.9,1.0,1.0,0.75
+21954000,Ramsay Hunt syndrome II,Disorder,chronic_with_acute_aggravation,emergency,low,1.0,1.0,0.0,0.0,0.1,0.1,0.5,0.5,0.75,1.0
+21983002,Hashimoto's Thyroiditis,Disorder,chronic,worrisome,medium,0.75,1.0,0.0,0.1,0.1,0.25,0.5,1.0,1.0,1.0
+22053006,Klinefelter's Syndrome,Disorder,chronic,worrisome,low,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.75,0.5
+22193007,Hand osteoarthritis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+224116000,First pregnancy after 35 yrs of age,Misc,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+225302006,Insulin Therapy,Misc,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+225425006,Intake of drug,Misc,Event,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+226426002,Undercooked meat intake,Misc,lifestyle,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+226430004,Pork eater,Lifestyle,lifestyle,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+230094004,Spicy food intake,Misc,lifestyle,opd_managed,medium,1.0,1.0,0.1,0.1,1.0,1.0,1.0,1.0,1.0,1.0
+230102009,Outside food consumption,Misc,lifestyle,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+230192003,Limbic Encephalitis,Disorder,acute,emergency,rare,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.25,1.0,1.0
+230297002,Multiple system atrophy,Disorder,chronic,emergency,rare,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.1,1.0,1.0
+230456007,Status epilepticus,Disorder,acute,emergency,medium,1.0,1.0,1.0,0.9,0.75,0.5,0.5,0.5,0.9,1.0
+23056005,Sciatica (disorder),Disorder,chronic_with_acute_aggravation,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.75,1.0,0.9,0.75
+230572002,Diabetic neuropathy,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.75,1.0,1.0
+230627003,Upper limb nerve compression,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+230631009,Cubital tunnel syndrome,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.1,0.1,0.5,1.0,1.0,1.0
+230634001,Radial nerve neuropathy,Disorder,acute,emergency,low,1.0,1.0,0.1,0.5,1.0,1.0,1.0,1.0,1.0,1.0
+230690007,Cerebrovascular accident,Disorder,acute,emergency,high,1.0,1.0,0.0,0.0,0.0,0.25,0.25,0.5,0.9,1.0
+230722002,Cortical vein thrombosis,Disorder,acute_that_may_turn_chronic,emergency,medium,1.0,1.0,0.0,0.1,0.1,0.25,0.5,1.0,0.9,0.9
+230745008,Hydrocephalus,Disorder,acute,emergency,rare,1.0,1.0,1.0,1.0,0.25,0.25,0.25,0.75,1.0,1.0
+23097003,Kyasnur Forest Disease,Disorder,acute,worrisome,low,1.0,1.0,0.1,0.1,0.1,0.5,1.0,1.0,1.0,0.5
+2314005,Unprotected sexual intercourse,Lifestyle,Event,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0
+231458000,Prolonged use of steroids,Misc,chronic,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+232377002,Septal haematoma,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+232407000,Cricopharyngeal spasm,Disorder,chronic_with_acute_aggravation,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+2327,FH Wilson disease,FamilyHistory,medical_history,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+233604007,Pneumonia,Disorder,acute,emergency,medium,1.0,1.0,1.0,1.0,0.9,0.9,0.9,0.9,0.9,1.0
+233850007,Infective endocarditis,Disorder,acute,emergency,low,1.0,0.75,0.0,0.25,0.25,0.25,0.25,0.5,1.0,1.0
+233959009,Acute upper limb ischemia,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+235494005,Chronic Pancreatitis,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.25,0.9,1.0,1.0,0.75
+235595009,Gastroesophageal reflux disease,Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,1.0,0.1,0.25,0.25,0.5,1.0,1.0,0.75,0.75
+236320001,Driver,Misc,lifestyle,opd_managed,low,1.0,0.75,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+23697004,Crush syndrome,Disorder,acute,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+237055002,PCOD / PCOS,Disorder,chronic,opd_managed,high,0.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,0.5,0.1
+237602007,Metabolic syndrome,Disorder,chronic,worrisome,very_high,1.0,1.0,0.1,0.1,0.1,0.25,0.25,0.75,1.0,1.0
+237622006,Poor glycemic control,Misc,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+237662005,Hyperprolactinaemia,Disorder,chronic,opd_managed,rare,0.9,1.0,0.0,0.1,0.1,0.75,1.0,1.0,0.75,0.5
+237684005,Sheehan's syndrome,Disorder,acute,emergency,rare,0.0,1.0,0.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0
+237722004,Empty sella syndrome,Disorder,chronic,worrisome,rare,0.75,1.0,0.1,0.1,0.1,0.25,1.0,1.0,0.75,0.75
+237751000,Congenital adrenal hyperplasia,Disorder,chronic,worrisome,rare,1.0,1.0,1.0,1.0,1.0,0.75,0.5,0.5,0.1,0.1
+238121000,Iodine deficiency,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+238968009,Vulvodynia,Disorder,acute,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+23919004,Labyrinthitis,Disorder,acute,opd_managed,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.5,1.0,1.0,1.0
+239720000,Meniscal tear,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.1,0.25,1.0,1.0,1.0,1.0
+23986001,Glaucoma,Disorder,chronic,worrisome,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.5,0.9,1.0
+239872002,Hip osteoarthritis,Disorder,acute,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+239873007,Osteoarthritis of knee,Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+239880009,Lumbar spondylosis (lumbar osteoarthritis),Disorder,chronic_with_acute_aggravation,worrisome,high,1.0,0.9,0.0,0.0,0.0,0.1,0.25,0.5,0.75,1.0
+239960007,Shoulder impingement syndrome,Disorder,acute_that_may_turn_chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0,1.0
+239961006,Shoulder bursitis,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+240008008,Popliteal cyst,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,0.5,0.0,0.0,0.0
+240215009,Cervical disc prolapse,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.1,0.1,0.1,0.1,0.5,0.9,1.0
+240216005,Thoracic disc prolapse,Disorder,acute_that_may_turn_chronic,worrisome,rare,1.0,1.0,0.0,0.1,0.1,0.1,0.1,0.5,0.9,1.0
+240532009,HPV Infection,Disorder,medical_history,worrisome,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+240542006,Condyloma Acuminata,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.5,0.5,0.5,0.9,1.0,1.0,1.0
+240696004,Tinea faciei,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+240820001,Filariasis,Disorder,acute_that_may_turn_chronic,worrisome,medium,0.9,1.0,0.1,0.5,0.5,0.75,0.75,1.0,1.0,1.0
+2415007,Lumbosacral radiculopathy,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.1,0.1,1.0,1.0,1.0
+242535001,Excessive sunlight exposure,Lifestyle,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+242607005,Bite of domestic animal,Misc,acute,emergency,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+242635009,Frequent mosquito bites,Misc,Event,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24496007,Haemorrhoidectomy,Procedure,Event,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+24700007,Multiple sclerosis,Disorder,chronic,worrisome,low,0.9,1.0,0.25,0.25,0.25,0.9,1.0,1.0,0.25,0.25
+247389006,Intercostal neuralgia,Symptom,acute,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+2474,Improper trimming of nails,Misc,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+248056001,Poor hygiene,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+248311001,Central Obesity,Disorder,lifestyle,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+248325000,Malnourished,Disorder,medical_history,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+249858009,Poor posture,Lifestyle,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+25044007,Neuromyelitis optica,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,0.25,0.25,0.75,1.0,1.0,0.1
+25093002,disorder of eye due to diabetes mellitus,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.1,0.25,0.5,0.75,0.9,1.0
+2526,FH G6PD disease,FamilyHistory,medical_history,opd_managed,rare,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+253259008,Branchial Sinus,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.25,0.25,0.0
+254837009,Breast cancer,Disorder,chronic,emergency,medium,0.1,1.0,0.0,0.0,0.0,0.0,0.25,0.9,1.0,1.0
+254845004,Fibroadenoma,Disorder,acute,worrisome,high,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,1.0,0.75
+2556008,Periodontal diseases (gingivitis and periodontitis),Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,0.9,0.0,0.1,0.25,0.5,0.75,1.0,0.9,0.75
+2576002,Trachoma,Disorder,acute,emergency,medium,1.0,1.0,0.25,1.0,0.9,0.75,0.75,0.5,0.5,0.5
+26039008,Neurosyphilis,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,0.1,0.25,0.75,1.0,1.0,1.0
+262175005,Prolonged standing,Lifestyle,lifestyle,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+263030002,Toe dislocation,Disorder,Injury,emergency,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+263128001,Sprained elbow,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+263129009,Sprained finger,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+263172003,Mandible fracture,Disorder,Injury,emergency,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+26435006,Dermatitis,Disorder,acute_that_may_turn_chronic,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+26538006,Degenerative disc disease of the lumbar and sacral spine,Disorder,chronic,worrisome,high,1.0,1.0,0.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0
+266113007,Genital warts,Disorder,acute,worrisome,low,1.0,1.0,0.0,0.1,0.1,0.25,1.0,1.0,0.5,0.5
+26614003,Hydrocele,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,0.75,0.0,0.0,0.0,0.1,0.25,0.5,1.0,1.0
+266257000,Transient ischemic attack,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.1,0.1,0.25,0.25,1.0,1.0
+266474003,Cholelithiasis,Disorder,acute_that_may_turn_chronic,worrisome,high,0.9,1.0,0.0,0.0,0.1,0.1,0.25,1.0,1.0,0.75
+266569009,Benign prostatic hyperplasia,Disorder,chronic,worrisome,medium,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0,1.0
+266579006,Mastitis,Disorder,acute,opd_managed,medium,0.0,1.0,0.25,0.1,0.1,0.25,0.75,1.0,0.75,0.25
+266889000,FH Haemophilia,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+267103008,Globus pharyngis,Disorder,chronic,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+267111003,vegan or strict vegeterian,Lifestyle,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+26843008,Antiphospholipid Syndrome,Disorder,chronic_with_acute_aggravation,emergency,low,0.9,1.0,0.1,0.1,0.1,0.9,1.0,1.0,0.75,0.5
+26929004,Alzheimer's Disease,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.25,0.5,1.0
+2704,Frequent use of nasal decongestants,Lifestyle,medical_history,opd_managed,very_high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+271425001,Scrub typhus,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+271558008,Infectious mononucleosis,Disorder,acute,emergency,low,1.0,1.0,0.0,0.25,0.75,1.0,1.0,1.0,0.75,0.25
+271737000,Anemia,Disorder,acute_that_may_turn_chronic,worrisome,very_high,0.9,1.0,0.0,0.25,0.25,1.0,1.0,0.9,0.75,0.75
+2734,Gonorrhea(Other),Disorder,acute,opd_managed,rare,1.0,1.0,0.0,0.1,0.1,0.5,1.0,1.0,0.9,0.9
+274134003,Leukoplakia,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+274142002,Dupuytren's Contracture,Disorder,acute_that_may_turn_chronic,worrisome,rare,1.0,1.0,0.0,0.0,0.0,0.1,0.25,0.25,1.0,1.0
+274152003,Spondylolisthesis,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+275134007,FH arthritis,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+275320004,Injury of nail,Misc,Event,emergency,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+275548000,H/O Gastric Ulcer,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+275552000,H/O kidney problems,Disorder,chronic,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+275905002,H/O Myocardial problem,Disorder,chronic_with_acute_aggravation,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+27601005,Worm Infestation,Disorder,acute,opd_managed,medium,1.0,1.0,0.1,1.0,1.0,1.0,0.5,0.5,0.5,0.5
+27606000,dental prosthesis,Procedure,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+276319003,Menstrual problems,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+279040009,Mechanical back pain,Disorder,chronic_with_acute_aggravation,opd_managed,very_high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,1.0,1.0,1.0
+27982003,Brown Sequard syndrome,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,1.0,0.1,0.1,0.1,1.0,1.0,1.0,0.9,0.75
+28079008,Multiparous,Misc,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+28111002,Atrophic rhinitis,Disorder,acute_that_may_turn_chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.5,1.0,1.0,1.0,1.0,1.0
+281623008,Genital Tuberculosis,Disorder,acute_that_may_turn_chronic,emergency,low,0.5,1.0,0.0,0.0,0.0,0.25,1.0,1.0,0.75,0.5
+282752000,Injury of eye region,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+282770002,Injury of ribs,Misc,Injury,worrisome,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+282771003,Injury of back and pelvis region,Misc,Injury,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+282776008,Injury of toe,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+284062002,Back and pelvis contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+28432003,Breast abscess,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.5,0.5
+284567000,High altitude,Lifestyle,lifestyle,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+285049007,Use contact lens,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+2858002,Puerperal Sepsis,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+28651003,Orthostatic hypotension,Disorder,acute_that_may_turn_chronic,opd_managed,medium,0.9,1.0,0.1,0.1,0.1,0.5,0.5,0.5,1.0,1.0
+28670008,Oesophagial varices,Disorder,chronic_with_acute_aggravation,emergency,low,1.0,0.9,0.25,0.25,0.25,0.25,0.25,1.0,1.0,1.0
+2897005,Idiopathic thrombocytopenic purpura,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,1.0,0.1,1.0,0.9,0.75,0.75,1.0,0.75,0.1
+289903006,Menopause,Disorder,Event,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+289916006,FH kidney disease,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+297159008,Laryngeal web,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+297240003,FH Parkinson's disease,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+2999009,Injury of ear,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30037006,Anal fissure,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.1,0.1,0.9,1.0,1.0,1.0
+300933005,FH Autoimmune disorder,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+300934004,F/H Hypothyroidism,FamilyHistory,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+302835009,Pheochromocytoma,Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0,0.9
+302866003,Hypoglycemia,Disorder,acute,emergency,medium,1.0,1.0,0.5,0.1,0.1,0.1,0.1,0.1,0.75,1.0
+302914006,Barett's oesophagus,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.5,0.9,1.0
+30292005,Mononeuritis multiplex,Disorder,chronic,emergency,rare,1.0,1.0,0.0,0.1,0.1,0.1,0.25,0.25,1.0,1.0
+302941001,Non union,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30506002,Suppressed lactation,Misc,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+30664006,Multiple Endocrine Neoplasia 1(MEN 1),Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.1,0.25,0.25,1.0,1.0,1.0,1.0
+3068,FH kidney stones,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+307136000,H/O fracture,Disorder,Injury,emergency,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+307496006,Diverticulitis,Disorder,acute,worrisome,medium,1.0,1.0,0.5,0.5,0.0,0.0,0.1,0.5,1.0,1.0
+30800001,Vaginitis,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.1,0.25,1.0,1.0,1.0,0.75
+308064009,H/O Cerebrovascular disease,Disorder,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+309246000,Foot osteoarthritis,Disorder,chronic_with_acute_aggravation,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+310701003,Behcets disease,Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.1,1.0,1.0,0.75,1.0,1.0,0.75
+3110003,Acute Suppurative Otitis Media,Disorder,acute,worrisome,medium,1.0,1.0,0.1,1.0,1.0,0.25,0.1,0.1,0.1,0.1
+312081001,Use of contraceptive (IUD),Misc,medical_history,opd_managed,rare,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+3123,H/O throat surgery,Procedure,medical_history,worrisome,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+3135009,Otitis externa (swimmers ears),Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.25,0.75,1.0,0.9,0.25,0.25,0.25,0.25
+31384009,Polymyositis,Disorder,chronic,worrisome,rare,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+31681005,Trigeminal neuralgia,Disorder,acute_that_may_turn_chronic,worrisome,low,0.75,1.0,0.1,0.1,0.1,0.1,0.5,0.5,0.9,1.0
+3199001,Sprained shoulder,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3215,H/O Major surgery,Procedure,medical_history,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3238004,Pericarditis,Disorder,acute,emergency,low,1.0,1.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,1.0
+32398004,Bronchitis,Disorder,chronic_with_acute_aggravation,worrisome,high,1.0,1.0,1.0,1.0,0.9,0.9,0.9,0.9,1.0,1.0
+32861005,Erythema nodosum,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.5,0.5,0.5,0.5,1.0,1.0,1.0,1.0
+32914008,Restless Leg Syndrome,Disorder,acute_that_may_turn_chronic,worrisome,rare,0.9,1.0,0.0,0.0,0.1,0.5,0.75,0.75,1.0,1.0
+33261009,Tonsil abscess,Disorder,acute,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+33528003,Myringitis bullosa,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.5,0.5,0.5
+33586001,Prolonged sitting,Lifestyle,lifestyle,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+33595009,Arachnoid cyst,Disorder,acute,emergency,rare,1.0,0.75,0.1,0.1,0.75,1.0,1.0,0.25,0.25,0.25
+33659008,Keloid scar,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.5,0.9,0.9,1.0,0.75,0.75
+33737001,Rib fracture,Disorder,Injury,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+33839006,Genital Herpes,Disorder,acute,opd_managed,high,1.0,0.9,0.25,0.25,0.5,0.75,1.0,1.0,1.0,0.75
+34000006,Crohn's Disease,Disorder,chronic,worrisome,medium,0.9,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+34014006,Viral disease,Disorder,acute,worrisome,very_high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+341000119102,Tattoos,Misc,lifestyle,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+34129005,Perichondritis of pinna,Disorder,acute,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34486009,Hyperthyroidism,Disorder,chronic,opd_managed,medium,0.75,1.0,0.1,0.1,0.1,0.25,1.0,1.0,0.9,0.75
+34571000,Anovulation,Disorder,acute,opd_managed,high,0.0,1.0,0.0,0.0,0.0,1.0,0.25,0.25,1.0,0.1
+34713006,Vitamin D Deficiency,Disorder,acute,opd_managed,high,1.0,1.0,0.1,0.9,0.75,0.25,0.5,0.5,1.0,0.5
+34742003,Portal hypertension,Disorder,chronic_with_acute_aggravation,emergency,low,1.0,1.0,0.25,0.25,0.25,0.25,0.25,1.0,1.0,1.0
+34801009,Ectopic Pregnancy,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+3502005,Cervical lymphadenitis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,1.0,0.75,0.5,0.25,0.25,0.25,0.5
+35240004,Iron deficiency,Misc,acute_that_may_turn_chronic,opd_managed,high,0.75,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+35386004,Cavernous sinus thrombosis,Disorder,acute,emergency,rare,1.0,1.0,0.0,0.25,0.9,0.9,1.0,0.9,0.9,0.9
+35489007,Depression,Disorder,chronic_with_acute_aggravation,emergency,medium,0.5,1.0,0.0,0.1,0.25,0.5,0.75,0.9,1.0,0.75
+359837005,Ulnar nerve neuropathy,Disorder,acute,emergency,low,1.0,1.0,0.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0
+35984006,Pott's paraplegia,Disorder,chronic,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+360450007,Cervical strain,Disorder,acute,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+36083008,Carotid sinus syndrome,Disorder,acute,emergency,low,1.0,1.0,0.0,0.0,0.1,0.1,0.25,0.5,1.0,1.0
+361055000,Substance abuser,Lifestyle,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+36209000,Melasma,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+363354003,Cervical cancer,Disorder,chronic,emergency,medium,0.0,1.0,0.0,0.0,0.0,0.1,0.25,0.75,1.0,1.0
+363508008,Intestinal cancer,Disorder,medical_history,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+363732003,Addison's Disease,Disorder,chronic,worrisome,rare,1.0,1.0,0.0,0.1,0.1,0.25,0.5,1.0,1.0,0.5
+36521000,Missed period,Misc,medical_history,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+368009,Valvular heart disease,Disorder,chronic,emergency,medium,1.0,1.0,0.5,0.5,0.5,0.5,0.5,0.25,0.75,1.0
+36813001,Placenta previa,Disorder,acute,emergency,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+36971009,Sinusitis,Disorder,acute_that_may_turn_chronic,opd_managed,very_high,1.0,1.0,0.0,0.0,0.1,1.0,1.0,1.0,1.0,1.0
+36976004,Hypoparathyroidism,Disorder,chronic,worrisome,rare,0.9,1.0,0.1,0.1,0.1,0.25,0.75,0.9,1.0,1.0
+36989005,Mumps,Disorder,acute,opd_managed,medium,1.0,1.0,0.75,1.0,1.0,0.9,0.9,0.9,0.75,0.75
+370388006,Immunocompromised,Misc,medical_history,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+370977006,Frostbite,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+371081002,Arthritis of knee,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+371087003,Diabetic Foot Ulcer,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.75,1.0,1.0
+37151006,Erythromelalgia,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3723001,Arthritis,Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+3734,Exposure to pesticide,Misc,medical_history,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+37340000,Motor Neuron Disease,Disorder,chronic,emergency,low,1.0,1.0,0.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0
+37372002,Upper GI Bleeding,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.5,1.0,1.0
+3738000,Viral Hepatitis,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.9,0.9,1.0,1.0,1.0,1.0,1.0,1.0
+37785001,Patellar tendonitis,Disorder,acute,opd_managed,low,1.0,1.0,0.0,0.1,0.25,1.0,1.0,1.0,0.25,0.25
+37796009,Migraine,Disorder,acute_that_may_turn_chronic,opd_managed,very_high,0.75,1.0,0.0,0.0,0.1,0.5,1.0,1.0,0.5,0.25
+37869000,Chilblains,Disorder,acute,emergency,rare,0.9,1.0,0.1,1.0,1.0,1.0,0.75,0.75,0.75,1.0
+38101003,Hypermetropia,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.75,0.5,0.25,0.1,0.1,0.5,1.0
+38341003,Hypertension,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.1,0.1,0.25,0.75,1.0,1.0
+38362002,Dengue fever,Disorder,acute,worrisome,high,1.0,1.0,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+38481006,Disorder of kidney due to hypertension,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.1,0.25,0.25,0.25,0.75,1.0
+385093006,Community Acquired Pneumonia (Adults),Disorder,acute,emergency,high,1.0,0.9,0.0,0.0,0.0,0.0,0.25,0.5,0.75,1.0
+386584007,Adrenal insufficiency,Disorder,chronic_with_acute_aggravation,emergency,rare,1.0,1.0,0.0,0.1,0.1,0.25,0.5,1.0,1.0,0.5
+3868,Kennedy's disease,Disorder,chronic,emergency,rare,1.0,0.1,0.0,0.1,0.1,0.75,0.75,1.0,1.0,0.75
+387800004,Cervical Spondylosis,Disorder,acute_that_may_turn_chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.9,1.0,1.0
+38804009,Turner's Syndrome,Disorder,chronic,worrisome,rare,0.0,1.0,0.25,0.5,1.0,1.0,1.0,1.0,1.0,1.0
+38822007,Cystitis,Disorder,acute,opd_managed,high,0.75,1.0,0.0,0.5,0.25,0.25,1.0,1.0,1.0,1.0
+38907003,Varicella Infection,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+39450006,Senile cataract (disorder),Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0
+394877006,Family history of Alzheimer's disease,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+396232000,Inguinal Hernia,Disorder,chronic,worrisome,medium,1.0,0.75,0.75,0.75,0.5,0.5,0.5,1.0,1.0,1.0
+396234004,Infectious arthritis,Disorder,acute_that_may_turn_chronic,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+396275006,Osteoarthritis,Disorder,chronic,worrisome,medium,0.9,1.0,0.0,0.0,0.0,0.0,0.1,0.75,0.9,1.0
+396285007,Bronchopneumonia,Disorder,acute,emergency,medium,1.0,1.0,0.9,1.0,0.5,0.25,0.25,0.25,0.75,1.0
+397430003,Diphtheria,Disorder,acute,emergency,medium,1.0,1.0,0.9,1.0,1.0,1.0,0.5,0.25,0.1,0.1
+397758007,Avascular necrosis,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+397825006,Gastric ulcer,Disorder,chronic_with_acute_aggravation,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0,1.0
+397827003,Growth hormone deficiency,Disorder,chronic,worrisome,rare,1.0,1.0,0.1,0.1,1.0,1.0,1.0,1.0,1.0,1.0
+397847006,Family bereavement,Misc,Event,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+398057008,Tension Headache,Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,0.9,0.0,0.0,0.1,0.5,0.75,1.0,1.0,0.75
+39812007,Forearm contusion,Disorder,Injury,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+398254007,Pre eclampsia,Disorder,acute,worrisome,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+398565003,Botulism,Disorder,acute,emergency,rare,1.0,1.0,1.0,0.9,0.75,0.75,0.75,0.75,0.5,0.5
+398665005,Reflex syncope,Disorder,acute,emergency,medium,0.5,1.0,0.0,0.0,0.25,1.0,1.0,1.0,1.0,1.0
+398760006,Abducens nerve palsy,Disorder,acute_that_may_turn_chronic,emergency,rare,1.0,1.0,0.25,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+399029005,Tinea cruris (jock itch),Disorder,acute,opd_managed,high,1.0,0.75,0.0,0.0,0.1,0.75,0.9,1.0,0.9,0.75
+399068003,Prostate cancer,Disorder,chronic,emergency,low,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.75,1.0
+399114005,Frozen shoulder,Disorder,chronic_with_acute_aggravation,opd_managed,medium,0.75,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.75,1.0
+399183005,Bullous impetigo,Disorder,acute,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+399329002,Tinea barbae,Disorder,acute,opd_managed,medium,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+399882002,Cystic hygroma,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,0.5,0.0,0.0,0.0,0.0,0.0
+400044004,Injury to skin,Disorder,medical_history,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+400047006,Peripheral vascular disease,Disorder,chronic,worrisome,medium,1.0,0.9,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+400097005,Ingrown nail,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.1,0.25,1.0,1.0,1.0,1.0,1.0
+400200009,Ingrown toenail,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+400201008,Dandruff,Disorder,acute,worrisome,very_high,1.0,0.9,0.9,1.0,0.5,1.0,0.75,0.9,0.9,0.5
+40070004,Molluscum Contagiosum,Disorder,acute,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.9,0.0,0.0
+401007007,Chronic eye rubbing,Misc,Event,opd_managed,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+40108008,Thalassemia,Disorder,chronic,worrisome,low,1.0,1.0,0.1,0.75,1.0,1.0,0.75,0.75,0.5,0.25
+402134005,Tinea unguium (Onchomycosis or fungal infections of nails),Disorder,chronic,opd_managed,medium,1.0,0.9,0.0,0.1,0.25,0.5,0.75,0.75,1.0,0.9
+402222007,Pompholyx,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.1,0.25,0.25,1.0,1.0,0.75,0.5
+40257000,Shoulder contusion,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+402599005,Acanthosis Nigricans,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+4032,Massage after injury,Misc,medical_history,worrisome,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+40537000,Exposure to cold,Misc,Event,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+405737000,Pharyngitis,Disorder,acute,opd_managed,very_high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+408335007,Autoimmune hepatitis,Disorder,chronic,worrisome,low,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9
+40930008,Hypothyroidism,Disorder,chronic,worrisome,high,0.75,1.0,0.1,0.1,0.1,0.75,1.0,1.0,0.9,0.9
+40956001,Gullain-Barre syndrome,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,1.0,0.1,0.25,0.5,1.0,1.0,0.9,1.0,1.0
+40979000,Lack of exercise,Lifestyle,lifestyle,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+41256004,Presbyopia (disorder),Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0
+412783008,FH PCOS,FamilyHistory,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+41309000,Alchoholic liver disease,Disorder,chronic,emergency,high,1.0,1.0,0.0,0.0,0.0,0.0,0.5,1.0,1.0,0.9
+4133,Swing a child by hands or arms,Misc,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+414033006,Rotator Cuff Syndrome,Disorder,acute,opd_managed,medium,1.0,0.9,0.0,0.1,0.1,0.1,0.5,0.9,1.0,1.0
+414205003,FH Prostate cancer,FamilyHistory,medical_history,opd_managed,low,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+414293001,Tibiofibular fracture,Disorder,Injury,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+414916001,Obesity,Disorder,lifestyle,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+414941008,Onychomycosis (disorder),Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.1,0.9,1.0,1.0,1.0
+415105001,Abruptio Placenta,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+415692008,Bunion,Disorder,acute,opd_managed,low,0.75,1.0,0.0,0.0,0.1,0.1,0.5,1.0,1.0,1.0
+416675009,Furuncle,Disorder,acute,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+416893007,Carbuncle,Disorder,acute,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+417076003,Shoulder dislocation,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+417109008,Pulled elbow,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+417357006,Sickle cell anaemia,Disorder,chronic,emergency,low,1.0,0.1,0.5,0.75,1.0,1.0,1.0,0.5,0.25,0.25
+417558002,Elbow dislocation,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+418019003,H/O Trauma,Disorder,Event,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+418186002,Pellagra,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+418470004,Porphyria,Disorder,chronic,worrisome,rare,0.75,1.0,0.0,0.5,0.5,0.5,1.0,1.0,0.5,0.5
+418715001,Exposure to allergen,Allergy,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+419760006,Bacterial vaginosis,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+419893006,Epidermoid cyst (Sebaceous cyst),Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.25,0.5,1.0,0.75,0.25
+420008001,recent history of travel,Misc,Event,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+420422005,Diabetic Ketoacidosis,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.0,0.25,0.25,0.25,0.25,1.0,1.0
+422290000,allergic disorder of skin,Misc,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+42273000,oily skin,Misc,medical_history,opd_managed,very_high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+42343007,Congestive heart failure,Disorder,chronic,worrisome,medium,1.0,1.0,0.25,0.25,0.25,0.25,0.25,0.75,0.9,1.0
+423859003,Crowded living conditions,Misc,lifestyle,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4256,FH Parasomnia,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+425852005,Malunion,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+426174008,chronic stress,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+426965005,Aphthous ulcer,Disorder,acute,opd_managed,high,1.0,1.0,0.25,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+429513001,Achilles tendon rupture,Disorder,Injury,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+429740004,Family history of breast cancer,FamilyHistory,medical_history,worrisome,low,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+429964008,FH Irritible bowel syndrome,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+430089002,FH Hyperthyroidism,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+430552005,FH Benign Prostatic Hyperplasia,FamilyHistory,medical_history,opd_managed,medium,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+430678008,FH diabetes mellitus type 1,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+430727006,FH Amyotrophic lateral sclerosis,FamilyHistory,medical_history,opd_managed,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+43116000,Eczema,Disorder,acute_that_may_turn_chronic,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+433306000,FH anorexia nervosa,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+43548008,Mittelschmerz Syndrome,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.5,1.0,1.0,0.25,0.1
+43763009,Glossopharyngeal neuralgia,Disorder,acute,worrisome,rare,0.9,1.0,0.1,0.1,0.25,0.25,0.25,1.0,1.0,1.0
+43891009,Whitlow,Disorder,acute,opd_managed,rare,1.0,1.0,0.9,1.0,0.75,0.75,1.0,1.0,0.75,0.75
+439053001,Urinary catheter in situ,Procedure,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+439420004,Uncircumcised,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+439750006,F/H Hearing loss,FamilyHistory,medical_history,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+440381005,Inadequate sunlight exposure,Lifestyle,lifestyle,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+440491000124109,Excessive caffeine intake,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+44054006,Diabetes Type 2,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.25,0.75,1.0,1.0
+44062003,Early menarche,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+442130003,Elbow strain,Disorder,lifestyle,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+443720007,F/H Scleroderma,FamilyHistory,medical_history,worrisome,low,0.75,1.0,0.0,0.0,0.0,0.75,0.9,1.0,1.0,0.9
+443798008,Arthritis of shoulder,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+444158007,Cruciate ligament injury,Disorder,acute,emergency,medium,0.9,1.0,0.1,0.25,0.5,1.0,1.0,1.0,0.75,0.75
+444248002,Chronic uveitis,Disorder,chronic,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+44465007,Ankle sprain,Disorder,Injury,opd_managed,medium,1.0,1.0,0.0,0.75,0.75,1.0,1.0,1.0,1.0,1.0
+445008009,Ganglion cysts,Disorder,acute,worrisome,low,0.75,1.0,0.0,0.0,0.1,0.5,1.0,1.0,0.5,0.5
+44551007,Myositis ossificans,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+44653001,Erysipelas,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+447330002,Abdomen TB,Disorder,chronic,worrisome,low,1.0,1.0,0.9,0.9,0.9,0.9,1.0,1.0,1.0,0.9
+44801007,Hip contusion,Disorder,Injury,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+448589005,Arthritis of hand,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+449097000,Toxic thyroid adenoma,Disorder,acute,emergency,low,0.5,1.0,0.0,0.1,0.1,0.5,1.0,1.0,0.75,0.5
+449826002,Phimosis,Disorder,acute,opd_managed,low,1.0,0.0,0.9,0.5,0.25,0.25,0.25,0.5,0.5,0.5
+44991000119100,Dysfunctional uterine bleeding,Disorder,chronic,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.5,0.5,1.0,1.0,0.5
+4556007,Gastritis,Disorder,acute_that_may_turn_chronic,opd_managed,very_high,1.0,1.0,0.0,0.0,0.0,0.1,0.9,1.0,1.0,1.0
+45613006,Lower leg contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+45913009,Laryngitis,Disorder,acute,worrisome,medium,1.0,1.0,0.0,0.5,0.75,0.75,1.0,1.0,1.0,1.0
+4598005,Osteomalacia,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.1,0.25,0.25,0.25,1.0,1.0,1.0
+46090001,Balanoposthitis,Disorder,acute,emergency,low,1.0,0.0,0.5,1.0,1.0,1.0,0.9,0.9,0.75,0.75
+46635009,Diabetes mellitus type 1,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.5,1.0,1.0,0.9,0.75,0.25,0.1
+46659004,Von Hippel Lindau Disease,Disorder,chronic,worrisome,rare,1.0,1.0,0.1,0.1,0.1,0.25,1.0,0.9,0.5,0.25
+47270006,Cushing's Syndrome,Disorder,chronic,worrisome,low,0.9,1.0,0.0,0.1,0.25,0.25,0.25,1.0,1.0,0.25
+472969004,H/O Diabetes mellitus type 2,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+472970003,H/O Diabetes mellitus Type 1,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+47382004,Tinea,Disorder,acute,opd_managed,medium,1.0,0.9,0.0,0.75,0.9,0.9,0.9,1.0,1.0,0.9
+4740000,Zoster/Shingles,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.75,0.75,1.0,1.0
+47639008,Pilonidal Cyst,Disorder,acute,opd_managed,medium,1.0,0.9,0.1,0.1,0.25,1.0,1.0,0.5,0.1,0.1
+4776004,Lichen planus,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+48277006,Impetigo,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4834000,Typhoid fever,Disorder,acute,worrisome,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+48723006,Male hypogonadism,Disorder,chronic,worrisome,rare,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+48971001,Tinea Manuum,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+49049000,Parkinson's Disease,Disorder,chronic,opd_managed,low,1.0,0.75,0.0,0.0,0.0,0.0,0.0,0.1,0.5,1.0
+4927003,Acute uveitis,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+49420001,Pemphigus vulgaris,Disorder,chronic,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0
+49526009,Presbycusis,Disorder,chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.9,1.0
+49882001,Viral Exanthem,Disorder,acute,opd_managed,very_high,1.0,1.0,1.0,1.0,1.0,1.0,0.75,0.5,0.5,0.5
+50448004,Fracture of vertebra,Disorder,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+50563003,Seborrheic dermatitis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+51037009,Patella fracture,Disorder,Injury,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+51070004,Varicocele,Disorder,acute,worrisome,low,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.9,0.5,0.0
+51523009,Laryngocele,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+52011008,Injury of finger,Misc,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+52254009,Nephrotic Syndrome,Disorder,chronic,worrisome,medium,1.0,1.0,0.1,1.0,0.75,0.5,0.1,0.1,0.25,0.25
+52404001,Mastoiditis,Disorder,acute,worrisome,low,1.0,1.0,0.9,1.0,1.0,0.75,0.25,0.1,0.1,0.1
+52441000,Atrophic Vaginitis,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.1,0.9,1.0
+52448006,Dementia,Disorder,chronic,emergency,medium,1.0,1.0,0.0,0.0,0.1,0.1,0.1,0.1,0.5,1.0
+52526003,Sweating more than normal,Misc,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5291005,Hypocalcaemia,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,0.75,0.75,0.75,1.0,1.0,1.0
+52947006,Japanese Encephalitis,Disorder,acute,worrisome,medium,1.0,0.9,0.9,1.0,1.0,0.5,0.25,0.25,0.25,0.25
+53165003,Megaloblastic anaemia,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.1,1.0,1.0,1.0,0.5,0.5
+53226007,Flat foot,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+53286005,Medial epicondylitis,Disorder,acute,worrisome,high,1.0,1.0,0.0,0.0,0.1,0.1,0.5,1.0,1.0,1.0
+53316003,Otomycosis,Disorder,acute,worrisome,low,1.0,1.0,0.0,0.1,0.25,0.25,1.0,1.0,0.5,0.5
+54048003,Threatened Abortion,Disorder,acute,emergency,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.1,0.0
+54150009,Upper respiratory infection,Disorder,acute,opd_managed,very_high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5441008,Tinea capitis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.1,1.0,0.9,0.5,0.1,0.0,0.0,0.0
+54888009,Sprained knee,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+55260003,Heel spur,Disorder,acute,worrisome,low,1.0,1.0,0.0,0.0,0.1,0.1,0.1,0.75,1.0,1.0
+55464009,Systemic Lupus Erythematosus,Disorder,chronic,emergency,low,0.75,1.0,0.0,0.0,0.1,0.9,1.0,1.0,0.9,0.25
+56317004,Alopecia,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.25,0.5,0.75,0.75,1.0,1.0
+5662003,Wrist and hand contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+56727007,Vitiligo,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0,0.25
+56882008,Anorexia nervosa,Disorder,chronic,opd_managed,low,0.9,1.0,0.0,0.0,0.25,1.0,0.75,0.5,0.1,0.1
+57019003,Viral warts,Disorder,acute,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+57044006,Bartholin's Cyst,Disorder,acute,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.25,0.1
+57054005,Acute myocardial infarction,Disorder,acute,emergency,high,1.0,1.0,0.0,0.0,0.0,0.1,0.25,0.9,1.0,1.0
+57190000,Myopia (disorder),Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.1,0.9,1.0,0.9,0.75,0.5,0.5
+57406009,Carpal tunnel syndrome,Disorder,chronic_with_acute_aggravation,worrisome,low,1.0,1.0,0.0,0.0,0.1,0.5,1.0,1.0,0.9,0.9
+58075000,Toe contusion,Disorder,Injury,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+58150001,Clavicle fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+58381000,Hypersplenism,Disorder,acute,emergency,low,1.0,1.0,0.1,0.1,0.5,0.5,0.75,0.75,1.0,1.0
+58690002,Parasomnias,Disorder,chronic,opd_managed,medium,1.0,1.0,0.1,0.1,1.0,1.0,0.9,0.75,0.75,0.5
+58703003,Post partum depression,Disorder,acute,emergency,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+58756001,Huntingtons disease,Disorder,chronic,worrisome,rare,1.0,1.0,0.1,0.1,0.1,0.25,0.25,1.0,1.0,0.1
+58851004,Cryptomenorrhea,Disorder,chronic,emergency,rare,0.0,1.0,0.25,0.1,0.75,1.0,0.5,0.1,0.0,0.0
+5887,Prolonged kneeling,Misc,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+59051007,Cysticercosis,Disorder,acute,emergency,rare,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+59282003,Pulmonary Embolism,Disorder,acute,emergency,low,1.0,1.0,0.1,0.1,0.1,0.25,0.5,0.75,1.0,1.0
+60046008,Pleural Effusion,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.1,0.25,0.25,1.0,1.0,0.75,0.75
+6020002,Tinea pedis (athelete's feet),Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,0.75,0.0,0.1,0.1,0.1,0.5,0.75,1.0,0.9
+60380001,Narcolepsy,Disorder,chronic,worrisome,low,1.0,1.0,0.1,0.25,0.25,1.0,0.5,0.9,0.5,0.5
+60404007,Cerebral Abscess,Disorder,acute,emergency,medium,1.0,1.0,0.5,0.5,0.75,1.0,1.0,1.0,0.25,0.25
+61170000,Stomatitis (canker sores or recurrent aphthous ulcers),Disorder,acute,opd_managed,high,1.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,1.0,1.0
+6124,Pull a child up by hands or arms,Misc,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+61462000,Malaria,Disorder,acute,worrisome,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+61530001,Multiple Endocrine Neoplasia 2B (MEN 2B),Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.25,0.25,0.25,1.0,1.0,1.0,1.0
+61582004,Allergic rhinitis,Disorder,acute_that_may_turn_chronic,opd_managed,high,0.9,1.0,0.1,0.25,0.5,0.75,1.0,0.75,0.5,0.1
+63375009,Brodie's abscess,Disorder,acute,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+64109004,Costochondritis,Disorder,acute,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.25,1.0,1.0,1.0,1.0
+64766004,Ulcerative Colitis,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.1,0.25,1.0,1.0,0.5,0.9,1.0
+64859006,Osteoporosis,Disorder,chronic,opd_managed,medium,0.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.0
+65021000119105,F/H Neurofibromatosis,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.1,0.1,0.5,1.0,1.0,0.5,0.5
+65275009,Acute cholecystitis,Disorder,acute,emergency,medium,0.9,1.0,0.0,0.0,0.1,0.25,1.0,1.0,1.0,0.9
+65363002,Otitis media,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,1.0,1.0,0.25,0.1,0.1,0.1,0.1,0.1
+65619001,Rectovaginal fistula,Disorder,acute_that_may_turn_chronic,emergency,rare,0.0,1.0,0.1,0.1,0.1,0.1,0.9,1.0,1.0,0.75
+65636009,Keratoconus,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+65759007,Injury of mouth,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+65966004,Forearm bones fracture,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+66264000,Todd's paralysis,Disorder,acute,emergency,low,1.0,1.0,0.1,0.1,0.75,0.5,0.5,0.5,1.0,1.0
+66308002,Humerus fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+66931009,Hypercalcemia,Disorder,acute,opd_managed,low,1.0,1.0,0.5,0.5,0.75,1.0,1.0,1.0,1.0,1.0
+66999008,Hyperparathyroidism,Disorder,medical_history,emergency,rare,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+6727,FH Acanthosis Nigricans,FamilyHistory,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+67624004,Bartholin's Abscess,Disorder,acute,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.25,0.1
+68142008,Arm contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+68225006,Alopecia areata,Disorder,chronic,opd_managed,low,1.0,1.0,0.0,0.1,0.25,0.5,0.75,1.0,0.75,0.5
+68267002,Idiopathic intracranial hypertension,Disorder,chronic,emergency,low,1.0,1.0,0.0,0.1,0.1,0.1,0.5,1.0,1.0,0.75
+6836001,Brachial plexus injury,Misc,lifestyle,emergency,high,1.0,1.0,0.25,0.75,0.75,1.0,1.0,1.0,0.75,0.75
+68449006,Arthritis of hip,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+68566005,UTI (Urinary tract infectious disease),Disorder,acute,opd_managed,very_high,0.75,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+68675004,Degenerative disc disease of the thoracic spine,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0
+68859000,Spinal osteoarthritis,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+691501000119103,H/O Gastritis,Disorder,chronic,opd_managed,high,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+69195002,Degenerative disc disease of the cervical spine,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.1,0.1,0.1,0.25,1.0,1.0,1.0
+69776003,Acute gastroenteritis,Disorder,acute,opd_managed,high,1.0,1.0,0.75,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+69787006,Finger contusion,Disorder,Injury,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+698247007,Arrhythmia,Disorder,chronic,emergency,medium,1.0,1.0,0.75,0.75,0.75,0.75,0.75,0.75,1.0,1.0
+698456001,On Antidepressants,Misc,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+69896004,Rheumatoid arthritis,Disorder,chronic_with_acute_aggravation,worrisome,medium,1.0,1.0,0.0,0.0,0.1,0.5,0.75,1.0,1.0,0.9
+699302001,Arthritis of lower back,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.9,1.0
+70020005,Adenoiditis,Disorder,acute,emergency,medium,1.0,1.0,0.0,0.75,1.0,0.5,0.1,0.1,0.0,0.0
+70153002,Hemorrhoids,Disorder,acute_that_may_turn_chronic,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.25,0.25,0.75,1.0,1.0
+702565001,non complaince of drug therapy,Misc,medical_history,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+703885002,Overuse of analgesics,Lifestyle,lifestyle,emergency,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+70650003,Bladder Calculus,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,0.9,0.0,0.5,0.75,0.1,0.1,0.75,1.0,1.0
+70704007,Sprained wrist,Disorder,Injury,opd_managed,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+70736000,Osteochondritis,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+708000007,Insulin treatment stopped,Misc,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+709044004,Chronic Kidney Disease,Disorder,chronic,worrisome,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.5,0.5,0.75,1.0
+71186008,Croup (Laryngotracheobronchitis),Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.9,1.0,0.5,0.25,0.1,0.1,0.1,0.1
+713404003,Taken a vaccine,Procedure,Event,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+713651007,H/O Abortion,Procedure,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+715192004,Achalasia,Disorder,chronic,emergency,rare,1.0,1.0,0.0,0.1,0.1,0.25,1.0,1.0,1.0,0.9
+71620000,Femur fracture,Disorder,Injury,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+71760005,Occipital neuralgia,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.1,0.1,0.1,0.25,0.5,0.75,1.0,1.0
+717855001,On amiodarone treatment,Misc,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+7180009,Meningitis,Disorder,acute,emergency,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+72000004,Vitamin A Deficiency,Disorder,acute,opd_managed,medium,1.0,1.0,0.9,1.0,0.75,0.75,0.75,0.5,0.5,0.25
+721188000,Multiple Endocrine Neoplasia 2A (MEN 2A),Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.25,0.25,0.25,1.0,1.0,1.0,1.0
+721764008,Poliomyelitis,Disorder,chronic,emergency,rare,1.0,1.0,0.5,1.0,1.0,0.25,0.1,0.1,0.1,0.1
+723881000,Habitual snoring,Misc,medical_history,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+72535009,Cervical Rib,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+725924008,H/O Placenta previa,Disorder,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+72779005,Fistula in Ano,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,0.9,0.1,0.1,0.1,0.1,0.1,0.5,1.0,0.5
+72934000,Vaginal Candidiasis,Disorder,acute,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.25,0.5,1.0,1.0,1.0
+73297009,Muscular dystrophy,Disorder,chronic,emergency,rare,1.0,0.1,0.0,0.0,0.75,1.0,1.0,0.25,0.25,0.25
+73452002,Lung Abscess,Disorder,acute,emergency,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.75,1.0,1.0,1.0
+735476006,Genitourinary fistula,Disorder,acute_that_may_turn_chronic,emergency,low,0.1,1.0,0.1,0.1,0.1,0.25,0.9,1.0,1.0,0.75
+73589001,prolapsed intervertebral disc (PIVD),Disorder,chronic,worrisome,high,1.0,0.75,0.0,0.0,0.0,0.1,0.25,0.75,1.0,1.0
+73692007,Fixed drug eruptions,Disorder,acute,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7387,FH Dermatitis Herpetiformis,FamilyHistory,chronic,opd_managed,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+74107003,Acromegaly,Disorder,chronic,opd_managed,rare,1.0,1.0,0.1,0.1,0.75,0.75,0.75,1.0,1.0,0.25
+74351001,Reye's syndrome,Disorder,acute,emergency,rare,1.0,1.0,0.1,0.5,1.0,1.0,0.25,0.1,0.1,0.1
+74400008,Appendicitis,Disorder,acute_that_may_turn_chronic,emergency,medium,1.0,1.0,0.1,0.5,1.0,1.0,1.0,0.5,0.25,0.1
+7461,FH Lipoma,FamilyHistory,medical_history,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+74699008,Foreign body in nose,Disorder,acute,opd_managed,medium,1.0,1.0,0.1,1.0,0.25,0.1,0.1,0.1,0.1,0.1
+74728003,Hypopituitarism,Disorder,chronic,worrisome,rare,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+74814004,Foot contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+75119003,Amoebic liver abscess,Disorder,acute,worrisome,medium,1.0,0.75,0.0,0.0,0.1,0.25,0.5,1.0,1.0,0.5
+7523003,Injury of thigh,Misc,Injury,worrisome,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+75258004,Food poisoning,Disorder,Event,opd_managed,very_high,1.0,1.0,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+75441006,Foreign body in ear,Disorder,acute,opd_managed,low,1.0,1.0,0.1,1.0,0.25,0.1,0.1,0.1,0.1,0.1
+76272004,Syphilis,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,0.9,0.1,0.0,0.0,0.25,1.0,1.0,0.9,0.9
+76498008,Postmenopause,Misc,Event,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.9,1.0
+76618002,Urethral stricture,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,0.25,0.1,0.1,0.1,0.25,0.25,1.0,1.0,1.0
+76627001,Mucormycosis,Disorder,acute,emergency,low,1.0,1.0,0.1,0.5,0.5,0.9,0.9,0.9,1.0,1.0
+77090002,Bullous Pemphigoid,Disorder,chronic_with_acute_aggravation,worrisome,low,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+771258003,Tick bite,Misc,Event,opd_managed,rare,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+77176002,Current smoker,Lifestyle,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+77377001,Leptospirosis,Disorder,acute,worrisome,medium,1.0,1.0,0.1,0.1,0.1,0.1,0.5,1.0,1.0,0.75
+77386006,Pregnant,Disorder,Event,opd_managed,low,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+77489003,Pterygium,Disorder,chronic,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+77971008,Iridocyclitis,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+78048006,Candidiasis,Disorder,acute,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+78146007,Pretibial myxodema,Disorder,acute,opd_managed,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+78275009,Obstructive sleep apnea,Disorder,chronic,emergency,medium,1.0,0.75,0.0,0.1,0.25,0.5,0.75,0.9,1.0,1.0
+782957005,Ichthyosis,Disorder,chronic,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+78569004,Lateral medullary syndrome,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.25,1.0,1.0
+78737005,Frontal Sinusitis,Disorder,acute,opd_managed,high,0.9,1.0,0.0,0.0,0.1,0.75,0.9,0.9,1.0,0.9
+792004,Jakob-Creutzfeldt disease,Disorder,chronic,emergency,rare,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.25,0.75,1.0
+79740000,Oral candidiasis,Disorder,acute,opd_managed,medium,1.0,1.0,1.0,0.75,1.0,1.0,1.0,1.0,1.0,1.0
+79883001,Ovarian cyst,Disorder,acute,worrisome,medium,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+79962008,Diffuse oesophageal spasm,Disorder,chronic_with_acute_aggravation,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+80327007,Acute otitis media (serous otitis media),Disorder,acute,opd_managed,medium,1.0,0.9,0.9,1.0,0.75,0.5,0.25,0.0,0.1,0.1
+80384002,Epiglottitis,Disorder,acute,worrisome,medium,1.0,1.0,0.1,1.0,0.5,0.25,0.25,0.25,0.75,0.75
+81004002,Leprosy,Disorder,chronic,worrisome,medium,1.0,0.75,0.0,0.0,0.1,0.5,0.9,1.0,0.75,0.75
+81060008,Intestinal Obstruction,Disorder,acute_that_may_turn_chronic,emergency,low,1.0,0.9,0.75,0.5,0.25,0.25,0.25,0.5,1.0,1.0
+815008,Episcleritis,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+817001000,Wearing inappropriate footwear,Misc,medical_history,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+82271004,Injury of head,Misc,acute,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+82272006,Acute rhinitis,Disorder,acute,opd_managed,very_high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8229003,Vasomotor Rhinitis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+82576008,Foreign body in eye,Disorder,Event,opd_managed,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+82639001,Premenstrual syndrome,Disorder,acute,opd_managed,high,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.75,0.1
+82649003,Astigmatism,Disorder,chronic,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+827108008,Finger dislocation,Disorder,Injury,emergency,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+82796002,Scrofuloderma,Disorder,chronic,worrisome,low,1.0,1.0,0.1,0.1,1.0,1.0,0.1,0.1,0.1,0.1
+833335001,Wrist dislocation,Disorder,Injury,emergency,medium,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+83482000,Body dysmorphic disorder,Disorder,chronic,opd_managed,low,0.75,1.0,0.0,0.0,0.25,1.0,0.9,0.75,0.25,0.1
+83901003,Sjogren's Syndrome,Disorder,chronic,opd_managed,low,0.75,1.0,0.0,0.0,0.1,0.1,0.1,0.5,0.5,1.0
+84017003,Bursitis,Disorder,acute,worrisome,high,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+840539006,COVID-19,Disorder,acute,emergency,high,1.0,1.0,0.1,0.1,0.5,0.5,1.0,1.0,1.0,1.0
+840580004,Peripheral Artery Disease,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,0.75,0.0,0.0,0.1,0.1,0.1,1.0,1.0,1.0
+84089009,Hiatus hernia,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.75,0.75,1.0,1.0,0.9
+84416003,Thigh contusion,Disorder,Injury,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+84757009,Epilepsy,Disorder,chronic_with_acute_aggravation,emergency,medium,1.0,0.9,1.0,1.0,0.75,0.5,0.5,0.5,0.9,0.9
+84849002,Tinea corporis (ring worm),Disorder,acute,opd_managed,high,1.0,0.9,0.0,0.25,0.5,0.75,0.9,1.0,0.9,0.75
+8510008,On prolonged bed rest,Misc,medical_history,worrisome,rare,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+85777005,Dacrocystitis,Disorder,acute_that_may_turn_chronic,worrisome,low,1.0,1.0,0.5,0.5,0.1,0.1,0.1,0.25,1.0,1.0
+85828009,autoimmune disorder,Disorder,chronic,worrisome,high,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+86044005,Amyotrophic lateral sclerosis,Disorder,chronic,emergency,rare,1.0,0.9,0.0,0.0,0.0,0.0,0.25,0.5,1.0,1.0
+860914002,Erectile Dysfunction,Disorder,chronic,opd_managed,medium,1.0,0.0,0.0,0.0,0.0,0.1,0.5,0.75,1.0,1.0
+86569001,recent childbirth,Misc,medical_history,opd_managed,medium,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+866041003,Breast feeding mother,Misc,medical_history,opd_managed,low,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+87284002,High altitude sickness,Disorder,acute,emergency,low,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+87433001,Emphysema,Disorder,chronic,emergency,medium,1.0,0.75,0.0,0.0,0.0,0.1,0.1,0.25,0.75,1.0
+87522002,Iron deficiency anemia,Disorder,acute_that_may_turn_chronic,opd_managed,high,0.75,1.0,0.1,0.1,0.1,0.9,1.0,1.0,1.0,1.0
+87614000,Pinguecula,Disorder,chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+880109007,inadequate Dietary intake of Vitamin C,Misc,medical_history,opd_managed,high,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+88050005,Haematoma of auricle,Disorder,acute,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+88348008,Maxillary Sinusitis,Disorder,acute_that_may_turn_chronic,opd_managed,medium,1.0,1.0,0.0,0.0,0.1,0.5,0.75,1.0,1.0,0.5
+88518009,Wilson Disease,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,1.0,1.0,1.0,1.0,0.1,0.1
+88616000,Acne vulgaris,Disorder,acute_that_may_turn_chronic,opd_managed,very_high,0.9,1.0,0.0,0.1,0.1,1.0,0.75,0.5,0.25,0.1
+89155008,Scleroderma,Disorder,chronic,opd_managed,low,0.75,1.0,0.0,0.0,0.0,0.75,0.9,1.0,1.0,0.9
+897657000,Chronic sinusitis,Disorder,chronic_with_acute_aggravation,opd_managed,medium,0.9,1.0,0.0,0.0,0.25,0.5,0.9,1.0,0.9,0.75
+89927005,Laryngeal Paralysis,Disorder,chronic,emergency,low,1.0,1.0,0.0,0.0,0.5,1.0,1.0,1.0,1.0,1.0
+9014002,Psoriasis,Disorder,chronic_with_acute_aggravation,worrisome,medium,1.0,1.0,0.0,0.1,0.25,0.5,0.75,1.0,1.0,0.75
+90176007,Tonsillitis,Disorder,acute_that_may_turn_chronic,opd_managed,high,1.0,1.0,0.1,0.5,1.0,0.75,0.25,0.1,0.1,0.1
+90560007,Gout,Disorder,acute_that_may_turn_chronic,worrisome,medium,1.0,0.5,0.0,0.0,0.0,0.1,0.25,0.5,1.0,0.9
+90584004,Spinal cord injury,Misc,acute,emergency,low,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+90708001,Kidney disease,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+9078005,Vocal fold polyps,Disorder,acute,worrisome,low,0.9,1.0,0.0,0.0,0.1,0.1,0.75,1.0,0.9,0.25
+90935002,Hemophilia,Disorder,chronic,worrisome,rare,1.0,0.25,0.5,1.0,0.75,0.25,0.1,0.1,0.1,0.1
+90979004,Chronic tonsillitis,Disorder,chronic_with_acute_aggravation,opd_managed,high,1.0,1.0,0.0,0.25,0.75,1.0,0.5,0.25,0.1,0.0
+91175000,Seizure,Disorder,acute,emergency,medium,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+91514001,Corneal ulcer,Disorder,acute,worrisome,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+91613004,Elbow contusion,Disorder,Injury,opd_managed,medium,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+91637004,Myasthenia gravis,Disorder,chronic,emergency,low,0.75,1.0,0.0,0.1,0.5,0.5,1.0,1.0,1.0,0.75
+9216,F/H Barrets Oesophagus,FamilyHistory,medical_history,worrisome,medium,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+92503002,Neurofibromatosis type 2,Disorder,chronic,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+93163002,Lipoma,Disorder,chronic,opd_managed,medium,0.9,1.0,0.1,0.1,0.1,0.25,0.75,1.0,1.0,1.0
+95239003,Rhinitis medicamentosa,Disorder,acute,opd_managed,low,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+95315005,Fibroid,Disorder,chronic,worrisome,high,0.0,1.0,0.0,0.0,0.0,0.1,0.5,1.0,1.0,0.25
+95453001,Subdural hematoma,Disorder,acute,emergency,medium,1.0,0.9,0.75,0.5,0.5,0.5,0.5,0.5,0.9,1.0
+95570007,Kidney stone,Disorder,acute,worrisome,high,1.0,1.0,0.0,0.0,0.5,0.9,1.0,1.0,1.0,0.75
+95605009,HELLP Syndrome,Disorder,acute,emergency,low,0.0,1.0,0.0,0.0,0.0,0.1,1.0,1.0,0.75,0.1
+95695004,Retinal Degeneration,Disorder,chronic,emergency,low,1.0,1.0,0.1,0.1,0.1,0.1,0.25,0.25,1.0,1.0
+9631008,Ankylosis spondylitis/ Axial Spondyloarthritis,Disorder,chronic_with_acute_aggravation,worrisome,medium,1.0,0.9,0.0,0.0,0.0,0.1,0.25,0.75,1.0,0.75
+9682006,Scapula fracture,Disorder,Injury,worrisome,low,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+9826008,Conjunctivitis (disorder),Disorder,acute,opd_managed,high,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

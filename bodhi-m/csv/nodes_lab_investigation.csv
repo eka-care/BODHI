@@ -1,0 +1,813 @@
+loinc_id,name,display_name,system_map,timespan_problem,impact_problem
+101206-1,Dengue NS1 Antigen,Dengue Fever NS1 Antigen (Immunoassay),Other health issues,week_1,low
+10328-3,,"Lymphocyte Percentage, CSF",Neurological health,month_3,medium
+10334-1,,"CA 125, Serum",Reproductive health,month_3,high
+10378-8,,"Polychromasia, Blood (Presence)",Hematological health,month_3,low
+10501-5,,"Luteinizing Hormone (LH), Serum",Reproductive health,month_1,low
+10535-3,,"Digoxin, Serum",Cardiovascular health,week_1,high
+10835-7,,Lipoprotein A,Cardiovascular health,month_3,medium
+10886-0,,"Free Prostate Specific Antigen (Free PSA), Serum",Reproductive health,month_6,medium
+10921-5,,"Blomia tropicalis IgE, Serum",Immunological health,year_1,low
+10929-8,,"Fennel IgE Antibody, Serum",Immunological health,year_1,low
+10934-8,,"Guava IgE Antibody, Serum",Immunological health,year_1,low
+10948-8,,"Pigeon feathers IgE, Serum",Immunological health,year_1,low
+10959-5,,"Plaice Fish IgE, Serum",Immunological health,year_1,low
+11011-4,,"Hepatitis C Virus (HCV) RNA PCR, Blood (Quantitative)",Gastrointestinal health,year_1,high
+11039-5,C-Reactive Protein (CRP),"C-Reactive Protein (CRP), Serum (Qualitative)",Immunological health,month_3,medium
+11054-4,,LDL Cholesterol / HDL Cholesterol Ratio,Cardiovascular health,month_3,medium
+11060-1,,"Reducing Substances, Stool",Gastrointestinal health,month_6,medium
+11067-6,,BT (Bleeding Time),Hematological health,month_6,medium
+11090-8,,"Anti Smith Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+11173-2,,"Fig IgE Antibody, Serum",Immunological health,year_1,low
+11177-3,,"Lactalbumin Beta IgE, Serum",Immunological health,year_1,low
+11190-6,,"Mint IgE Antibody, Serum",Immunological health,year_1,low
+11193-0,,"Pumpkin Seed IgE Antibody, Serum",Immunological health,year_1,low
+11194-8,,"Rape Pollen IgE, Serum",Immunological health,year_1,low
+11195-5,,"Rapeseed IgE, Serum",Immunological health,year_1,low
+11197-1,,"Sardine (pilchard) IgE Antibody, Serum",Immunological health,year_1,low
+11210-2,,"CA-125, Body Fluid",Reproductive health,month_3,high
+11477-7,Sputum Test for Tuberculosis,Sputum for AFB,Respiratory health,month_3,medium
+11572-5,,"Rheumatoid Factor, Serum (Quantitative)",Immunological health,month_6,medium
+12228-3,,"Triglyceride, Body Fluid",Gastrointestinal health,month_3,medium
+12841-3,,Free PSA / Total PSA ( Free Prostate Specific Ag /Total Prostate Specific Antigen),Renal health,month_6,high
+13037-7,,"C-Peptide, Fasting",Endocrine health,month_3,medium
+13539-2,,"Phosphorus, Spot Urine, (Moles/Volume)",Renal health,month_3,medium
+13653-1,,"Epithelial Cells, Urine (Num/Vol)",Renal health,week_1,low
+13655-6,,"Pus Cells, Stool",Gastrointestinal health,month_1,medium
+13658-0,,"Urobilinogen, Urine",Gastrointestinal health,month_3,medium
+13705-9,,Urine ACR (Urine Albumin / Creatinine Ratio),Renal health,month_3,medium
+13717-4,,"Calcium Creatinine Ratio, 24H Urine",Renal health,month_3,medium
+13801-6,,"Protein Creatinine Ratio, 24H Urine",Renal health,month_3,medium
+13820-6,,"Uric Acid Creatinine Ratio, 24H Urine",Renal health,month_3,medium
+13821-4,,"Urea Nitrogen Creatinine Ratio, 24H Urine",Renal health,month_3,medium
+13926-1,,GAD Antibody Test,Immunological health,year_1,medium
+13945-1,,"RBC, Urine",Renal health,week_1,low
+13965-9,Homocysteine,"Homocysteine, Serum",Cardiovascular health,month_3,medium
+13967-5,,"Sex Hormone Binding Globulin (SHBG), Serum",Reproductive health,month_6,medium
+14035-0,,"Japanese Cedar IgE Antibody, Serum",Immunological health,year_1,low
+14036-8,,"Dermatophagoides microceras IgE, Serum",Immunological health,year_1,low
+14097-0,,"Antimony, 24H Urine (Quantitative)",Other health issues,month_1,medium
+14196-0,,"Reticulocyte, Absolute Count",Hematological health,month_1,medium
+14286-9,,"Free Carnitine, Plasma",Other health issues,month_6,medium
+14567-2,,"11- Deoxycortisol, Serum (Mol/Vol)",Endocrine health,month_3,medium
+14586-2,,"Aldosterone, Serum (Mol/Vol)",Endocrine health,month_3,medium
+14628-2,,"Bile Acid, Serum (Mol/Vol)",Gastrointestinal health,month_3,low
+14629-0,,Bilirubin Direct (Mol/Vol),Gastrointestinal health,month_3,medium
+14630-8,,Bilirubin Indirect (Mol/Vol),Gastrointestinal health,month_3,medium
+14635-7,,"25 - Hydroxy Vitamin D3, Serum",Malnutrition,month_3,low
+14637-3,,"Calcium, 24H Urine, (Moles/Time)",Renal health,month_3,medium
+14665-4,,"Copper, Serum (Mol/Vol)",Gastrointestinal health,month_3,high
+14682-9,Creatinine,"Creatinine, Serum (Mol/Vol)",Renal health,month_3,medium
+14683-7,,"Creatinine, Spot Urine, (Moles/Volume)",Renal health,month_3,medium
+14684-5,,"Creatinine, 24H Urine, (Moles/Time)",Renal health,month_3,medium
+14685-2,,Vitamin B12 (Mol/Vol),Malnutrition,month_3,low
+14723-1,,"Ferritin, Serum (Mol/Vol)",Hematological health,month_6,low
+14732-2,,"Folic Acid, Serum (Moles/Vol)",Malnutrition,month_3,low
+14771-0,,FBS (Fasting Blood Sugar) (Mol/Vol),Endocrine health,stat,medium
+14803-1,,"Lactate Dehydeogenase, Body Fluid",Other health issues,month_3,medium
+14804-9,,LDH (Lactate Dehydrogenase Serum),Hematological health,month_3,medium
+14836-1,,"Methotrexate, Serum",Immunological health,month_1,high
+14905-4,,"Vitamin A (Retinol), Serum (Mol/Vol)",Malnutrition,month_3,low
+14927-8,,Triglycerides (TGs) (Mol/Vol),Cardiovascular health,month_3,medium
+14928-6,,Free T3 (Mol/Vol),Endocrine health,month_3,medium
+14930-2,,Total T3 (Mol/Vol),Endocrine health,month_3,medium
+14935-1,,"Uric Acid, 24H Urine, (Moles/Time)",Renal health,month_3,medium
+14938-5,,"Urea Nitrogen, Spot Urine, (Moles/Volume)",Renal health,month_3,medium
+14955-9,,"Zinc, Serum (Mol/Vol)",Malnutrition,month_6,low
+14956-7,,"Microalbumin, 24H Urine",Renal health,month_3,medium
+14957-5,,Microalbuminuria Test,Renal health,month_3,medium
+14958-3,,"Microalbumin Creatinine Ratio, 24H Urine",Renal health,month_3,medium
+14959-1,,"Microalbumin Creatinine Ratio, Spot Urine",Renal health,month_3,medium
+15067-2,,FSH (Follicle Stimulating Hormone) Test,Reproductive health,month_1,medium
+15069-8,,"Fructosamine, Serum (Mol/Vol)",Endocrine health,month_3,medium
+15076-3,,"Glucose, Urine (Mol/Vol)",Endocrine health,stat,medium
+15198-5,,Macrocytosis RBC,Hematological health,month_3,low
+1521-4,Post meal Blood Sugar,PPBS (Post-Prandial Blood Sugar),Endocrine health,stat,medium
+15279-3,,"Cardamon IgE, Serum",Immunological health,year_1,low
+15283-5,,"Silver Birch IgE, Serum",Immunological health,year_1,low
+15284-3,,"Grey Alder IgE Antibody, Serum",Immunological health,year_1,low
+15432-8,,"Free Testosterone/Total Testosterone, Serum",Endocrine health,month_3,low
+1558-6,Fasting Blood Sugar,"FBS (Fasting Blood Sugar), Plasma",Endocrine health,stat,medium
+16128-1,,"Hepatitis C Total Antibodies, Serum (Qualitative)",Gastrointestinal health,year_1,high
+16137-2,,"Anticentromere Antibody, Serum (Qualitative)",Immunological health,month_6,medium
+1657-6,,"11 Deoxycortisol, Serum",Endocrine health,month_3,medium
+16616-5,,HDL/LDL ratio (HDL Cholesterol/LDL Cholesterol Ratio),Cardiovascular health,month_3,medium
+16650-4,,"Coriander IgE Antibody, Serum",Immunological health,year_1,low
+1668-3,,"17-OH Progesterone, Serum",Endocrine health,month_3,medium
+16935-9,,HBsAb (Hepatitis B Surface Antibody),Gastrointestinal health,lifetime,high
+16936-7,,Hepatitis C IgG Antibody,Gastrointestinal health,year_1,high
+1742-6,Liver Enzyme SGPT,ALT or SGPT (Alanine Aminotransferase),Gastrointestinal health,month_3,medium
+1747-5,,"Albumin, Body Fluid",Other health issues,month_3,medium
+1751-7,Albumin in blood,"Albumin, Serum",Gastrointestinal health,month_3,medium
+17510-9,,"Raisin IgE Antibody, Serum",Immunological health,year_1,low
+1753-3,Albumin in urine,"Albumin, Urine (Presence)",Renal health,month_3,medium
+1754-1,,"Albumin, Spot Urine",Renal health,month_3,medium
+1755-8,,"Albumin, 24H Urine",Renal health,month_3,medium
+1759-0,,A/G Ratio (Albumin / Globulin Ratio),Gastrointestinal health,month_3,medium
+1763-2,,"Aldosterone, Serum",Endocrine health,month_3,medium
+1765-7,,"Aldosterone, 24H Urine",Endocrine health,month_3,medium
+17678-4,,"Taurine, Spot Urine",,month_6,medium
+17791-5,,"Anti SSB/LA Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+17792-3,,"Anti SSA / RO Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+17849-1,,"Reticulocyte, Percentage",Renal health,month_1,medium
+17861-6,,"Calcium, Serum",Musculoskeletal health,month_6,low
+17862-4,,"Calcium, Spot Urine",Renal health,month_6,medium
+17863-2,Calcium,"Ionized Calcium, Serum",Musculoskeletal health,month_3,medium
+1795-4,,"Amylase, Body Fluid",Gastrointestinal health,stat,high
+1798-8,Amylase,"Amylase, Serum",Gastrointestinal health,stat,high
+1799-6,,"Amylase, Spot Urine (Quantitative)",Gastrointestinal health,stat,high
+18184-2,,"ESR (Erythrocyte Sedimentation Rate, 2 Hour)",Hematological health,month_3,medium
+18189-1,,"Acetone, 24H Urine",Endocrine health,stat,medium
+18244-4,,"Vitamin B3 (Niacin), Serum",Malnutrition,month_3,low
+18323-6,,"Anti-Smith IgG Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+1834-1,,"Alpha Fetoprotein (AFP), Serum",Gastrointestinal health,month_6,high
+18488-7,,24-Hour Urinary Calcium (Mass/Vol),Renal health,month_3,medium
+1854-9,,Androstenedione,Reproductive health,month_6,medium
+1869-7,,Apolipoprotein A1 (Apo-A1),Cardiovascular health,month_3,medium
+1874-7,,Apo B / Apo A1 Ratio,Cardiovascular health,month_3,medium
+1884-6,,Apolipoprotein B (Apo-B),Cardiovascular health,month_3,medium
+1903-4,,"Vitamin C, Serum",Malnutrition,month_3,low
+19113-0,,"IgE (Total), Serum",Immunological health,year_1,low
+19123-9,,"Magnesium, Serum",Musculoskeletal health,month_3,medium
+19124-7,,"Magnesium, Spot Urine",Renal health,month_3,medium
+1916-6,,SGOT/SGPT Ratio,Gastrointestinal health,month_3,low
+19162-7,,"Varicella Zoster IgG Antibody, Serum",Other health issues,year_1,low
+19180-9,,"Free beta HCG, Serum",Reproductive health,week_1,medium
+1920-8,Liver Enzyme SGOT,AST or SGOT (Aspartate Aminotransferase),Gastrointestinal health,month_3,low
+1963-8,,"Bicarbonate, blood (HCO3)",Renal health,stat,medium
+1968-7,Direct Bilirubin,Direct Bilirubin,Gastrointestinal health,month_3,medium
+1970-3,,"Delta Bilirubin, Serum",Gastrointestinal health,month_3,medium
+1971-1,Indirect Bilirubin,Indirect Bilirubin,Gastrointestinal health,month_3,medium
+19728-5,,"Beet IgE, Serum",Immunological health,year_1,low
+1975-2,Total Bilirubin,Total Bilirubin,Gastrointestinal health,month_3,medium
+19755-8,,"Saffron IgE Antibody, Serum",Immunological health,year_1,low
+1977-8,,"Bilirubin, Urine",Gastrointestinal health,month_3,medium
+1980-2,,"Biotin, Serum",Malnutrition,month_3,zero
+1986-9,,C-Peptide Test,Endocrine health,month_3,medium
+1988-5,CRP (C-Reactive Protein),CRP (C-Reactive Protein),Immunological health,week_1,medium
+1989-3,Vitamin D,"25 - Hydroxy Vitamin D3, Serum",Malnutrition,month_3,low
+1990-1,,"Vitamin D3, Serum",Malnutrition,month_3,medium
+2000-8,,"Calcium, Serum (Mol/Vol)",Musculoskeletal health,month_3,low
+2004-0,,"Calcium, Spot Urine, (Moles/Volume)",Renal health,month_3,medium
+2019-8,,"PCO2 , Arterial Blood",Respiratory health,stat,medium
+2039-6,,CEA (Carcinoembryonic Antigen),Gastrointestinal health,month_3,high
+20438-8,,"Glucose, Plasma - 1hr Post Oral Glucose Load (Mass/Vol)",Endocrine health,stat,medium
+20447-9,,"HIV - 1 RNA PCR, Serum/Plasma (Quantitative)",Immunological health,lifetime,high
+20448-7,,"Insulin, Random",Endocrine health,month_3,medium
+20489-1,,"Streptococcus pneumoniae Ag, CSF (Presence)",Neurological health,month_1,high
+20570-8,,PCV (Packed Cell Volume),Hematological health,month_6,low
+20572-4,,Hemoglobin A /Total Hemoglobin  (%) (Hb Electrophoresis),Hematological health,month_6,medium
+20578-1,,"Vancomycin, Serum",Other health issues,less_than_24_hr,medium
+2064-4,,Ceruloplasmin Test,Gastrointestinal health,month_3,high
+20644-1,,"Glycine, Plasma (Quantitative)",Neurological health,month_6,high
+20645-8,,"Histidine, Serum (Quantitative)",Neurological health,month_3,high
+20649-0,,"Leucine, Plasma (Quantitative)",Neurological health,month_6,high
+20651-6,,"Methionine, Serum/Plasma (Quantitative)",Neurological health,month_6,high
+20656-5,,"Serine, Serum/Plasma (Quantitative)",Neurological health,month_3,high
+20658-1,,"Threonine, Serum/Plasma (Quantitative)",Neurological health,month_6,high
+20660-7,,"Tyrosine, Plasma (Quantitative)",Neurological health,month_6,high
+20661-5,,"Valine, Plasma (Quantitative)",Neurological health,month_6,high
+2075-0,,"Chloride (Cl), Serum",Renal health,month_3,low
+2078-4,,"Chloride, Spot Urine",Renal health,month_3,medium
+2079-2,,"Chloride, 24H Urine",Renal health,month_3,low
+2085-9,HDL Cholesterol,"HDL Cholesterol, Direct",Cardiovascular health,month_3,medium
+2089-1,LDL Cholesterol,"LDL Cholesterol, Serum",Cardiovascular health,month_3,medium
+2091-7,Very Low Density Lipoprotein,VLDL (Very Low Density Lipoprotein),Cardiovascular health,month_3,medium
+2093-3,Total Cholesterol,Total Cholesterol,Cardiovascular health,month_3,medium
+2106-3,,UPT (Urine Pregnancy Test),Reproductive health,month_6,low
+21198-7,,Beta hCG Test,Reproductive health,week_1,medium
+21233-2,,"Cryptosporidium Ag, Stool (Presence)",Gastrointestinal health,month_1,medium
+2132-9,Vitamin B12,Vitamin B12,Malnutrition,month_3,low
+21365-2,,"Leptin, Serum",Endocrine health,month_6,low
+2141-0,,"Adrencorticotropic Hormone (ACTH), Plasma",Endocrine health,month_3,medium
+21428-8,,"Olive IgE Antibody, Serum",Immunological health,year_1,low
+2143-6,,"Cortisol (Random), Serum",Endocrine health,month_3,medium
+2147-7,,"Free Cortisol, 24 H Urine",Endocrine health,month_3,medium
+21471-8,,"Pomegrenate IgE Antibody, Serum",Immunological health,year_1,low
+2157-6,,"CPK, (Creatinine Phosphokinase)",Musculoskeletal health,month_3,medium
+21587-1,,"Uric Acid, 24H Urine (Mass/Vol)",Renal health,month_3,medium
+2160-0,Creatinine,"Creatinine, Serum",Renal health,month_3,medium
+2161-8,,"Creatinine, Spot Urine",Renal health,month_3,medium
+2162-6,,"Creatinine, 24H Urine",Renal health,month_3,medium
+2164-2,,Creatinine Clearance,Renal health,month_3,medium
+2191-5,,"Dehydroepiandrosterone Sulphate (DHEAS), Serum",Endocrine health,month_6,medium
+2193-1,,"DHEA, Serum",Endocrine health,month_3,medium
+2218-6,,"Dopamine, 24H Urine",Endocrine health,month_3,medium
+22312-3,,"Hepatitis A Virus Total Antibodies, Serum (Quantitative)",Gastrointestinal health,month_6,low
+22315-6,Hepatitis A IgM Antibody,"Hepatitis A Virus IgM, Serum (Quantitative)",Gastrointestinal health,month_3,low
+2232-7,,"Epinephrine, 24H Urine",Endocrine health,month_6,medium
+22321-4,Hepatitis B Envelope Antibody,"Hepatitis B envelope Antibody (HbeAb), Serum (Quantitative)",Gastrointestinal health,month_6,high
+22327-1,,"Hepatitis C - Total Antibodies, Serum (Quantitative)",Gastrointestinal health,year_1,high
+2236-8,,"Vitamin D2, Serum",Malnutrition,month_3,medium
+2243-4,,Estradiol Test,Endocrine health,month_1,medium
+22518-5,,Salmonella Paratyphi A H Antibody,Gastrointestinal health,week_1,low
+22522-7,,Salmonella Paratyphi B H Antibody,Gastrointestinal health,week_1,low
+22568-0,,ASO titre (Anti Streptolysin O),Respiratory health,month_1,medium
+22664-7,,"Urea, Serum (Mol/Vol)",Renal health,month_3,medium
+22700-9,,"Urea, Spot Urine, (Moles/Volume)",Renal health,month_3,medium
+22748-8,,Direct LDL Cholesterol (Mol/Vol),Cardiovascular health,month_3,medium
+22753-8,,UIBC (Unsaturated Iron Binding Capacity) (Moles/Vol),Hematological health,month_6,low
+2276-4,Ferritin,"Ferritin, Serum",Hematological health,month_6,low
+2284-8,,Folic Acid,Malnutrition,month_3,low
+2324-2,,GGT (Gamma-glutamyl Transferase),Gastrointestinal health,month_3,medium
+2335-8,,"Occult Blood, Stool",Gastrointestinal health,week_1,medium
+2336-6,,"Globulin, Serum",Immunological health,month_3,medium
+2342-4,,"Glucose, CSF",Neurological health,month_3,medium
+2344-0,,"Glucose, Body Fluid",Endocrine health,month_3,medium
+2349-9,,"Glucose, Urine",Endocrine health,stat,medium
+2356-4,,"G6PD, RBC (Qualitative)",Hematological health,month_6,medium
+23883-2,,"Inhibin-A, Serum",Reproductive health,month_1,medium
+24010-1,,"Haemophilus influenzae B Antigen, CSF (Presence)",Neurological health,month_1,high
+24108-3,,"CA - 19-9, Serum",Gastrointestinal health,month_3,high
+2428-1,,"Homocysteine, Serum (Mass/Volume)",Cardiovascular health,month_3,medium
+24447-5,,"Magnesium, 24H Urine",Renal health,month_3,medium
+24467-3,,CD4 Count,Immunological health,month_1,high
+24518-3,,"Calcium Creatinine Ratio, Spot Urine, (Molar Ratio)",Renal health,month_3,medium
+2458-8,,"IgA Immunoglobulin, Serum",Immunological health,month_3,medium
+2462-0,,"IgE Immunoglobulin, Serum",Immunological health,year_1,low
+2465-3,,"IgG Immunoglobulin, Serum",Immunological health,month_3,medium
+2472-9,,"IgM Immunoglobulin, Serum",Immunological health,month_3,medium
+2498-4,Iron,"Iron, Serum",Hematological health,month_6,medium
+2500-7,Total Iron Binding Capacity,TIBC (Total Iron Binding Capacity),Hematological health,month_6,low
+2501-5,,UIBC (Unsaturated Iron Binding Capacity),Hematological health,month_6,low
+2502-3,,"Transferrin Saturation, Serum",Hematological health,month_3,low
+25338-5,Dengue IgM Antibody,Dengue IgM (Qualitative),Other health issues,week_1,low
+25362-5,,"Calcium, 24H Urine, (Moles/Volume)",Musculoskeletal health,month_3,low
+25514-1,,"Rubella IgG Antibody, Serum (Qualitative)",Reproductive health,lifetime,medium
+25533-1,,"Taurine, 24H Urine",Renal health,month_6,medium
+2571-8,Triglycerides,Triglycerides (TGs),Cardiovascular health,month_3,medium
+25714-7,,"Litchi IgE Antibody, Serum",Immunological health,year_1,low
+25835-0,,"HIV I RNA PCR, Serum (Qualitative)",Immunological health,lifetime,high
+25886-3,,"Creatinine, 24h Urine (Mol/Vol)",Renal health,month_3,medium
+25892-1,,"Cysteine, 24H Urine",Renal health,month_3,medium
+25954-9,,"Magnesium, 24H Urine, (Moles/Volume)",Renal health,month_3,medium
+2599-9,,"Magnesium, 24H Urine, (Moles/Time)",Renal health,month_3,medium
+25998-6,,"Urea, 24H Urine, (Moles/Volume)",Renal health,month_3,medium
+26028-1,,"HLA B27 (Qualitative), Blood/Tissue (Flow Cytometry)",Immunological health,lifetime,medium
+26043-0,,HLA B27 PCR,Immunological health,lifetime,medium
+26052-1,,"Epithelial Cells, Urine",Renal health,week_1,low
+2639-3,,Myoglobin Test,Cardiovascular health,stat,high
+2641-9,,"Myoglobin, Spot Urine (Qualitative)",Renal health,week_1,high
+26444-0,,Basophils Absolute Count,Hematological health,month_6,medium
+26449-9,Absolute Eosinophil Count,"Eosinophils Absolute Count, Blood",Hematological health,month_1,medium
+26450-7,Eosinophil %,Eosinophils Percentage,Hematological health,month_1,medium
+26453-1,,Total RBC Count,Hematological health,month_6,medium
+26462-2,,Large Unstained Cells Absolute Count,Hematological health,month_6,medium
+26463-0,,Large Unstained Cells (%),Hematological health,month_6,medium
+26464-8,Total Leucocyte Count,Total Leucocyte Count,Hematological health,month_6,medium
+26474-7,,Lymphocytes Absolute Count,Hematological health,month_6,medium
+26478-8,,"Lymphocytes %, Blood",Hematological health,month_6,medium
+26484-6,,Monocytes Absolute Count,Hematological health,month_6,medium
+26485-3,,"Monocytes %, Blood",Immunological health,month_6,medium
+26498-6,,"Myelocytes, Percentage",Hematological health,month_1,high
+26499-4,,Neutrophils Absolute Count,Hematological health,month_6,medium
+26507-4,,"Band Forms (Neutrophils) Absolute Count, Blood",Hematological health,week_1,low
+26508-2,,"Band Forms (Neutrophils), Blood (%)",Hematological health,week_1,low
+26512-4,,"Neutrophil Percentage, CSF",Neurological health,month_3,high
+26515-7,,"Platelets (Platelet Count, PC)",Hematological health,week_1,low
+26523-1,,"Promyelocytes Absolute Count, Blood",Hematological health,month_1,high
+26524-9,,"Promyelocytes, Blood (%)",Hematological health,month_1,high
+2656-7,,"Vitamin B3 (Niacin), 24H Urine",Malnutrition,month_3,low
+2657-5,,"Nitrite, Urine (Mass/Vol)",Renal health,week_1,low
+26707-0,,"Aluminium, 24H Urine",Other health issues,week_1,medium
+26741-9,,"Serine, Spot Urine (Quantitative)",Neurological health,month_3,high
+26881-3,,IL-6 (Interleukin 6),Immunological health,week_1,low
+2692-2,,"Osmolality, Serum",Renal health,stat,medium
+2695-5,,"Osmolality, Urine",Renal health,stat,low
+2705-2,,"PO2, Venous Blood",Respiratory health,stat,high
+2722-7,,"Pantothenic Acid, Serum",Malnutrition,month_6,low
+2731-8,Intact Parathyroid Hormone,Intact PTH,Endocrine health,month_3,medium
+27322-7,,"Threonine, Spot Urine (Quantitative)",Neurological health,month_6,high
+27353-2,,"Mean Glucose, Plasma",Endocrine health,month_3,medium
+27416-7,,"SCL - 70, Serum (Quantitative)",Immunological health,month_6,medium
+2755-7,,pH Stool,Gastrointestinal health,week_1,low
+2756-5,,"pH, Urine (Quantitative)",Renal health,stat,medium
+2777-1,,"Phosphorus, Serum",Renal health,month_3,medium
+2778-9,,"Phosphorus, Spot Urine",Renal health,month_3,medium
+2779-7,,"Phosphorus, 24H Urine",Renal health,month_3,low
+27873-9,,Insulin Fasting,Endocrine health,month_3,medium
+28009-9,,"Volume, Spot Urine",Renal health,month_3,medium
+2823-3,Potassium,"Potassium (K), Serum",Renal health,stat,medium
+2828-2,,"Potassium, Spot Urine",Renal health,stat,
+2829-0,,24-Hour Urinary Potassium,Renal health,month_3,medium
+2839-9,,"Progesterone, Serum",Reproductive health,month_3,medium
+2842-3,Prolactin,"Prolactin, Serum",Endocrine health,month_3,medium
+28539-5,,MCH (Mean Corpuscular Hemoglobin),Hematological health,month_6,medium
+28540-3,MCHC,MCHC (%),Hematological health,month_6,low
+28541-1,,"Metamyelocytes, Blood (%)",Hematological health,month_1,high
+28542-9,,MPV (Mean Platelet Volume),Hematological health,week_1,low
+2857-1,,PSA (Prostate Specific Antigen),Reproductive health,month_6,medium
+2865-4,,"Alpha -1 globulin, Serum",Immunological health,month_6,medium
+2868-8,,"Alpha - 2 globulin, Serum",Immunological health,month_6,medium
+2880-3,,"Total Protein, CSF",Neurological health,stat,medium
+2881-1,,"Protein, Body Fluid",Other health issues,month_3,medium
+2885-2,Total Protein,Total Protein,Gastrointestinal health,month_3,low
+2887-8,,"Protein, Urine",Renal health,month_3,medium
+2888-6,,"Protein, Spot Urine (Quantitative)",Renal health,month_3,medium
+2889-4,,"Total Protein, 24H Urine",Renal health,month_3,medium
+2890-2,,"Protein Creatinine Ratio, Spot Urine",Renal health,month_3,medium
+2923-1,Vitamin A,"Vitamin A (Retinol), Serum",Malnutrition,month_3,medium
+29374-6,,"Anti RNP Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+29463-7,,Body Weight,Other health issues,stat,low
+2951-2,Sodium,"Sodium (Na), Serum",Renal health,stat,low
+2955-3,,"Sodium, Urine",Renal health,month_3,low
+2956-1,,"Sodium, 24H Urine",Renal health,stat,medium
+2965-2,,"Specific Gravity, Urine",Renal health,month_3,medium
+29676-4,,Dengue IgG (Qualitative),Other health issues,month_1,low
+29747-3,,"Vitamin E, Serum",Malnutrition,month_3,low
+2981-9,,"Taurine, Serum",,month_6,medium
+2982-7,,"Taurine, Spot Urine",,month_6,medium
+2986-8,,"Testosterone, Serum",Endocrine health,month_3,medium
+2991-8,,"Free Testosterone, Serum",Endocrine health,month_3,medium
+29916-4,,"Cobalt, 24H Urine",Other health issues,month_3,medium
+29918-0,,"Bismuth, 24H Urine",Other health issues,week_1,medium
+2998-3,,"Vitamin B1 (Thiamine), Whole Blood",Malnutrition,month_3,low
+29983-4,,"Cesium, 24H Urine",Other health issues,month_3,medium
+30000-4,,"Microalbumin Creatinine Ratio, Spot Urine, (Mass/Moles)",Renal health,month_3,medium
+30041-8,,"Turmeric IgE Antibody, Serum",Immunological health,year_1,low
+30043-4,,"Rosemary IgE Antibody, Serum",Immunological health,year_1,low
+3013-0,,"Thyroglobulin, Serum",Endocrine health,month_3,medium
+3016-3,Thyroid Stimulating Hormone,TSH (Thyroid Stimulating Hormone),Endocrine health,month_3,medium
+30180-4,,Basophils (%),Hematological health,month_6,medium
+30201-8,,"Anti B Antibody, Serum (Titer)",Immunological health,month_6,medium
+3024-7,,"Free Thyroxine (FT4), Serum",Endocrine health,month_3,medium
+30248-9,,"Soluble Transferrin Receptor( STFR), Serum",Hematological health,month_3,medium
+3026-2,,"T4, Total (Thyroxine)",Endocrine health,month_3,medium
+30314-9,,"Anti A Antibody, Serum (Titer)",Immunological health,month_6,medium
+3034-6,,"Transferrin, Serum",Hematological health,month_3,medium
+30341-2,,"ESR (Erythrocyte Sedimentation Rate, 1 Hour)",Hematological health,month_3,medium
+30384-2,,"Red Cell Distribution Width (RDW-SD), Blood",Hematological health,month_6,medium
+30385-9,,"RDW (Red Cell Distribution Width - %), Blood",Hematological health,month_6,medium
+30391-7,,"RBC, Urine (Num/Vol)",Renal health,week_1,low
+30392-5,,Nucleated RBC Count,Hematological health,week_1,medium
+30394-1,,"Granulocytes, Absolute Count",Hematological health,month_6,medium
+3040-3,Lipase,"Lipase, Serum",Gastrointestinal health,stat,medium
+30412-1,,"Abnormal Lymphocyte, Count",Hematological health,month_3,medium
+30413-9,,"Abnormal Lymphocytes, Percentage",Immunological health,month_3,medium
+30428-7,Mean Corpuscular Volume,MCV (Mean Corpuscular Volume),Hematological health,month_6,medium
+30433-7,,"Metamyelocytes Absolute Count, Blood",Hematological health,month_1,high
+30446-9,,"Myelocytes, Absolute Count",Hematological health,month_1,high
+3051-0,,"T3, Free (Triiodothyronine)",Endocrine health,month_3,medium
+30522-7,,HsCRP (High Sensitivity C Reactive Protein),Cardiovascular health,month_3,high
+3053-6,,"T3, Total (Triiodothyronine)",Endocrine health,month_3,medium
+30552-4,,"Vitamin B6, Serum",Malnutrition,month_3,low
+30563-1,,"Taurine, Spot Urine",,month_6,medium
+30567-2,,TSI (Thyroid-Stimulating Immunoglobulin) Test,Endocrine health,month_6,medium
+3084-1,Uric Acid,"Uric Acid, Serum",Renal health,month_3,medium
+3086-6,,"Uric Acid, Spot Urine",Renal health,month_3,medium
+3087-4,,"Uric Acid, 24H Urine",Renal health,month_3,medium
+3091-6,,"Urea, Serum",Renal health,month_3,medium
+3092-4,,"Urea, Spot Urine",Renal health,month_3,medium
+3094-0,,BUN (Blood Urea Nitrogen),Renal health,month_3,medium
+3095-7,,"Urea Nitrogen, Spot Urine",Renal health,month_3,medium
+3096-5,,"Urea Nitrogen, 24H Urine",Renal health,month_3,medium
+3097-3,,BUN (Blood Urea Nitrogen) / Creatinine Ratio,Renal health,month_3,medium
+31002-9,,"Dates IgE Antibody, Serum",Immunological health,year_1,low
+31017-7,,Anti Transglutaminase IgA Antibody,Immunological health,month_6,medium
+31147-2,,"Rapid Plasma Reagin (RPR), Serum (Titer)",Reproductive health,year_1,medium
+31150-6,,HER 2 neu by FISH (Tissue),Reproductive health,year_1,high
+31152-2,,"Bence Jones (BJ) Protein, 24H Urine (Qualitative)",Immunological health,year_1,high
+31348-6,,Anti-dsDNA,Immunological health,month_6,medium
+31616-6,,Rubella IgM Antibody,Reproductive health,month_6,medium
+31629-9,,SMA Antibody (Anti Smooth Muscle Antibody- Quantitative),Immunological health,month_6,medium
+3167-4,,"Volume, 24 Hr Urine",Renal health,month_3,medium
+3173-2,,"Activated Partial Thromboplastin Time (aPTT), Blood",Hematological health,month_3,medium
+31788-3,,"Cryptococcus sp Antigen, CSF (Presence)",Neurological health,month_6,high
+31790-9,,"Cryptococcus sp Antigen, Serum (Presence)",Neurological health,month_6,high
+3184-9,,Clotting Time (CT),Hematological health,month_6,medium
+31843-6,,"Helicobacter pylori Antigen, Stool (Presence)",Gastrointestinal health,month_1,medium
+3187-2,,Factor IX Activity,Hematological health,month_6,medium
+31909-5,,"Neisseria meningitidis (A/C/w-135/Y), CSF (Presence)",Neurological health,month_1,high
+3198-9,,Factor VII Activity,Hematological health,month_6,medium
+32046-5,,PAPP-A,Reproductive health,month_3,low
+3209-4,,Factor VIII Activity,Hematological health,month_6,medium
+32207-3,,"PDW (Platelet Distribution Width), Blood",Immunological health,month_6,medium
+32546-4,,"G6PD test, Whole Blood (Quantitative)",Hematological health,month_6,medium
+3255-7,,Fibrinogen,Hematological health,month_6,medium
+32554-8,,"Vitamin B1 (Thiamine), Whole Blood (Mol/Vol)",Malnutrition,month_3,low
+32682-7,,"Hemoglobin F /Total Hemoglobin (%),  (Hb Electrophoresis)",Hematological health,month_6,medium
+32683-5,,"Hemoglobin S/Total Hemoglobin (%),  (Hb Electrophoresis)",Hematological health,month_6,medium
+32710-6,,"Nitrite, Urine",Renal health,week_1,low
+33017-5,,Parasites Urine,Renal health,month_1,low
+33218-9,,"Bacteria, Urine",Renal health,week_1,low
+33232-0,,"Sperms, Urine",Reproductive health,month_3,low
+33355-9,,"Urea Nitrogen, 24H Urine, (Moles/Volume)",Renal health,month_3,medium
+33571-1,,"Anti - Jo 1 IgG Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+33668-5,,"RBC, Stool",Gastrointestinal health,month_3,medium
+33762-6,,NT-Pro BNP,Cardiovascular health,stat,high
+33800-4,,"Anti - dsDNA IgG Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+33805-3,,"Fructosamine, Serum",Endocrine health,month_3,medium
+33863-2,,"Cystatin C, Serum",Renal health,month_3,medium
+33903-6,Urine ketones,"Ketones, Urine",Endocrine health,stat,medium
+33914-3,,GFR - MDRD,Renal health,month_6,medium
+33935-8,,"Anti Cyclic Citullinated Peptide (CCP) IgG Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+33959-8,,"Procalcitonin, Serum",Other health issues,week_1,medium
+34268-3,,"Cobalt, Spot Urine",Other health issues,month_3,medium
+34277-4,,"Cysteine, Spot Urine",Renal health,month_3,medium
+34319-4,,"Inhibin-B, Serum",Reproductive health,month_6,high
+34366-5,,Urine Protein/Creatinine Ratio (Mass/Mol),Renal health,month_3,medium
+34387-1,,"Zinc, Spot Urine, (Moles/Volume)",Malnutrition,month_6,low
+34398-8,,"Biotin, Serum (Mol/Vol)",Malnutrition,month_3,zero
+34714-6,,"INR , Blood",Hematological health,month_6,medium
+35383-9,,"Galactomannan Antigen, Serum",Respiratory health,month_6,medium
+3597-2,,"Erythromycin, Serum",Other health issues,less_than_24_hr,medium
+38458-6,,"Crystals, Synovial Fluid",Musculoskeletal health,month_6,medium
+3860-4,,"Nitrofurantoin, Serum",Other health issues,less_than_24_hr,medium
+38892-6,,"Anisocytosis, Blood (Presence)",Hematological health,month_6,medium
+39156-5,Body Mass Index,BMI (Body Mass Index),Other health issues,month_3,zero
+3968-5,,"Phenytoin, Serum Level",Neurological health,less_than_24_hr,medium
+4021-2,,"Rifampicin, Serum",Other health issues,month_3,medium
+40486-3,,"Protein Creatinine Ratio, 24H Urine, (Moles/Mass)",Renal health,month_3,medium
+40677-7,,"Toxoplasma gondii IgG Antibody, Serum (Presence)",Reproductive health,year_1,medium
+40678-5,,"Toxoplasma gondii IgM Antibody, Serum (Presence)",Reproductive health,month_6,medium
+4086-5,,Sodium Valproate Level,Neurological health,less_than_24_hr,medium
+41406-0,,"Meropenem, Serum",Other health issues,month_1,medium
+41615-6,,"Xanthurenic acid, Serum",Immunological health,month_1,medium
+42524-9,,"Mucus, Stool",Gastrointestinal health,month_1,medium
+42579-3,,"Aspergillus fumigatus IgM Antibody, Serum (Quantitative)",Respiratory health,month_1,medium
+42637-9,,Brain Natriuretic Peptide (BNP) Test,Cardiovascular health,stat,medium
+42757-5,Troponin I,Trop-I (Troponin I) (Quantitative),Cardiovascular health,stat,high
+42810-2,,Reticulocyte Hemoglobin,Hematological health,month_1,medium
+42959-7,,Salmonella Typhi O Antibody,Gastrointestinal health,week_1,low
+42960-5,,Salmonella Typhi 'H' Antibody,Gastrointestinal health,week_1,low
+43396-1,,Non HDL Cholesterol,Cardiovascular health,month_3,medium
+43429-0,,"Haemophilus influenzae B Antigen, Serum (Presence)",Respiratory health,month_1,medium
+43889-5,,"Bile Salts, Urine",Gastrointestinal health,month_3,medium
+44733-4,,Triglyceride / HDL Cholesterol Ratio,Cardiovascular health,month_3,medium
+4477-6,,C1 Esterase INH Test,Immunological health,month_6,medium
+4478-4,,Complement C1q Test,Immunological health,month_6,medium
+4485-9,,Complement C3 Test,Immunological health,month_6,medium
+4498-2,,Complement C4 Test,Immunological health,month_6,medium
+4548-4,HbA1c,HbA1c (Glycosylated Hemoglobin),Endocrine health,month_3,medium
+4552-6,,"Hemoglobin A2 /Total Hemoglobin (%),  (Hb Electrophoresis)",Hematological health,month_6,medium
+4563-3,,Hemoglobin C /Total Hemoglobin  (%) (Hb Electrophoresis),Hematological health,month_6,medium
+46137-6,,"Triple Phosphate Crystals, Urine",Renal health,month_3,medium
+46138-4,,"Uric Acid Crystals, Urine",Renal health,month_3,medium
+46702-7,,"WBC, Urine (Number/HPF - Automated))",Renal health,week_1,low
+47214-2,,Insulin Resistance Score (HOMA-IR),Endocrine health,month_3,medium
+47612-7,,"Cystatin C, Spot Urine",Renal health,month_3,medium
+47791-9,,"Vitamin E, Serum",Malnutrition,month_3,low
+47826-3,,"Adenosine Deaminase (ADA), Serum",Respiratory health,month_3,medium
+47862-8,,Insulin Post Prandial,Endocrine health,month_3,medium
+48065-7,,D Dimer (FEU),Hematological health,month_3,medium
+48066-5,,D Dimer (DDU),Hematological health,month_3,medium
+48068-1,,"Heinz Bodies, Blood (Presence)",Hematological health,month_3,medium
+48104-4,,Serum Cortisol (8 am Sample),Endocrine health,month_3,medium
+4821-5,,HLA B27 (Presence),Immunological health,lifetime,medium
+48426-1,,Troponin T (Qualitative),Cardiovascular health,stat,high
+48999-7,,"Urea, 24H Urine",Renal health,month_3,medium
+49135-7,,FeNA (Fractional Sodium Excretion),Renal health,month_3,low
+49779-2,,"Ketones, Urine (Mass/Vol)",Endocrine health,stat,medium
+49868-3,,"Ibuprofen IgE, Serum",Immunological health,year_1,low
+50033-0,,"Cephalosporin IgE, Serum",Immunological health,year_1,low
+50041-3,,"Bile Pigments, Urine",Gastrointestinal health,month_3,medium
+5005-4,,"Epstein Barr Virus DNA PCR, Any Specimen (Qualitative)",Other health issues,month_3,medium
+5010-4,,"Hepatitis C Virus (HCV) RNA PCR, Blood (Qualitative)",Gastrointestinal health,year_1,high
+50235-1,,"Mucus, Urine (Num/HPF)",Renal health,week_1,zero
+50687-3,Vivax Malaria Antigen Test,"PLASMODIUM VIVAX, MALARIA PARASITE (MP), ANTIGEN",Other health issues,week_1,low
+50690-7,,"VDRL, Serum (Titer)",Reproductive health,month_6,medium
+5076-5,,"Anticardiolipin Antibody IgA, Serum (Quantative)",Immunological health,month_6,medium
+50959-6,,"Indirect Coombs Test (ICT), Serum (Qualitative)",Immunological health,year_1,medium
+51006-5,,Direct Coombs Test,Immunological health,stat,high
+51196-4,,"Hemoglobin A1 /Total Hemoglobin (%),  (Hb Electrophoresis)",Hematological health,month_6,medium
+5130-0,,"Anti - dsDNA Antibodies, Serum (Quantitative)",Immunological health,month_6,medium
+51478-6,,"Mucus, Urine (Num/Vol)",Renal health,week_1,low
+51480-2,,Bacteria Urine (Num/Vol),Renal health,week_1,low
+51584-1,,Immature Granulocyte Absolute Count,Hematological health,month_6,medium
+51631-0,,PDW (Platelet Distribution Width CV Ratio),Immunological health,month_6,medium
+51637-7,,"Plateletcrit (PCT), Blood",Hematological health,week_1,medium
+51695-5,,"Chloride, 24H Urine, (Mass/Time)",Renal health,month_3,low
+5195-3,,HBsAg (Hepatitis B Surface Antigen),Gastrointestinal health,lifetime,high
+5292-8,,VDRL Test,Reproductive health,month_6,medium
+5297-7,,Rheumatoid Factor (RF) Test (Qualitative),Immunological health,month_6,medium
+52986-7,,"Rubella IgG Avidity, Serum",Reproductive health,lifetime,medium
+53022-0,,"U1 RNP Antibody, Serum (Qualitative)",Immunological health,month_6,medium
+53027-9,,"Anti Cyclic Citullinated Peptide (CCP) Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+53028-7,,"Anti Cyclic Citrullinated Peptide (Anti-CCP), Serum (Qualitative)",Immunological health,month_6,medium
+53322-4,,"Crystals, Urine (Num/HPF)",Renal health,month_3,medium
+53376-0,Hepatitis C IgM Antibody,Hepatitis C IgM Antibody,Gastrointestinal health,year_1,high
+53553-4,,Mean Blood Glucose (Mol/Vol),Endocrine health,month_3,medium
+53797-7,,Neutrophils Percentage,Hematological health,month_6,medium
+53828-0,,"Cyclosporine -Trough level, Blood",Other health issues,less_than_24_hr,high
+53839-7,,"Arsenic, 24H Urine",Other health issues,month_6,medium
+5385-0,,"TSH Receptor Antibodies, Serum",Endocrine health,month_6,medium
+53963-5,,"Blood, Urine",Renal health,month_3,medium
+53982-5,,Anti-Centromere B Ab,Immunological health,month_6,medium
+54381-9,,"Cystatin C, 24H Urine",Renal health,month_3,medium
+54910-5,,"Anti-dsDNA Antibody, Serum (IFA - Quantitative)",Immunological health,month_6,medium
+55465-9,,H1N1 (Swine Flu) PCR Test (Qualitative),Respiratory health,month_6,medium
+5570-7,,"Acetone, Spot Urine",Endocrine health,stat,medium
+5574-9,,"Aluminiun, Serum",Other health issues,month_1,medium
+5578-0,,"Antimony, Blood",Other health issues,month_1,medium
+5581-4,,"Antimony, Spot Urine (Quantitative)",Other health issues,month_1,medium
+5583-0,,"Arsenic, Blood",Other health issues,month_6,medium
+55918-7,,"C Peptide, Post Prandial",Endocrine health,month_3,medium
+55919-5,,"C-Peptide, Postprandial (Moles/Vol)",Endocrine health,month_3,medium
+5598-8,,"Bismuth, Spot Urine",Other health issues,week_1,medium
+5609-3,,"Cadmium, Blood",Other health issues,month_6,medium
+5612-7,,"Cadmium, 24H Urine",Other health issues,month_6,medium
+5616-8,,"Cesium,Serum",Other health issues,month_3,medium
+5618-4,,"Cesium, Spot Urine",Other health issues,month_3,medium
+5619-2,,"Chromium, Blood (Mass/Vol)",Other health issues,week_1,medium
+5624-2,,"Chromium, 24H Urine",Other health issues,week_1,medium
+5628-3,,"Cobalt, Spot Urine",Other health issues,month_3,medium
+5631-7,,"Copper, Serum",Gastrointestinal health,month_3,high
+5643-2,,"Alcohol (Ethanol), Serum",Gastrointestinal health,stat,medium
+56701-6,,"Diclofenac IgE, Serum",Immunological health,year_1,low
+56702-4,,"Ciprofloxacin IgE, Serum",Immunological health,year_1,low
+5677-0,,"Lead, 24H Urine",Hematological health,month_3,medium
+56888-1,,"HIV DUO ( HIV I, HIV II, p24), Serum",Immunological health,lifetime,high
+56964-0,,"Phosphate Creatinine Ratio, Spot Urine, (Moles/Mass)",Renal health,month_3,medium
+56990-5,,"Toxoplasma gondii IgG Avidity, Serum",Reproductive health,year_1,medium
+56996-2,,"Urea Creatinine ratio, 24H Urine",Renal health,month_3,medium
+56997-0,,Urea / Creatinine Ratio,Renal health,month_3,medium
+5702-6,,"Nickel, Serum",Other health issues,week_1,medium
+5705-9,,"Nickel, 24H Urine",Other health issues,week_1,medium
+5724-0,,"Selenium, Serum",Malnutrition,month_3,low
+5727-3,,"Selenium, 24H Urine",Malnutrition,month_3,medium
+5734-9,,"Silver, Serum",Other health issues,week_1,medium
+5735-6,,"Silver, Spot Urine",Other health issues,week_1,medium
+5743-0,,"Thallium, Blood",Other health issues,month_3,medium
+5763-8,,"Zinc, Serum",Malnutrition,month_6,low
+5765-3,,"Zinc, 24H Urine",Malnutrition,month_6,low
+57662-9,,"U1 RNP Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+57751-0,,"Blood (Hemoglobin), Urine",Renal health,month_3,medium
+57934-2,,Chikungunya IgM Antibody (Presence),Musculoskeletal health,month_1,medium
+5799-2,,"Leucocyte Esterase, Urine",Renal health,week_1,low
+5807-3,,"RBC Cast, Urine",Renal health,month_6,medium
+5809-9,,"Reducing Substances, Urine (Presence)",Endocrine health,week_1,medium
+5813-1,,"Trichomonas vaginalis, Urine (Presence)",Reproductive health,month_3,low
+5821-4,,"WBC, Urine",Renal health,week_1,medium
+58444-1,,"Dysmorphic Red Cells, Spot Urine (Presence)",Renal health,month_3,medium
+5902-2,,"Prothrombin Time (PT), Plasma",Hematological health,month_3,medium
+59158-6,,"Ketones, Spot Urine (Mol/Vol)",Endocrine health,stat,medium
+59261-8,,HbA1c (Molar fraction),Endocrine health,month_3,medium
+59467-1,,MCHC (Mol/Vol),Hematological health,month_6,low
+6015-2,,"Acacia longifolia (Babool) Ige, Serum",Immunological health,year_1,low
+6016-0,,"ACTH IgE Antibody, Serum",Immunological health,year_1,medium
+6019-4,,"Almond IgE Antibody, Serum",Immunological health,year_1,low
+6020-2,,"Alternaria alternata IgE, Serum",Respiratory health,year_1,medium
+6021-0,,"Apple IgE Antibody, Serum",Immunological health,year_1,low
+6025-1,,"Aspergillus fumigatus IgE, Serum",Respiratory health,year_1,medium
+60260-7,,Chikungunya PCR (Qualitative),Musculoskeletal health,month_6,medium
+6034-3,,"Bahia grass IgE, Serum",Immunological health,year_1,low
+6035-0,,"Banana IgE Antibody, Serum",Immunological health,year_1,low
+6037-6,,"Barley IgE Antibody, Serum",Immunological health,year_1,low
+6039-2,,"Beef IgE Antibody, Serum",Immunological health,year_1,low
+6041-8,,"Bermuda Grass Pollen IgE Antibody, Serum",Immunological health,year_1,low
+6045-9,,"Black Pepper IgE Antibody, Serum",Immunological health,year_1,low
+6048-3,,"Blue Mussel IgE Antibody, Serum",Immunological health,year_1,low
+6050-9,,"Brazil Nut IgE Antibody, Serum",Immunological health,year_1,low
+6054-1,,"Buckwheat IgE Antibody, Serum",Immunological health,year_1,low
+6059-0,,"Candida Albicans IgE Antibody, Serum",Immunological health,year_1,low
+6061-6,,"Carrot IgE Antibody, Serum",Immunological health,year_1,low
+6062-4,,"Casein IgE Antibody, Serum",Immunological health,year_1,low
+6065-7,,"Celery IgE Antibody, Serum",Immunological health,year_1,low
+6067-3,,"Cheese Cheddar IgE Antibody, Serum",Immunological health,year_1,low
+6070-7,,"Chicken Feather IgE Antibody, Serum",Immunological health,year_1,low
+6071-5,,"Chicken Meat IgE Antibody, Serum",Immunological health,year_1,low
+6073-1,,"Chocolate IgE, Serum",Immunological health,year_1,low
+6075-6,,"Cladosporium herbarum IgE Antibody, Serum",Immunological health,year_1,low
+6077-2,,"Cocklebur IgE Antibody, Serum",Immunological health,year_1,low
+6078-0,,"Cockroach IgE Antibody, Serum",Immunological health,year_1,low
+6080-6,,"Cocoa IgE Antibody, Serum",Immunological health,year_1,low
+6081-4,,"Coconut IgE Antibody, Serum",Immunological health,year_1,low
+6082-2,,"Fish (Cod) IgE Antibody, Serum",Immunological health,year_1,low
+6083-0,,"Coffee IgE Antibody, Serum",Immunological health,year_1,low
+6085-5,,"Common Ragweed IgE Antibody, Serum",Immunological health,year_1,low
+6087-1,,"Corn IgE Antibody, Serum",Immunological health,year_1,low
+6090-5,,"Cottonwood IgE Antibody, Serum",Immunological health,year_1,low
+6091-3,,"Cow Dander IgE Antibody, Serum",Immunological health,year_1,low
+6092-1,,"Crab IgE Antibody, Serum",Immunological health,year_1,low
+6095-4,,"Dermatophagoides farinae IgE, Serum",Immunological health,year_1,low
+6096-2,,"Dermatophagoides pteronyssinus IgE, Serum",Immunological health,year_1,low
+6098-8,,"Dog Dander IgE Antibody, Serum",Immunological health,year_1,low
+6099-6,,"Dog Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6101-0,,"Duck Meat IgE Antibody, Serum",Immunological health,year_1,low
+6106-9,,"Egg White IgE Antibody, Serum",Immunological health,year_1,low
+6107-7,,"Egg Yolk IgE Antibody, Serum",Immunological health,year_1,low
+6110-1,,"English Plantain IgE Antibody, Serum",Immunological health,year_1,low
+6113-5,,"Eucalyptus IgE Antibody, Serum",Immunological health,year_1,low
+6114-3,,"Euroglyphus maynei IgE Antibody, Serum",Immunological health,year_1,low
+6122-6,,"Garlic IgE Antibody, Serum",Immunological health,year_1,low
+6125-9,,"Gluten IgE Antibody, Serum",Immunological health,year_1,low
+6126-7,,"Glycyphagus domesticus IgE Antibody, Serum",Immunological health,year_1,low
+6127-5,,"Goat Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6128-3,,"Goldenrod IgE Antibody, Serum",Immunological health,year_1,low
+6131-7,,"Grapefruit IgE Antibody, Serum",Immunological health,year_1,low
+6134-1,,"Guinea Pig Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6135-8,,"Hamster Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6136-6,,"Hazelnut IgE Antibody, Serum",Immunological health,year_1,low
+6143-2,,"Horse Dander IgE Antibody, Serum",Immunological health,year_1,low
+6145-7,,"House Dust IgE Antibody, Serum",Immunological health,year_1,low
+6147-3,,"Insulin Bovine IgE Antibody, Serum",Immunological health,year_1,low
+6148-1,,"Insulin Human IgE Antibody, Serum",Immunological health,year_1,low
+6149-9,,"Insulin Porcine IgE Antibody, Serum",Immunological health,year_1,low
+6152-3,,"Johnson Grass IgE Antibody, Serum",Immunological health,year_1,low
+6153-1,,"June Grass IgE Antibody IgE, Serum",Immunological health,year_1,low
+6154-9,,"Kiwi IgE Antibody, Serum",Immunological health,year_1,low
+6155-6,,"Lamb IgE Antibody, Serum",Immunological health,year_1,low
+6156-4,,"Goosefoot IgE Antibody, Serum",Immunological health,year_1,low
+6157-2,,"Mutton IgE Antibody, Serum",Immunological health,year_1,low
+6158-0,,"Latex IgE Antibody, Serum",Immunological health,year_1,low
+6159-8,,"Lemon IgE Antibody, Serum",Immunological health,year_1,low
+6160-6,,"Lepidoglyphus destructor IgE Antibody, Serum",Immunological health,year_1,low
+6161-4,,"Lettuce IgE Antibody, Serum",Immunological health,year_1,low
+6165-5,,"Lobster IgE Antibody, Serum",Immunological health,year_1,low
+6166-3,,"Malt IgE Antibody, Serum",Immunological health,year_1,low
+6167-1,,"Mango IgE Antibody, Serum",Immunological health,year_1,low
+6169-7,,"Meadow Fescue IgE Antibody, Serum",Immunological health,year_1,low
+6173-9,,"Mesquite IgE Antibody, Serum",Immunological health,year_1,low
+6175-4,,"Millet IgE Antibody, Serum",Immunological health,year_1,low
+6177-0,,"Mosquito (Aedes) IgE Antibody, Serum",Immunological health,year_1,low
+6182-0,,"Mucor racemosus IgE Antibody, Serum",Immunological health,year_1,medium
+6183-8,,"Mugwort IgE Antibody, Serum",Immunological health,year_1,low
+6185-3,,"Mustard IgE Antibody, Serum",Immunological health,year_1,low
+6186-1,,"Nettle IgE Antibody, Serum",Immunological health,year_1,low
+6188-7,,"Nutmeg IgE Antibody, Serum",Immunological health,year_1,low
+6190-3,,"Oat IgE Antibody, Serum",Immunological health,year_1,low
+6193-7,,"Onion IgE Antibody, Serum",Immunological health,year_1,low
+6198-6,,"Paper Wasp IgE Antibody, Serum",Immunological health,year_1,low
+6202-6,,"Parrot feather IgE, Serum",Immunological health,year_1,low
+6203-4,,"Parsley IgE Antibody, Serum",Immunological health,year_1,low
+6204-2,,"Green Peas IgE Antibody, Serum",Immunological health,year_1,low
+6205-9,,"Peach IgE Antibody, Serum",Immunological health,year_1,low
+6206-7,,"Peanut IgE Antibody, Serum",Immunological health,year_1,low
+6207-5,,"Pear IgE Antibody, Serum",Immunological health,year_1,low
+6208-3,,"Pecan Nut IgE Antibody, Serum",Immunological health,year_1,low
+6210-9,,"Penicillin V IgE, Serum",Immunological health,year_1,low
+6212-5,,"Penicillium Chrysogenum IgE, Serum",Immunological health,year_1,low
+6217-4,,"Pigeon droppings IgE, Serum",Immunological health,year_1,low
+6218-2,,"Pineapple IgE Antibody, Serum",Immunological health,year_1,low
+6219-0,,"Pork IgE Antibody, Serum",Immunological health,year_1,low
+6220-8,,"Potato IgE Antibody, Serum",Immunological health,year_1,low
+6223-2,,"Rabbit Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6229-9,,"Rhizopus nigricans IgE Antibody, Serum",Immunological health,year_1,low
+62292-8,Vitamin D,"25-Hydroxy Vitamin D (Total), Serum",Malnutrition,month_3,low
+6230-7,,"Rice IgE Antibody, Serum",Immunological health,year_1,low
+6234-9,,"Saltwort (Russian Thistle) IgE Antibody, Serum",Immunological health,year_1,low
+6236-4,,"Cultivated Rye Grass Pollen IgE, Serum",Immunological health,year_1,low
+6237-2,,"Salmon IgE Antibody, Serum",Immunological health,year_1,low
+6242-2,,"Sesame Seed IgE Antibody, Serum",Immunological health,year_1,low
+6245-5,,"Sheep Wool IgE Antibody, Serum",Immunological health,year_1,low
+6246-3,,"Shrimp IgE Antibody, Serum",Immunological health,year_1,low
+6248-9,,"Soyabean IgE Antibody, Serum",Immunological health,year_1,low
+6256-2,,"Tyrophagus putrescentiae IgE Antibody, Serum",Immunological health,month_1,low
+6257-0,,"Strawberry IgE, Serum",Immunological health,year_1,low
+6258-8,,"Sunflower seed IgE Antibody, Serum",Immunological health,year_1,low
+6261-2,,"Sweet vernal grass IgE Antibody, Serum",Immunological health,year_1,low
+6262-0,,"Swine Epithelium IgE Antibody, Serum",Immunological health,year_1,low
+6264-6,,"Tea IgE Antibody, Serum",Immunological health,year_1,low
+6265-3,,"Timothy grass IgE, Serum",Immunological health,year_1,low
+6266-1,,"Tomato IgE Antibody, Serum",Immunological health,year_1,low
+6270-3,,"Tuna IgE Antibody, Serum",Immunological health,year_1,low
+6272-9,,"Velvet grass IgE, Serum",Immunological health,year_1,low
+6273-7,,"Walnut IgE Antibody, Serum",Immunological health,year_1,low
+6276-0,,"Wheat IgE Antibody, Serum",Immunological health,year_1,low
+6279-4,,"White Bean IgE Antibody, Serum",Immunological health,year_1,low
+6282-8,,"White Pine IgE Antibody, Serum",Immunological health,year_1,low
+6285-1,,"Willow IgE, Serum",Immunological health,year_1,low
+6287-7,,"Saccharomyces cerivisiae IgE Antibody, Serum",Immunological health,year_1,low
+63549-0,,Serum Ascites Albumin Gradient (SAAG),Gastrointestinal health,month_3,medium
+637-9,Vivax Malaria Smear Test,"PLASMODIUM VIVAX, MALARIA PARASITE (MP), THICK SMEAR",Other health issues,week_1,low
+6598-7,,Trop-T (Troponin T),Cardiovascular health,stat,high
+66126-4,,VLDL (Very Low Density Lipoprotein) (Mol/Vol),Cardiovascular health,month_3,medium
+6693-6,,"Mercury, 24H Urine",Other health issues,month_3,high
+6695-1,,"Vitamin B2 (Riboflavin), Whole Blood",Malnutrition,month_3,low
+6711-6,,"Paracetamol IgE, Serum",Immunological health,year_1,low
+6712-4,,"Ampicillin IgE Antibody, Serum",Immunological health,year_1,low
+6718-1,,"Cashew IgE Antibody, Serum",Immunological health,year_1,low
+6719-9,,"Cherry IgE Antibody, Serum",Immunological health,year_1,low
+6724-9,,"Cucumber IgE, Serum",Immunological health,year_1,low
+6768-6,,ALP (Alkaline Phosphatase),Gastrointestinal health,month_3,low
+6811-4,,Dengue IgG Antibody,Other health issues,month_1,low
+6829-6,,"Amoxicillin IgE Antibody, Serum",Immunological health,year_1,low
+6830-4,,"Aspergillus niger IgE, Serum",Immunological health,year_1,low
+6833-8,,"Cat Dander IgE Antibody, Serum",Immunological health,year_1,low
+6835-3,,"Cauliflower IgE Antibody, Serum",Immunological health,year_1,low
+6837-9,,"Cinnamon IgE Antibody, Serum",Immunological health,year_1,low
+6841-1,,"Grape IgE Antibody, Serum",Immunological health,year_1,low
+6844-5,,"Honey Bee IgE Antibody, Serum",Immunological health,year_1,low
+6848-6,,"Mushroom IgE Antibody, Serum",Immunological health,year_1,low
+6850-2,,"Papaya IgE Antibody, Serum",Immunological health,year_1,low
+6851-0,,"Penicillin G IgE, Serum",Immunological health,year_1,low
+6852-8,,"Green Pepper IgE Antibody, Serum",Immunological health,year_1,low
+6853-6,,"Plum IgE Antibody, Serum",Immunological health,year_1,low
+6854-4,,"Pumpkin IgE Antibody, Serum",Immunological health,year_1,low
+6855-1,,"Common Reed IgE Antibody, Serum",Immunological health,year_1,low
+6856-9,,"Spinach IgE Antibody, Serum",Immunological health,year_1,low
+6874-2,,"Calcium, 24H Urine",Renal health,month_3,medium
+6875-9,,"CA - 15-3, Serum",Reproductive health,month_3,high
+68961-2,,HIV I (Rapid),Immunological health,lifetime,high
+6931-0,,"Silver, 24H Urine",Other health issues,week_1,medium
+69405-9,Estimated Glomerular Filtration Rate,eGFR (Glomerular Filtration Rate estimated),Renal health,month_6,medium
+70204-3,,Non HDL Cholesterol (Mol/Vol),Cardiovascular health,month_3,medium
+70569-9,Malaria Antigen Test,Malarial Parasite (Plasmodium sp) Antigen Test,Other health issues,week_1,low
+7081-3,,"Anise IgE Antibody, Serum",Immunological health,year_1,low
+7091-2,,"Apricot IgE Antibody, Serum",Immunological health,year_1,low
+7103-5,,"Aspergillus fumigatus IgG Antibody, Serum (Quantitative)",Respiratory health,month_6,medium
+7118-3,,"Basil IgE Antibody, Serum",Immunological health,year_1,low
+7125-8,,"Bay Leaf IgE Antibody, Serum",Immunological health,year_1,low
+7169-6,,"Cabbage IgE Antibody, Serum",Immunological health,year_1,low
+71773-6,,"Quantiferon TB Gold  - Gamma Interferon, Plasma",Other health issues,month_6,medium
+718-7,Hemoglobin,Hb (Hemoglobin),Hematological health,month_6,medium
+7234-8,,"Clove IgE, Serum",Immunological health,year_1,low
+7258-7,,"Cow milk IgE Antibody, Serum",Immunological health,year_1,low
+7262-9,,"Cranberry IgE Antibody, Serum",Immunological health,year_1,low
+7270-2,,"Curry IgE Antibody, Serum",Immunological health,year_1,low
+7291-8,,"Whole Egg IgE Antibody, Serum",Immunological health,year_1,low
+7296-7,,"Eggplant IgE Antibody, Serum",Immunological health,year_1,low
+7335-3,,"Ginger IgE Antibody, Serum",Immunological health,year_1,medium
+73723-9,,"Vitamin B2 (Riboflavin), Whole Blood (Mol/Vol)",Malnutrition,month_3,low
+7395-7,,"Helminthosporium halodes IgE, Serum",Immunological health,year_1,low
+74099-3,,"Neutrophil Gelatinase Associated Lipocalin (NGAL), Spot Urine",Renal health,less_than_24_hr,high
+7425-2,,"House Dust Hollister Stier IgE Antibody, Serum",Immunological health,year_1,low
+7445-0,,"Lactalbumin Alpha IgE, Serum",Immunological health,year_1,low
+7458-3,,"Lentil IgE Antibody, Serum",Immunological health,year_1,low
+7474-0,,"Mackerel IgE Antibody, Serum",Immunological health,year_1,low
+74761-8,,Microcytosis RBC,Hematological health,month_3,medium
+74774-1,Random Blood Sugar,"Random Blood Sugar (RBS), Serum",Endocrine health,stat,medium
+7495-5,,"Dust Mite IgE, Serum",Immunological health,year_1,low
+75377-2,,Dengue NS1 Antigen (Qualitative),Other health issues,week_1,low
+7551-5,,"Orange IgE Antibody, Serum",Immunological health,year_1,low
+75510-8,,APTT with Mixing Studies,Hematological health,month_3,medium
+7552-3,,"Oregano IgE Antibody, Serum",Immunological health,year_1,low
+7563-0,,"Capsicum IgE Antibody, Serum",Immunological health,year_1,low
+75642-9,,"Uric Acid Creatinine Ratio, 24H Urine, (Molar Ratio)",Renal health,month_3,medium
+7573-9,,"Chickpea IgE Antibody, Serum",Immunological health,year_1,low
+7591-1,,"Chilli Pepper IgE Antibody, Serum",Immunological health,year_1,low
+7604-2,,"Pigweed IgE Antibody, Serum",Immunological health,year_1,low
+76069-4,,Hypochromia RBC,Hematological health,month_6,low
+76090-0,,Hyperchromia RBC,Hematological health,month_6,low
+7613-3,,"Pistachio IgE Antibody, Serum",Immunological health,year_1,low
+7623-2,,"Poppy Seed IgE Antibody, Serum",Immunological health,year_1,low
+7627-3,,"Sweet Potato IgE Antibody, Serum",Immunological health,year_1,low
+76399-5,,Troponin I (Qualitative),Cardiovascular health,stat,high
+7643-0,,"Radish IgE, Serum",Immunological health,year_1,low
+76483-7,,Apolipoprotein A1 (Apo-A1) (Mol/Vol),Cardiovascular health,month_3,medium
+76486-0,,HsCRP (High Sensitivity C Reactive Protein) (Mol/Vol),Cardiovascular health,month_3,high
+7674-5,,"Rye IgE Antibody, Serum",Immunological health,year_1,low
+76772-3,,"Plasmodium falciparum (MP) Antigen Test, Blood",Endocrine health,month_3,medium
+77307-7,,"Lead,  Whole Blood",Hematological health,month_3,medium
+77348-1,,Tacrolimus Trough Level,Other health issues,less_than_24_hr,high
+7737-0,,"Thyme IgE Antibody, Serum",Immunological health,year_1,low
+7745-3,,"Trichophyton sp. IgE, Serum",Immunological health,year_1,low
+7756-0,,"Vanilla IgE Antibody, Serum",Immunological health,year_1,zero
+7770-1,,"Watermelon IgE Antibody, Serum",Immunological health,year_1,low
+7787-5,,"Yoghurt IgE Antibody, Serum",Immunological health,year_1,low
+779-9,,"Poikilocytosis, Blood (Presence)",Hematological health,month_3,low
+7852-7,,"CMV IgG Ab, Serum (Quantitative)",Reproductive health,month_6,medium
+7853-5,,"CMV IgM Ab, Serum (Quantitative)",Reproductive health,month_1,medium
+78742-4,,"Yeast, Urine",Renal health,week_1,zero
+7885-7,,"Epstein Barr Viral Capsid Antibody, IgG (Quantitative)",Other health issues,lifetime,medium
+7886-5,,"Epstein Barr Viral Capsid Antibody, IgM (Quantitative)",Other health issues,month_1,medium
+7900-4,,"Helicobacter pylori Antibody, Serum (Quantitative)",Gastrointestinal health,year_1,medium
+7901-2,,"Helicobacter pylori IgA Antibody, Serum (Quantitative)",Gastrointestinal health,month_1,medium
+7902-0,,"Helicobacter pylori IgG Antibody, Serum (Quantitative)",Gastrointestinal health,year_1,medium
+7903-8,,"Helicobacter pylori IgM Antibody, Serum (Quantitative)",Gastrointestinal health,month_6,medium
+8014-3,,"Rubella IgG Antibody, Serum (Quantitative)",Reproductive health,lifetime,medium
+8015-0,,Rubella IgM Antibody (Quantitative),Reproductive health,month_6,medium
+803-7,,Peripheral Blood Smear (PBS) for Toxic Granules,Hematological health,week_1,medium
+8061-4,,"Antinuclear Antibody (ANA), Serum (Qualitative)",Immunological health,month_6,medium
+8065-5,,ACA IgG (Anticardiolipin Antibody) (Quantitative),Immunological health,year_1,medium
+8067-1,,ACA IgM (Anticardiolipin Antibody) (Quantitative),Immunological health,month_6,medium
+8068-9,,"Anti - Centromere Antibody, Serum (Quantitative)",Immunological health,month_6,medium
+8076-2,,"Anti-Jo-1 Antibody, Serum (Qualitative)",Immunological health,month_6,medium
+8091-1,,"Anti RNP Antibody, Serum",Immunological health,month_6,medium
+8093-7,,"Anti SSA / RO Antibody, Serum (Qualitative)",Immunological health,month_6,medium
+8094-5,,Anti SSB/LA Antibody (Qualitative),Immunological health,month_6,medium
+8098-6,,"Thyroglobulin Antibody, Serum (Quantitative)",Endocrine health,month_6,medium
+8099-4,Anti TPO Antibody,Anti TPO Antibody,Endocrine health,month_6,medium
+8161-2,,"Bismuth, Whole Blood",Other health issues,month_1,medium
+81641-3,,"HIV II, Serum (Rapid)",Immunological health,lifetime,high
+8203-2,,"Manganese, 24H Urine",Other health issues,less_than_24_hr,medium
+8246-1,,"Amorphous deposits, Urine (Presence)",Renal health,month_6,low
+82552-1,,"Legume Mix (FA Mix - 32)IgE, Serum",Immunological health,year_1,low
+8302-2,,Body Height,Other health issues,lifetime,zero
+83104-0,,"Anti-Mullerian Hormone (AMH), Serum",Reproductive health,month_6,medium
+86951-1,,"Lipoprotein Associated Phospholipase A2 (Lp - PLA2), Serum/Plasma",Cardiovascular health,month_3,medium
+8867-4,Heart Rate,HR (Heart Rate),Cardiovascular health,stat,medium
+88966-7,,"Hyaline Cast, Urine",Renal health,month_3,low
+88967-5,,"Leucine Crystals, Urine",Gastrointestinal health,month_3,high
+90364-1,,sLDL (Small Dense LDL Cholesterol),Cardiovascular health,month_3,medium
+9318-7,,"Albumin Creatinine Ratio, Spot Urine",Renal health,month_3,medium
+9321-1,,"Calcium Creatinine Ratio, Spot Urine",Renal health,month_3,medium
+93979-3,,Chikungunya IgG Antibody,Musculoskeletal health,month_1,medium
+9425-0,,"Acetone, Blood",Endocrine health,stat,medium
+94309-2,RT PCR for Covid 19,Covid 19 RT PCR,Respiratory health,month_3,medium
+94505-5,,"COVID-19 IgG Antibody, Serum (Quantitative)",Respiratory health,year_1,medium
+94506-3,,Anti SARS Cov-2 IgM (COVID-19) (Units/Vol),Respiratory health,month_3,medium
+94558-4,Covid 19 Antigen Test,SARS Cov-2 Antigen Test,Respiratory health,month_3,medium
+94563-4,,"Covid - 19 IgG Antibody, Serum (Qualitative)",Respiratory health,year_1,medium
+94564-2,,"Covid - 19 IgM Antibody, Serum (Qualitative)",Respiratory health,month_3,medium
+9622-2,,"Vitamin K1, Serum",Malnutrition,month_3,medium
+96354-6,,Large Platelet Count,Hematological health,week_1,low
+97866-8,,"Chikungunya Virus IgG Antibody, Serum (Quantitative)",Musculoskeletal health,month_1,medium
+97867-6,,"Chikungunya Virus IgM Antibody, Serum (Quantitative)",Musculoskeletal health,week_1,medium
+98045-8,,"Flaxseed IgE Antibody, Serum",Immunological health,year_1,low
+9813-7,,"Cortisol Morning Specimen, Serum",Endocrine health,month_3,medium
+9828-5,,"House Dust Greer IgE Antibody, Serum",Immunological health,year_1,low
+9830-1,,Total Cholesterol / HDL Cholesterol Ratio,Cardiovascular health,month_3,medium
+98979-8,,GFR - CKD EPI 2021(Creatinine),Renal health,month_6,medium
+98980-6,,GFR - CKD EPI 2021(Creat and Cys C),Renal health,month_6,medium
+eka001007,,"Post - Lunch Glucose, Serum",Endocrine health,stat,medium

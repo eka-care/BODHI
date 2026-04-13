@@ -1,0 +1,1769 @@
+child_snomed_id,child_name,child_level,parent_snomed_id,parent_name,parent_level
+63480004,Chronic bronchitis,granular,13645005,Chronic obstructive lung disease,group
+195951007,Acute exacerbation of chronic obstructive airways disease,granular,13645005,Chronic obstructive lung disease,group
+196001008,Chronic obstructive pulmonary disease with acute lower respiratory infection,granular,13645005,Chronic obstructive lung disease,group
+11687002,Gestational diabetes mellitus,granular,73211009,Diabetes mellitus,group
+237622006,Poor glycemic control,granular,73211009,Diabetes mellitus,group
+44054006,Diabetes mellitus type 2,granular,73211009,Diabetes mellitus,group
+9414007,Impaired glucose tolerance,granular,73211009,Diabetes mellitus,group
+46635009,Diabetes mellitus type 1,granular,73211009,Diabetes mellitus,group
+402599005,Acanthosis nigricans,granular,73211009,Diabetes mellitus,group
+81531005,Diabetes mellitus type 2 in obese,granular,73211009,Diabetes mellitus,group
+763325000,Insulin resistance,granular,73211009,Diabetes mellitus,group
+83469008,Hyperinsulinism,granular,73211009,Diabetes mellitus,group
+426875007,Latent autoimmune diabetes mellitus in adult,granular,73211009,Diabetes mellitus,group
+190372001,Type I diabetes mellitus maturity onset,granular,73211009,Diabetes mellitus,group
+51002006,Diabetes mellitus associated with pancreatic disease,granular,73211009,Diabetes mellitus,group
+390951007,Impaired fasting glycemia,granular,73211009,Diabetes mellitus,group
+80394007,Hyperglycemia,granular,73211009,Diabetes mellitus,group
+609561005,Maturity-onset diabetes of the young,granular,73211009,Diabetes mellitus,group
+190447002,Steroid-induced diabetes,granular,73211009,Diabetes mellitus,group
+359642000,Diabetes mellitus type 2 in nonobese,granular,73211009,Diabetes mellitus,group
+79909001,Pneumocystis jirovecii,granular,50417007,Lower respiratory tract infection,group
+195742007,Acute lower respiratory tract infection,granular,50417007,Lower respiratory tract infection,group
+5505005,Acute bronchiolitis,granular,50417007,Lower respiratory tract infection,group
+396285007,Bronchopneumonia,granular,50417007,Lower respiratory tract infection,group
+4120002,Bronchiolitis,granular,50417007,Lower respiratory tract infection,group
+233604007,Pneumonia,granular,50417007,Lower respiratory tract infection,group
+406617004,Invasive Streptococcus pneumoniae disease,granular,50417007,Lower respiratory tract infection,group
+700250006,Idiopathic pulmonary fibrosis,granular,50417007,Lower respiratory tract infection,group
+75570004,Viral pneumonia,granular,50417007,Lower respiratory tract infection,group
+278484009,Tropical pulmonary eosinophilia,granular,50417007,Lower respiratory tract infection,group
+6142004,Influenza,granular,50417007,Lower respiratory tract infection,group
+425878001,Cervical disc disorder,granular,387800004,Cervical spondylosis,group
+202683005,Cervical spondylosis with radiculopathy,granular,387800004,Cervical spondylosis,group
+202664003,Cervical myelopathy,granular,387800004,Cervical spondylosis,group
+11049006,Cervical radiculitis,granular,387800004,Cervical spondylosis,group
+54404000,Cervical radiculopathy,granular,387800004,Cervical spondylosis,group
+45816000,Pyelonephritis,granular,52845002,Nephritis,group
+77182004,Membranous glomerulonephritis,granular,52845002,Nephritis,group
+36689008,Acute pyelonephritis,granular,52845002,Nephritis,group
+68815009,Systemic lupus erythematosus glomerulonephritis syndrome,granular,52845002,Nephritis,group
+202735001,Lumbar disc prolapse with radiculopathy,granular,73589001,Intervertebral disc prolapse,group
+2304001,Discitis,granular,73589001,Intervertebral disc prolapse,group
+240215009,Prolapsed cervical intervertebral disc,granular,73589001,Intervertebral disc prolapse,group
+77547008,Degeneration of intervertebral disc,granular,73589001,Intervertebral disc prolapse,group
+700378005,Chronic kidney disease stage 3A,granular,709044004,Chronic kidney disease,group
+700379002,Chronic kidney disease stage 3B,granular,709044004,Chronic kidney disease,group
+431855005,Chronic kidney disease stage 1,granular,709044004,Chronic kidney disease,group
+236407003,Immunoglobulin A nephropathy,granular,709044004,Chronic kidney disease,group
+431856006,Chronic kidney disease stage 2,granular,709044004,Chronic kidney disease,group
+42399005,Renal failure syndrome,granular,709044004,Chronic kidney disease,group
+431857002,Chronic kidney disease stage 4,granular,709044004,Chronic kidney disease,group
+714152005,Chronic kidney disease stage 5 on dialysis,granular,709044004,Chronic kidney disease,group
+433146000,Chronic kidney disease stage 5,granular,709044004,Chronic kidney disease,group
+90688005,Chronic renal failure syndrome,granular,709044004,Chronic kidney disease,group
+433144002,Chronic kidney disease stage 3,granular,709044004,Chronic kidney disease,group
+197315008,Non-alcoholic fatty liver,granular,197321007,Steatosis of liver,group
+442685003,Nonalcoholic steatohepatitis,granular,197321007,Steatosis of liver,group
+12463005,Infectious gastroenteritis,granular,25374005,Gastroenteritis,group
+69776003,Acute gastroenteritis,granular,25374005,Gastroenteritis,group
+135841008,Dry eczema,granular,43116000,Eczema,group
+402285007,Irritant contact dermatitis due to lip-licking,granular,43116000,Eczema,group
+238564003,Psoriasiform eczema,granular,43116000,Eczema,group
+44256003,Chronic eczema,granular,43116000,Eczema,group
+762389001,Eczema of lower leg,granular,43116000,Eczema,group
+402234004,Foot eczema,granular,43116000,Eczema,group
+81418003,Nummular eczema,granular,43116000,Eczema,group
+201077008,Asteatotic eczema,granular,43116000,Eczema,group
+402222007,Vesicular hand eczema,granular,43116000,Eczema,group
+473424007,Hearing loss of left ear,granular,15188001,Hearing loss,group
+49526009,Presbycusis,granular,15188001,Hearing loss,group
+11543004,Otosclerosis,granular,15188001,Hearing loss,group
+60700002,Sensorineural hearing loss,granular,15188001,Hearing loss,group
+232324007,Obscure auditory dysfunction,granular,15188001,Hearing loss,group
+317349009,Vernal keratoconjunctivitis,granular,9826008,Conjunctivitis,group
+75705005,Red eye,granular,9826008,Conjunctivitis,group
+68659002,Blepharoconjunctivitis,granular,9826008,Conjunctivitis,group
+231854006,Atopic conjunctivitis,granular,9826008,Conjunctivitis,group
+473460002,Allergic conjunctivitis,granular,9826008,Conjunctivitis,group
+45261009,Viral conjunctivitis,granular,9826008,Conjunctivitis,group
+202794004,Lumbago with sciatica,granular,23056005,Sciatica,group
+16839401000119104,,granular,23056005,Sciatica,group
+723003004,Acute eruptive lichen planus,granular,88996004,Lichen,group
+68266006,Hypertrophic lichen planus,granular,88996004,Lichen,group
+42442001,Lichen striatus,granular,88996004,Lichen,group
+64540004,Lichen planopilaris,granular,88996004,Lichen,group
+41890004,Lichen nitidus,granular,88996004,Lichen,group
+4776004,Lichen planus,granular,88996004,Lichen,group
+53891004,Lichen simplex chronicus,granular,88996004,Lichen,group
+40178009,Allergic urticaria,granular,126485001,Urticaria,group
+402656007,Urticarial vasculitis,granular,126485001,Urticaria,group
+402399009,Chronic autoimmune urticaria,granular,126485001,Urticaria,group
+247472004,Wheal,granular,126485001,Urticaria,group
+302162004,Chronic idiopathic urticaria,granular,126485001,Urticaria,group
+73098005,Cholinergic urticaria,granular,126485001,Urticaria,group
+7632005,Dermatographic urticaria,granular,126485001,Urticaria,group
+402408009,Acute urticaria,granular,126485001,Urticaria,group
+51611005,Chronic urticaria,granular,126485001,Urticaria,group
+713181003,Chronic alcoholic liver disease,granular,41309000,Alcoholic liver damage,group
+235875008,Alcoholic hepatitis,granular,41309000,Alcoholic liver damage,group
+449724005,Myopic astigmatism,granular,39021009,Disorder of refraction,group
+34187009,Severe myopia,granular,39021009,Disorder of refraction,group
+41256004,Presbyopia,granular,39021009,Disorder of refraction,group
+347131000119108,Astigmatism of bilateral eyes,granular,39021009,Disorder of refraction,group
+82649003,Astigmatism,granular,39021009,Disorder of refraction,group
+38101003,Hypermetropia,granular,39021009,Disorder of refraction,group
+57190000,Myopia,granular,39021009,Disorder of refraction,group
+127189005,Axillary lymphadenopathy,granular,30746006,Lymphadenopathy,group
+10629111000119109,,granular,30746006,Lymphadenopathy,group
+15170009,Submandibular lymphadenitis,granular,30746006,Lymphadenopathy,group
+19471005,Lymphadenitis,granular,30746006,Lymphadenopathy,group
+3502005,Cervical lymphadenitis,granular,30746006,Lymphadenopathy,group
+44897000,Mesenteric lymphadenitis,granular,30746006,Lymphadenopathy,group
+127086001,Cervical lymphadenopathy,granular,30746006,Lymphadenopathy,group
+445472003,Lymphovenous edema,granular,30746006,Lymphadenopathy,group
+315353005,Posterior subcapsular cataract,granular,193570009,Cataract,group
+95217000,Pseudophakia,granular,193570009,Cataract,group
+53889007,Nuclear cataract,granular,193570009,Cataract,group
+48440001,Arthritis due to gout,granular,90560007,Inflammatory disorder due to increased blood urate level,group
+700380004,Insertional Achilles tendinopathy,granular,68172002,Disorder of tendon,group
+37785001,Patellar tendonitis,granular,68172002,Disorder of tendon,group
+11654001,Achilles tendinitis,granular,68172002,Disorder of tendon,group
+202841003,Supraspinatus tendinitis,granular,68172002,Disorder of tendon,group
+21794005,Radial styloid tenosynovitis,granular,68172002,Disorder of tendon,group
+34840004,Tendinitis,granular,68172002,Disorder of tendon,group
+16004271000119100,Tenosynovitis of right radial styloid,granular,68172002,Disorder of tendon,group
+16004351000119104,Tenosynovitis of left radial styloid,granular,68172002,Disorder of tendon,group
+67801009,Tenosynovitis,granular,68172002,Disorder of tendon,group
+202856007,Biceps tendinitis,granular,68172002,Disorder of tendon,group
+73583000,Epicondylitis,granular,23680005,Enthesopathy,group
+312421000119107,Lateral epicondylitis of right humerus,granular,23680005,Enthesopathy,group
+53286005,Medial epicondylitis of elbow joint,granular,23680005,Enthesopathy,group
+202855006,Lateral epicondylitis,granular,23680005,Enthesopathy,group
+95823003,Leudet's tinnitus,granular,232297009,Disorder of inner ear,group
+20425006,Labyrinthine disorder,granular,232297009,Disorder of inner ear,group
+13445001,Ménière's disease,granular,232297009,Disorder of inner ear,group
+447330002,Tuberculosis of abdomen,granular,56717001,Tuberculosis,group
+733835007,Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection,granular,56717001,Tuberculosis,group
+446986002,Tuberculous pleural effusion,granular,56717001,Tuberculosis,group
+58437007,Tuberculosis of meninges,granular,56717001,Tuberculosis,group
+23022004,Tuberculous bronchiectasis,granular,56717001,Tuberculosis,group
+182159002,Disseminated tuberculosis,granular,56717001,Tuberculosis,group
+35984006,Tuberculosis of vertebral column,granular,56717001,Tuberculosis,group
+47604008,Miliary tuberculosis,granular,56717001,Tuberculosis,group
+10759881000119100,,granular,56717001,Tuberculosis,group
+10893003,Tuberculous adenitis,granular,56717001,Tuberculosis,group
+423997002,"Tuberculosis, extrapulmonary",granular,56717001,Tuberculosis,group
+154283005,Pulmonary tuberculosis,granular,56717001,Tuberculosis,group
+408335007,Autoimmune hepatitis,granular,128241005,Inflammatory disease of liver,group
+27916005,Abscess of liver,granular,128241005,Inflammatory disease of liver,group
+235876009,Drug-induced hepatitis,granular,128241005,Inflammatory disease of liver,group
+74814004,Contusion of foot,granular,125667009,Contusion,group
+91613004,Contusion of elbow,granular,125667009,Contusion,group
+425359009,Blunt injury,granular,125667009,Contusion,group
+229811005,Foot callus,granular,201040000,Callosity,group
+201038005,Corn - lesion,granular,201040000,Callosity,group
+238575004,Allergic contact dermatitis,granular,422290000,Allergic disorder of skin,group
+37871000,Acute hepatitis,granular,3738000,Viral hepatitis,group
+57412004,Acute viral hepatitis,granular,3738000,Viral hepatitis,group
+40468003,"Viral hepatitis, type A",granular,3738000,Viral hepatitis,group
+50711007,Viral hepatitis type C,granular,3738000,Viral hepatitis,group
+66071002,Viral hepatitis type B,granular,3738000,Viral hepatitis,group
+33839006,Genital herpes simplex,granular,88594005,Herpes simplex,group
+1475003,Herpes labialis,granular,88594005,Herpes simplex,group
+27052006,Vivax malaria,granular,61462000,Malaria,group
+840307003,Moderate pulmonary hypertension,granular,70995007,Pulmonary hypertension,group
+840308008,Severe pulmonary hypertension,granular,70995007,Pulmonary hypertension,group
+840306007,Mild pulmonary hypertension,granular,70995007,Pulmonary hypertension,group
+83291003,Cor pulmonale,granular,70995007,Pulmonary hypertension,group
+11399002,Pulmonary hypertensive arterial disease,granular,70995007,Pulmonary hypertension,group
+59848001,Obstructive hyperbilirubinemia,granular,14783006,Hyperbilirubinemia,group
+209557005,Neck sprain,granular,105611005,Sprain of ligament of joint,group
+1781000119107,Sprain of ankle grade II,granular,105611005,Sprain of ligament of joint,group
+70704007,Sprain of wrist,granular,105611005,Sprain of ligament of joint,group
+23415000,Sprain of jaw,granular,105611005,Sprain of ligament of joint,group
+44465007,Sprain of ankle,granular,105611005,Sprain of ligament of joint,group
+49388007,Sprain of foot,granular,105611005,Sprain of ligament of joint,group
+116143008,Total abdominal hysterectomy,granular,236886002,Hysterectomy,group
+88355005,Diagnostic hysteroscopy,granular,236886002,Hysterectomy,group
+75835007,Laparoscopic-assisted vaginal hysterectomy,granular,236886002,Hysterectomy,group
+168884001,Hysterosalpingogram,granular,236886002,Hysterectomy,group
+762625001,Vaginal hysterectomy and pelvic floor repair,granular,236886002,Hysterectomy,group
+307771009,Radical abdominal hysterectomy,granular,236886002,Hysterectomy,group
+307719001,Hysteroscopy and endometrial biopsy,granular,236886002,Hysterectomy,group
+265056007,Vaginal hysterectomy,granular,236886002,Hysterectomy,group
+116144002,Total abdominal hysterectomy with bilateral salpingo-oophorectomy,granular,236886002,Hysterectomy,group
+116141005,Abdominal hysterectomy,granular,236886002,Hysterectomy,group
+116140006,Total hysterectomy,granular,236886002,Hysterectomy,group
+236887006,Laparoscopic hysterectomy,granular,236886002,Hysterectomy,group
+232722009,Coronary artery bypass grafts x 4,granular,232717009,Coronary artery bypass grafting,group
+232719007,Coronary artery bypass graft x 1,granular,232717009,Coronary artery bypass grafting,group
+252427007,Coronary bypass graft angiography,granular,232717009,Coronary artery bypass grafting,group
+419132001,Minimally invasive direct coronary artery bypass,granular,232717009,Coronary artery bypass grafting,group
+232721002,Coronary artery bypass grafts x 3,granular,232717009,Coronary artery bypass grafting,group
+418824004,Off-pump coronary artery bypass,granular,232717009,Coronary artery bypass grafting,group
+232720001,Coronary artery bypass grafts x 2,granular,232717009,Coronary artery bypass grafting,group
+414088005,Emergency coronary artery bypass graft,granular,232717009,Coronary artery bypass grafting,group
+233263005,Angioplasty of aorta,granular,418285008,Repair of blood vessel,group
+233258006,Angioplasty of artery,granular,418285008,Repair of blood vessel,group
+11101003,Percutaneous transluminal coronary angioplasty,granular,418285008,Repair of blood vessel,group
+346007006,Angioplasty of renal artery,granular,418285008,Repair of blood vessel,group
+709077000,Angioplasty of peripheral blood vessel,granular,418285008,Repair of blood vessel,group
+103716009,Placement of stent,granular,418285008,Repair of blood vessel,group
+75732000,Vitrectomy,granular,371587008,Repair of inguinal hernia,group
+40833009,Keratectomy,granular,371587008,Repair of inguinal hernia,group
+265283001,Operation on nasolacrimal duct,granular,371587008,Repair of inguinal hernia,group
+51683002,Radial keratotomy,granular,371587008,Repair of inguinal hernia,group
+70107009,Repair of ocular lens,granular,371587008,Repair of inguinal hernia,group
+397112000,Simple excision of pterygium,granular,371587008,Repair of inguinal hernia,group
+291790006,Repair of cornea,granular,371587008,Repair of inguinal hernia,group
+231629008,Dacryocystorhinostomy,granular,371587008,Repair of inguinal hernia,group
+55272009,Dacryocystectomy,granular,371587008,Repair of inguinal hernia,group
+60656008,Corneal transplant,granular,371587008,Repair of inguinal hernia,group
+312965008,Laser assisted in situ keratomileusis,granular,371587008,Repair of inguinal hernia,group
+41453009,Strabismus surgery,granular,371587008,Repair of inguinal hernia,group
+86077009,Operation for glaucoma,granular,371587008,Repair of inguinal hernia,group
+414582004,Laser assisted subepithelial keratomileusis,granular,371587008,Repair of inguinal hernia,group
+54885007,Extraction of cataract,granular,371587008,Repair of inguinal hernia,group
+9877001,Repair of paraumbilical hernia,granular,50465008,Hernia repair,group
+608799006,Open repair of obstructed inguinal hernia,granular,50465008,Hernia repair,group
+773224003,Laparoscopic transabdominal preperitoneal repair of inguinal hernia using synthetic mesh,granular,50465008,Hernia repair,group
+719280000,Repair of lumbar hernia using surgical mesh,granular,50465008,Hernia repair,group
+771726009,Laparoscopic repair of epigastric hernia,granular,50465008,Hernia repair,group
+773227005,Laparoscopic transabdominal preperitoneal repair of femoral hernia using synthetic mesh,granular,50465008,Hernia repair,group
+719288007,Repair of femoral hernia,granular,50465008,Hernia repair,group
+710785000,Laparoscopic repair of hernia,granular,50465008,Hernia repair,group
+719265006,Repair of inguinal hernia using surgical mesh,granular,50465008,Hernia repair,group
+719290008,Repair of umbilical hernia using surgical mesh,granular,50465008,Hernia repair,group
+9292007,Esophageal hiatus hernia repair,granular,50465008,Hernia repair,group
+238187004,Repair of incisional hernia,granular,50465008,Hernia repair,group
+238167000,Repair of inguinal hernia using surgical sutures,granular,50465008,Hernia repair,group
+177854007,Simple excision of inguinal hernial sac,granular,50465008,Hernia repair,group
+719291007,Repair of epigastric hernia using surgical mesh,granular,50465008,Hernia repair,group
+719283003,Repair of ventral hernia,granular,50465008,Hernia repair,group
+107808005,Accessory sinus excision,granular,88733004,,group
+232500000,Middle meatal antrostomy,granular,88733004,,group
+178422006,Partial maxillectomy,granular,88733004,,group
+172790004,Submucous resection of nasal septum,granular,88733004,,group
+276747001,Uncinectomy and polypectomy,granular,88733004,,group
+47782001,Submucous resection of nasal septum with replacement with graft,granular,88733004,,group
+53341005,Manipulation of displaced nasal septum,granular,88733004,,group
+13529000,Nasal septoplasty,granular,88733004,,group
+232470004,Reconstruction of nose,granular,88733004,,group
+172825008,Nasal polypectomy,granular,88733004,,group
+175907006,Nephroureterectomy,granular,108022006,Kidney excision,group
+81516001,Partial nephrectomy,granular,108022006,Kidney excision,group
+12976005,Donor nephrectomy,granular,108022006,Kidney excision,group
+116033007,Radical nephrectomy,granular,108022006,Kidney excision,group
+6561000179108,Open nephrectomy from live donor,granular,108022006,Kidney excision,group
+177184002,Normal delivery procedure,granular,236973005,Delivery procedure,group
+788180009,Lower uterine segment cesarean section,granular,236973005,Delivery procedure,group
+425901007,In vitro fertilization with intracytoplasmic sperm injection,granular,52637005,Test tube ovum fertilization,group
+271993009,Peripheral angiography,granular,77343006,Angiography,group
+33367005,Fluoroscopic angiography of coronary artery with contrast,granular,77343006,Angiography,group
+418272005,Computed tomography angiography with contrast,granular,77343006,Angiography,group
+189234004,Tubal occlusion,granular,703145006,Sterilization procedure,group
+29656003,"Radical mastoidectomy, modified",granular,69031006,Excision of breast tissue,group
+172044000,Subcutaneous mastectomy for gynecomastia,granular,69031006,Excision of breast tissue,group
+27865001,Bilateral mastectomy,granular,69031006,Excision of breast tissue,group
+406505007,Modified radical mastectomy,granular,69031006,Excision of breast tissue,group
+19063003,Arthroplasty of knee,granular,179342005,Knee joint operation,group
+179402001,Cemented unicompartmental knee replacement,granular,179342005,Knee joint operation,group
+239426007,Repair of anterior cruciate ligament of knee joint,granular,179342005,Knee joint operation,group
+88312006,Amputation of leg through tibia and fibula,granular,179342005,Knee joint operation,group
+239431009,Reconstruction of anterior cruciate ligament of knee joint,granular,179342005,Knee joint operation,group
+609588000,Total knee replacement,granular,179342005,Knee joint operation,group
+265170009,Total prosthetic replacement of knee joint using cement,granular,179342005,Knee joint operation,group
+119954001,Adenoid excision,granular,232522007,,group
+173422009,Tonsillectomy,granular,232522007,,group
+73610000,Incision of tonsil,granular,232522007,,group
+28913000,Tonsillectomy and adenoidectomy,granular,232522007,,group
+175954005,Percutaneous nephrolithotomy without disintegration,granular,175898006,Kidney operation,group
+35157006,Incision of kidney,granular,175898006,Kidney operation,group
+70536003,Transplant of kidney,granular,175898006,Kidney operation,group
+77100009,Reconstruction of ureteropelvic junction,granular,175898006,Kidney operation,group
+30398006,Renal calicotomy,granular,175898006,Kidney operation,group
+386200002,Removal of calculus of renal pelvis through percutaneous nephrostomy,granular,175898006,Kidney operation,group
+261540001,Laminotomy,granular,387731002,Excision of lamina of vertebra,group
+260647003,Total laminectomy,granular,387731002,Excision of lamina of vertebra,group
+359586003,Laminectomy with spinal fusion,granular,387731002,Excision of lamina of vertebra,group
+445429009,Excision of lamina of cervical vertebra,granular,387731002,Excision of lamina of vertebra,group
+6025007,Laparoscopic appendectomy,granular,8613002,Operation on appendix,group
+174036004,Emergency appendectomy,granular,8613002,Operation on appendix,group
+174045003,Interval appendectomy,granular,8613002,Operation on appendix,group
+49586007,Appendicocecostomy,granular,8613002,Operation on appendix,group
+17041004,Incision of appendix,granular,8613002,Operation on appendix,group
+42332004,Fistulization of appendix,granular,8613002,Operation on appendix,group
+80146002,Excision of appendix,granular,8613002,Operation on appendix,group
+65575008,Biopsy of prostate,granular,118877007,Procedure on prostate,group
+176258007,Open prostatectomy,granular,118877007,Procedure on prostate,group
+90199006,Transurethral prostatectomy,granular,118877007,Procedure on prostate,group
+236252003,Revision of transurethral prostatectomy,granular,118877007,Procedure on prostate,group
+26294005,Radical prostatectomy,granular,118877007,Procedure on prostate,group
+235395005,Excision of pilonidal sinus,granular,24265000,Operation on anus,group
+174391002,Drainage of ischiorectal abscess,granular,24265000,Operation on anus,group
+430798009,Transanal resection of rectum and anastomosis using staples,granular,24265000,Operation on anus,group
+24420007,Sigmoidoscopy,granular,24265000,Operation on anus,group
+59446006,Suture of anal sphincter,granular,24265000,Operation on anus,group
+174403009,Drainage of pilonidal sinus,granular,24265000,Operation on anus,group
+89770003,Anal sphincterotomy,granular,24265000,Operation on anus,group
+174334007,Excision of anal polyp,granular,24265000,Operation on anus,group
+174392009,Drainage of perianal abscess,granular,24265000,Operation on anus,group
+174359003,Rubber band ligation of hemorrhoid,granular,24265000,Operation on anus,group
+86888002,Anal fistulectomy,granular,24265000,Operation on anus,group
+174396007,Pilonidal sinus operation,granular,24265000,Operation on anus,group
+392027008,Anal fissurectomy,granular,24265000,Operation on anus,group
+79567008,Incision of anal fistula,granular,24265000,Operation on anus,group
+274446006,Renal lithotripsy,granular,133864008,Lithotripsy,group
+274447002,Ureteric lithotripsy,granular,133864008,Lithotripsy,group
+236179008,Ureteroscopic fragmentation of ureteric calculus,granular,133864008,Lithotripsy,group
+20042009,Extracorporeal shockwave lithotripsy of ureter,granular,133864008,Lithotripsy,group
+24376003,Extracorporeal shockwave lithotripsy of calculus of kidney,granular,133864008,Lithotripsy,group
+30956003,Subtotal thyroidectomy,granular,118766009,Procedure on thyroid gland,group
+237486002,Total thyroidectomy with cervical lymph node dissection,granular,118766009,Procedure on thyroid gland,group
+82460002,Incision of thyroid,granular,118766009,Procedure on thyroid gland,group
+13619001,Thyroidectomy,granular,118766009,Procedure on thyroid gland,group
+24443003,Total thyroidectomy,granular,118766009,Procedure on thyroid gland,group
+24711004,Partial substernal thyroidectomy,granular,118766009,Procedure on thyroid gland,group
+235389009,Open hemorrhoidectomy,granular,235388001,Hemorrhoid operation,group
+174385004,Lateral sphincterotomy,granular,235388001,Hemorrhoid operation,group
+84282008,Simple ligature of hemorrhoid,granular,235388001,Hemorrhoid operation,group
+24496007,Hemorrhoidectomy,granular,235388001,Hemorrhoid operation,group
+74146001,Repair of urinary bladder,granular,14861000,Operation on bladder,group
+265586008,Transurethral incision of male bladder neck,granular,14861000,Operation on bladder,group
+301879009,Instillation of bacillus Calmette-Guerin into the bladder,granular,14861000,Operation on bladder,group
+386792000,Transurethral resection of bladder neoplasm,granular,14861000,Operation on bladder,group
+241175004,Cholecystogram,granular,19744006,Operation on gallbladder,group
+89967006,Partial cholecystectomy,granular,19744006,Operation on gallbladder,group
+88748005,Cholelithotomy,granular,19744006,Operation on gallbladder,group
+45993005,Cholecystectomy with exploration of common duct,granular,19744006,Operation on gallbladder,group
+35241000,Cholecystostomy,granular,19744006,Operation on gallbladder,group
+395724000,Choledocholithotomy,granular,19744006,Operation on gallbladder,group
+265446003,Open removal of calculus from gallbladder,granular,19744006,Operation on gallbladder,group
+38507005,Cholecystopexy,granular,19744006,Operation on gallbladder,group
+242519008,Kasai procedure,granular,19744006,Operation on gallbladder,group
+38102005,Cholecystectomy,granular,19744006,Operation on gallbladder,group
+450500003,Laparoscopic cholecystostomy,granular,19744006,Operation on gallbladder,group
+45595009,Laparoscopic cholecystectomy,granular,19744006,Operation on gallbladder,group
+473217009,Decompression of intervertebral disc prolapse,granular,238181003,Procedure on spine,group
+55705006,Spinal arthrodesis,granular,238181003,Procedure on spine,group
+302129007,Decompression of lumbar spine,granular,238181003,Procedure on spine,group
+401226007,Vertebroplasty,granular,238181003,Procedure on spine,group
+10836008,Decompression of spinal cord,granular,238181003,Procedure on spine,group
+29906006,"Microdissection, spinal procedure",granular,238181003,Procedure on spine,group
+3418002,Chondrectomy of spine,granular,238181003,Procedure on spine,group
+231062004,Lumbar puncture to lower intracranial pressure,granular,238181003,Procedure on spine,group
+277762005,Lumbar puncture,granular,238181003,Procedure on spine,group
+265721002,Fixation of spinal fracture,granular,238181003,Procedure on spine,group
+239542002,Excision of lumbar intervertebral disc,granular,238181003,Procedure on spine,group
+265675003,Split thickness graft of skin to skin,granular,304040003,Grafting to skin,group
+232740008,Mitral valve operation,granular,85830006,Repair of heart valve,group
+261755008,Coronary inclusion technique,granular,85830006,Repair of heart valve,group
+68860005,Percutaneous valvuloplasty,granular,85830006,Repair of heart valve,group
+384643000,Repair of tricuspid valve,granular,85830006,Repair of heart valve,group
+1770009,Mitral valvotomy,granular,85830006,Repair of heart valve,group
+18223002,Mastoidotomy,granular,359652001,,group
+38475003,"Tympanoplasty with mastoidotomy, with ossicular chain reconstruction",granular,359652001,,group
+284532000,Myringotomy and insertion of tympanic ventilation tube,granular,359652001,,group
+397760009,Tympanotomy,granular,359652001,,group
+69130005,Stapedectomy,granular,359652001,,group
+386556002,Repair of middle ear,granular,359652001,,group
+50445001,Mastoidectomy,granular,359652001,,group
+384641003,Repair of mitral valve,granular,34068001,Heart valve replacement,group
+384642005,Mitral valvuloplasty,granular,34068001,Heart valve replacement,group
+6567006,Pulmonary valve commissurotomy by transvenous balloon method,granular,34068001,Heart valve replacement,group
+174929002,Mechanical prosthetic aortic valve replacement,granular,34068001,Heart valve replacement,group
+6433003,Closed heart valvotomy of mitral valve,granular,34068001,Heart valve replacement,group
+49676001,Closed mitral valve commissurotomy,granular,34068001,Heart valve replacement,group
+232834008,Balloon aortic valvotomy,granular,34068001,Heart valve replacement,group
+81762006,Double valve replacement,granular,34068001,Heart valve replacement,group
+39717005,Aortic valvotomy,granular,34068001,Heart valve replacement,group
+26212005,Replacement of aortic valve,granular,34068001,Heart valve replacement,group
+232847003,Aortic valve replacement and aortoplasty,granular,34068001,Heart valve replacement,group
+53059001,Replacement of mitral valve,granular,34068001,Heart valve replacement,group
+725351001,Transcatheter aortic valve replacement,granular,34068001,Heart valve replacement,group
+274024009,Aneurysm clipping,granular,30904006,Vascular surgery procedure,group
+559008,Excision of varicose vein,granular,30904006,Vascular surgery procedure,group
+122463005,Embolization procedure,granular,30904006,Vascular surgery procedure,group
+1636000,Injection of sclerosing agent in varicose vein,granular,30904006,Vascular surgery procedure,group
+233380006,Femorofemoral crossover bypass graft,granular,30904006,Vascular surgery procedure,group
+103718005,Removal of stent,granular,30904006,Vascular surgery procedure,group
+287344006,Varicose vein ligation and stripping,granular,30904006,Vascular surgery procedure,group
+450682002,Bypass of segment of aorta,granular,30904006,Vascular surgery procedure,group
+66951008,Carotid endarterectomy,granular,30904006,Vascular surgery procedure,group
+76987002,Repair of aorta,granular,30904006,Vascular surgery procedure,group
+440534008,Repair of pseudoaneurysm,granular,30904006,Vascular surgery procedure,group
+22699007,Partial salpingo-oophorectomy,granular,392250009,Operation on fallopian tube,group
+116028008,Salpingo-oophorectomy,granular,392250009,Operation on fallopian tube,group
+300896003,Open tubal occlusion,granular,392250009,Operation on fallopian tube,group
+77543007,Ligation of fallopian tube,granular,392250009,Operation on fallopian tube,group
+11127003,"Esophagogastrostomy, antesternal or antethoracic",granular,16453004,Operation on stomach,group
+442338001,Bypass of stomach,granular,16453004,Operation on stomach,group
+473239006,Bilateral oophorectomy for malignant neoplasm of ovary,granular,118870009,Procedure on ovary,group
+83152002,Oophorectomy,granular,118870009,Procedure on ovary,group
+387740003,Removal of ovarian cyst,granular,118870009,Procedure on ovary,group
+38192004,Incision of ovary,granular,118870009,Procedure on ovary,group
+315328007,Anterior resection of rectum with anastomosis,granular,118831003,Procedure on intestine,group
+47092002,Closure of ileostomy,granular,118831003,Procedure on intestine,group
+359585004,Ileojejunal bypass,granular,118831003,Procedure on intestine,group
+107938000,Small intestine excision,granular,118831003,Procedure on intestine,group
+235366001,Duhamel procedure,granular,118831003,Procedure on intestine,group
+10259007,Proctopexy,granular,118831003,Procedure on intestine,group
+4558008,Anterior resection of rectum,granular,118831003,Procedure on intestine,group
+265414003,Abdominoperineal resection of rectum,granular,118831003,Procedure on intestine,group
+398740003,Colostomy,granular,118831003,Procedure on intestine,group
+1390003,Laparoscopic-assisted sigmoid colectomy,granular,118831003,Procedure on intestine,group
+49245001,Bypass gastrojejunostomy,granular,118831003,Procedure on intestine,group
+42246001,Hepatojejunostomy,granular,118831003,Procedure on intestine,group
+26390003,Total colectomy,granular,118831003,Procedure on intestine,group
+359571009,Right colectomy,granular,118831003,Procedure on intestine,group
+73761001,Colonoscopy,granular,118831003,Procedure on intestine,group
+84604002,Sigmoid colectomy,granular,118831003,Procedure on intestine,group
+173747005,Roux-en-Y gastrojejunostomy,granular,118831003,Procedure on intestine,group
+443492008,Carcinoid tumor,granular,399981008,Neoplasm and/or hamartoma,group
+255055008,Neoplasm of head AND/OR neck,granular,399981008,Neoplasm and/or hamartoma,group
+109385007,Kaposi's sarcoma,granular,399981008,Neoplasm and/or hamartoma,group
+126824007,Neoplasm of stomach,granular,399981008,Neoplasm and/or hamartoma,group
+187841006,Malignant tumor of glottis,granular,399981008,Neoplasm and/or hamartoma,group
+109841003,Liver cell carcinoma,granular,399981008,Neoplasm and/or hamartoma,group
+92818009,"Chronic myeloid leukemia, disease",granular,399981008,Neoplasm and/or hamartoma,group
+782561007,Allergy to iron compound,granular,416098002,Allergy to drug,group
+294505008,Allergy to amoxicillin,granular,416098002,Allergy to drug,group
+293635003,Allergy to tuberculin purified protein derivative,granular,416098002,Allergy to drug,group
+294489002,Allergy to ofloxacin,granular,416098002,Allergy to drug,group
+718537002,Allergy to rosuvastatin,granular,416098002,Allergy to drug,group
+294460004,Allergy to tiabendazole,granular,416098002,Allergy to drug,group
+293597001,Allergy to codeine,granular,416098002,Allergy to drug,group
+293619005,Allergy to ibuprofen,granular,416098002,Allergy to drug,group
+293981001,Allergy to practolol,granular,416098002,Allergy to drug,group
+860927003,Allergy to fibric acid and fibric acid derivative,granular,416098002,Allergy to drug,group
+294472005,Allergy to azithromycin,granular,416098002,Allergy to drug,group
+294490006,Allergy to norfloxacin,granular,416098002,Allergy to drug,group
+294365005,Allergy to fluconazole,granular,416098002,Allergy to drug,group
+293917005,Allergy to risperidone,granular,416098002,Allergy to drug,group
+294342000,Allergy to terbinafine,granular,416098002,Allergy to drug,group
+91931000,Allergy to erythromycin,granular,416098002,Allergy to drug,group
+294542001,Allergy to cefuroxime,granular,416098002,Allergy to drug,group
+294418003,Allergy to phenol,granular,416098002,Allergy to drug,group
+295071000,Allergy to minoxidil,granular,416098002,Allergy to drug,group
+294031004,Allergy to xylometazoline,granular,416098002,Allergy to drug,group
+294585005,Allergy to doxycycline,granular,416098002,Allergy to drug,group
+294177005,Allergy to ichthammol,granular,416098002,Allergy to drug,group
+294135005,Allergy to hydroxyzine,granular,416098002,Allergy to drug,group
+294578006,Allergy to sulfacarbamide,granular,416098002,Allergy to drug,group
+294740006,Allergy to metformin,granular,416098002,Allergy to drug,group
+294366006,Allergy to itraconazole,granular,416098002,Allergy to drug,group
+294924001,Allergy to vitamin D and vitamin D derivative,granular,416098002,Allergy to drug,group
+767475000,Allergy to vitamin B12 and vitamin B12 derivative,granular,416098002,Allergy to drug,group
+294714000,Allergy to insulin,granular,416098002,Allergy to drug,group
+294568008,Allergy to tinidazole,granular,416098002,Allergy to drug,group
+871508005,Allergy to amoxicillin and/or clavulanic acid,granular,416098002,Allergy to drug,group
+293795007,Allergy to vindesine,granular,416098002,Allergy to drug,group
+294569000,Allergy to nimorazole,granular,416098002,Allergy to drug,group
+293613006,Allergy to diclofenac,granular,416098002,Allergy to drug,group
+294220003,Allergy to allopurinol,granular,416098002,Allergy to drug,group
+91936005,Allergy to penicillin,granular,416098002,Allergy to drug,group
+91939003,Allergy to sulfonamide,granular,416098002,Allergy to drug,group
+294132008,Allergy to dimetindene,granular,416098002,Allergy to drug,group
+13181000122107,Allergy to levofloxacin,granular,416098002,Allergy to drug,group
+295075009,Allergy to hydralazine,granular,416098002,Allergy to drug,group
+294930001,Allergy to folic acid,granular,416098002,Allergy to drug,group
+294650000,Allergy to component of vaccine product containing Mumps orthorubulavirus antigen,granular,863903001,Allergy to component of vaccine product,group
+294652008,Allergy to component of vaccine product containing Streptococcus pneumoniae antigen,granular,863903001,Allergy to component of vaccine product,group
+56578002,Moderate smoker,granular,110483000,Tobacco user,group
+230059006,Occasional cigarette smoker,granular,110483000,Tobacco user,group
+713914004,User of smokeless tobacco,granular,110483000,Tobacco user,group
+56771006,Heavy smoker,granular,110483000,Tobacco user,group
+449868002,Smokes tobacco daily,granular,110483000,Tobacco user,group
+81703003,Chews tobacco,granular,110483000,Tobacco user,group
+472999008,Multiple historical sexual partners,granular,102947004,High risk sexual behavior,group
+2314005,Unprotected sexual intercourse,granular,102947004,High risk sexual behavior,group
+733461000,Cocaine user,granular,361055000,Misuses drugs,group
+66931009,Hypercalcemia,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+105593004,Electrolyte imbalance,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+14140009,Hyperkalemia,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+89627008,Hyponatremia,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+5291005,Hypocalcemia,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+43339004,Hypokalemia,granular,76314005,Disorder of fluid AND/OR electrolyte,group
+444862003,Childhood obesity,granular,238131007,High body weight,group
+238136002,Morbid obesity,granular,238131007,High body weight,group
+387717002,Ureteroscopy,granular,128073008,,group
+160413008,Family history: Rheumatoid arthritis,granular,85828009,,group
+394990003,Family history: Ankylosing spondylitis,granular,85828009,,group
+433164007,Family history of lupus erythematosus,granular,85828009,,group
+118651000119105,Family history of Hashimoto thyroiditis,granular,85828009,,group
+83901003,Sjögren's syndrome,granular,85828009,,group
+30288003,Ventricular septal defect,granular,13213009,Congenital heart disease,group
+70142008,Atrial septal defect,granular,13213009,Congenital heart disease,group
+396230008,Dermatomyositis,granular,26889001,Myositis,group
+24693007,Fibromyositis,granular,26889001,Myositis,group
+38403006,Vertigo of central origin,granular,399153001,Vertigo,group
+111541001,Benign paroxysmal positional vertigo,granular,399153001,Vertigo,group
+50438001,Peripheral vertigo,granular,399153001,Vertigo,group
+232284007,Migrainous vertigo,granular,399153001,Vertigo,group
+421961002,Hypersensitivity reaction,granular,419076005,Allergic reaction,group
+41291007,Angioedema,granular,419076005,Allergic reaction,group
+1076441000119105,,granular,84017003,Bursitis,group
+1076421000119104,,granular,84017003,Bursitis,group
+240033006,Bursitis of retrocalcaneal bursa,granular,84017003,Bursitis,group
+402182004,Post-traumatic scar,granular,275322007,Scar,group
+2177002,Postherpetic neuralgia,granular,309465005,Varicella-zoster virus infection,group
+38907003,Varicella,granular,309465005,Varicella-zoster virus infection,group
+4740000,Herpes zoster,granular,309465005,Varicella-zoster virus infection,group
+196075003,Pleurisy,granular,233635001,Disorder of pleura AND/OR pleural cavity,group
+60046008,Pleural effusion,granular,233635001,Disorder of pleura AND/OR pleural cavity,group
+195663004,Allergic pharyngitis,granular,735445000,Allergic disorder of respiratory tract,group
+37981002,Allergic bronchopulmonary aspergillosis,granular,735445000,Allergic disorder of respiratory tract,group
+61582004,Allergic rhinitis,granular,735445000,Allergic disorder of respiratory tract,group
+37471005,Extrinsic allergic alveolitis,granular,735445000,Allergic disorder of respiratory tract,group
+302233006,Renal artery stenosis,granular,16934004,Renal vascular disorder,group
+202942009,Ganglion of wrist,granular,445008009,Ganglion cyst,group
+991000119106,Reactive airway disease,granular,195967001,Asthma,group
+409663006,Cough variant asthma,granular,195967001,Asthma,group
+389145006,Allergic asthma,granular,195967001,Asthma,group
+266361008,Non-allergic asthma,granular,195967001,Asthma,group
+10692761000119107,,granular,195967001,Asthma,group
+281239006,Exacerbation of asthma,granular,195967001,Asthma,group
+405944004,Asthmatic bronchitis,granular,195967001,Asthma,group
+722863008,Dengue with warning signs,granular,38362002,Dengue,group
+722862003,Dengue without warning signs,granular,38362002,Dengue,group
+40068008,Hydroureteronephrosis,granular,43064006,Hydronephrosis,group
+95575002,Obstruction of pelviureteric junction,granular,43064006,Hydronephrosis,group
+784545009,Synovitis of ankle joint,granular,416209007,Synovitis,group
+274137005,Lumbar disc lesion,granular,123798002,Lumbosacral spondylosis,group
+715057009,Disorder of lumbosacral intervertebral disc,granular,123798002,Lumbosacral spondylosis,group
+608832005,Lumbar discogenic pain,granular,123798002,Lumbosacral spondylosis,group
+46578006,Lumbosacral radiculitis,granular,123798002,Lumbosacral spondylosis,group
+202693003,Lumbosacral spondylosis with radiculopathy,granular,123798002,Lumbosacral spondylosis,group
+309710005,Lumbosacral strain,granular,123798002,Lumbosacral spondylosis,group
+113611000119100,Myofascial pain syndrome of lumbar spine,granular,123798002,Lumbosacral spondylosis,group
+2415007,Lumbosacral radiculopathy,granular,123798002,Lumbosacral spondylosis,group
+443700006,Disorder of lumbar disc,granular,123798002,Lumbosacral spondylosis,group
+128196005,Lumbar radiculopathy,granular,123798002,Lumbosacral spondylosis,group
+239880009,Lumbar spondylosis,granular,123798002,Lumbosacral spondylosis,group
+202708005,Prolapsed lumbar intervertebral disc,granular,123798002,Lumbosacral spondylosis,group
+18347007,Spinal stenosis of lumbar region,granular,123798002,Lumbosacral spondylosis,group
+298382003,Scoliosis deformity of spine,granular,298380006,Deformity of spine,group
+298591003,Scoliosis of lumbar spine,granular,298380006,Deformity of spine,group
+93163002,Lipoma,granular,92069005,Benign neoplasm of soft tissue,group
+109989006,Multiple myeloma,granular,129154003,Neoplasm of hematopoietic cell type,group
+93143009,"Leukemia, disease",granular,129154003,Neoplasm of hematopoietic cell type,group
+118600007,Malignant lymphoma,granular,129154003,Neoplasm of hematopoietic cell type,group
+52967002,Myelofibrosis,granular,129154003,Neoplasm of hematopoietic cell type,group
+64576003,Abscess of buttock,granular,31928004,Abscess of skin and/or subcutaneous tissue,group
+402922003,Propionibacterium acnes folliculitis,granular,11381005,Acne,group
+238745007,Nodulocystic acne,granular,11381005,Acne,group
+201222006,Steroid acne,granular,11381005,Acne,group
+403348008,Superficial inflammatory acne vulgaris,granular,11381005,Acne,group
+10065003,Excoriated acne,granular,11381005,Acne,group
+13277001,Cystic acne,granular,11381005,Acne,group
+59663001,Adult premenstrual acne,granular,11381005,Acne,group
+238744006,Comedonal acne,granular,11381005,Acne,group
+247467008,Comedone,granular,11381005,Acne,group
+398909004,Rosacea,granular,11381005,Acne,group
+402644006,Acneiform eruption,granular,11381005,Acne,group
+247459000,Acne scar,granular,11381005,Acne,group
+785745000,Acute bronchitis co-occurrent with wheeze,granular,32398004,Bronchitis,group
+36426008,Subacute bronchitis,granular,32398004,Bronchitis,group
+16146001,Viral bronchitis,granular,32398004,Bronchitis,group
+10509002,Acute bronchitis,granular,32398004,Bronchitis,group
+89549007,Catarrhal bronchitis,granular,32398004,Bronchitis,group
+405720007,Allergic bronchitis,granular,32398004,Bronchitis,group
+201138007,Diffuse alopecia,granular,56317004,Alopecia,group
+86166000,Alopecia universalis,granular,56317004,Alopecia,group
+400088006,Scarring alopecia,granular,56317004,Alopecia,group
+87038002,Postpartum alopecia,granular,56317004,Alopecia,group
+67488005,Traumatic alopecia,granular,56317004,Alopecia,group
+1108009,Female pattern alopecia,granular,56317004,Alopecia,group
+87872006,Male pattern alopecia,granular,56317004,Alopecia,group
+720979002,"Alopecia, contracture, dwarfism, intellectual disability syndrome",granular,56317004,Alopecia,group
+68225006,Alopecia areata,granular,56317004,Alopecia,group
+191268006,Chronic anemia,granular,271737000,Anemia,group
+417357006,Sickling disorder due to hemoglobin S,granular,271737000,Anemia,group
+707323002,Anemia co-occurrent and due to chronic kidney disease,granular,271737000,Anemia,group
+234349007,Microcytic anemia,granular,271737000,Anemia,group
+66612000,Nutritional anemia,granular,271737000,Anemia,group
+127034005,Pancytopenia,granular,271737000,Anemia,group
+16402000,Sickle cell trait,granular,271737000,Anemia,group
+127040003,Sickle cell-hemoglobin SS disease,granular,271737000,Anemia,group
+44666001,Microcytic hypochromic anemia,granular,271737000,Anemia,group
+87522002,Iron deficiency anemia,granular,271737000,Anemia,group
+283767009,Dog bite of lower limb,granular,399907009,Animal bite wound,group
+283734005,Dog bite - wound,granular,399907009,Animal bite wound,group
+276433004,Insect bite - wound,granular,399907009,Animal bite wound,group
+36083008,Sick sinus syndrome,granular,698247007,Cardiac arrhythmia,group
+421869004,Bradyarrhythmia,granular,698247007,Cardiac arrhythmia,group
+49710005,Sinus bradycardia,granular,698247007,Cardiac arrhythmia,group
+120041000119109,Atrial fibrillation with rapid ventricular response,granular,698247007,Cardiac arrhythmia,group
+59118001,Right bundle branch block,granular,698247007,Cardiac arrhythmia,group
+67198005,Paroxysmal supraventricular tachycardia,granular,698247007,Cardiac arrhythmia,group
+251175005,Ventricular premature complex,granular,698247007,Cardiac arrhythmia,group
+17338001,Ventricular premature beats,granular,698247007,Cardiac arrhythmia,group
+27885002,Complete atrioventricular block,granular,698247007,Cardiac arrhythmia,group
+6456007,Supraventricular tachycardia,granular,698247007,Cardiac arrhythmia,group
+63467002,Left bundle branch block,granular,698247007,Cardiac arrhythmia,group
+49436004,Atrial fibrillation,granular,698247007,Cardiac arrhythmia,group
+282825002,Paroxysmal atrial fibrillation,granular,698247007,Cardiac arrhythmia,group
+410502007,Juvenile idiopathic arthritis,granular,3723001,Arthritis,group
+417180005,Undifferentiated inflammatory arthritis,granular,3723001,Arthritis,group
+201736002,Reactive arthritis,granular,3723001,Arthritis,group
+239792003,Seronegative rheumatoid arthritis,granular,3723001,Arthritis,group
+371081002,Arthritis of knee,granular,3723001,Arthritis,group
+323301000119109,Osteoarthritis of left knee joint,granular,3723001,Arthritis,group
+239872002,Osteoarthritis of hip,granular,3723001,Arthritis,group
+250128004,Small joint arthritis,granular,3723001,Arthritis,group
+190920002,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,granular,3723001,Arthritis,group
+239791005,Seropositive rheumatoid arthritis,granular,3723001,Arthritis,group
+323321000119100,Osteoarthritis of right knee joint,granular,3723001,Arthritis,group
+396275006,Osteoarthritis,granular,3723001,Arthritis,group
+416956002,Undifferentiated inflammatory polyarthritis,granular,3723001,Arthritis,group
+387801000,Cervical arthritis,granular,3723001,Arthritis,group
+239873007,Osteoarthritis of knee,granular,3723001,Arthritis,group
+69896004,Rheumatoid arthritis,granular,3723001,Arthritis,group
+156370009,Psoriatic arthritis,granular,3723001,Arthritis,group
+112981000119107,Osteoarthritis of bilateral knee joints,granular,3723001,Arthritis,group
+399112009,Seronegative arthritis,granular,3723001,Arthritis,group
+10001005,Bacterial sepsis,granular,87628006,Bacterial infectious disease,group
+81004002,Leprosy,granular,87628006,Bacterial infectious disease,group
+43878008,Streptococcal sore throat,granular,87628006,Bacterial infectious disease,group
+4834000,Typhoid fever,granular,87628006,Bacterial infectious disease,group
+2089002,Osteitis deformans,granular,76069003,Disorder of bone,group
+94222008,Secondary malignant neoplasm of bone,granular,76069003,Disorder of bone,group
+203476003,Avascular necrosis of the head of femur,granular,76069003,Disorder of bone,group
+32369003,Menopausal osteoporosis,granular,76069003,Disorder of bone,group
+312894000,Osteopenia,granular,76069003,Disorder of bone,group
+397758007,Avascular necrosis of bone,granular,76069003,Disorder of bone,group
+444849002,Avascular necrosis of bone of hip,granular,76069003,Disorder of bone,group
+202883008,Posterior calcaneal exostosis,granular,76069003,Disorder of bone,group
+53226007,Talipes planus,granular,76069003,Disorder of bone,group
+64859006,Osteoporosis,granular,76069003,Disorder of bone,group
+443482000,Hypertensive urgency,granular,38936003,Abnormal blood pressure,group
+89242004,Malignant secondary hypertension,granular,38936003,Abnormal blood pressure,group
+70272006,Malignant hypertension,granular,38936003,Abnormal blood pressure,group
+697930002,Labile hypertension due to being in a clinical environment,granular,38936003,Abnormal blood pressure,group
+89138009,Cardiogenic shock,granular,38936003,Abnormal blood pressure,group
+64715009,Hypertensive heart disease,granular,38936003,Abnormal blood pressure,group
+68267002,Benign intracranial hypertension,granular,38936003,Abnormal blood pressure,group
+28651003,Orthostatic hypotension,granular,38936003,Abnormal blood pressure,group
+38341003,"Hypertensive disorder, systemic arterial",granular,38936003,Abnormal blood pressure,group
+45007003,Low blood pressure,granular,38936003,Abnormal blood pressure,group
+59621000,Essential hypertension,granular,38936003,Abnormal blood pressure,group
+78975002,Malignant essential hypertension,granular,38936003,Abnormal blood pressure,group
+237451004,Pubertal gynecomastia,granular,79604008,Disorder of breast,group
+254838004,Carcinoma of breast,granular,79604008,Disorder of breast,group
+254845004,Fibroadenoma of breast,granular,79604008,Disorder of breast,group
+23260002,Fibroadenosis of breast,granular,79604008,Disorder of breast,group
+4754008,Gynecomastia,granular,79604008,Disorder of breast,group
+254837009,Malignant neoplasm of breast,granular,79604008,Disorder of breast,group
+449711005,Cellulitis of lower leg,granular,128045006,Cellulitis,group
+128276007,Cellulitis of foot,granular,128045006,Cellulitis,group
+449710006,Cellulitis of lower limb,granular,128045006,Cellulitis,group
+722964001,Atypical Parkinsonism,granular,23853001,Disorder of the central nervous system,group
+230296006,Vascular parkinsonism,granular,23853001,Disorder of the central nervous system,group
+86044005,Amyotrophic lateral sclerosis,granular,23853001,Disorder of the central nervous system,group
+429998004,Vascular dementia,granular,23853001,Disorder of the central nervous system,group
+1386000,Intracranial hemorrhage,granular,23853001,Disorder of the central nervous system,group
+32798002,Parkinsonism,granular,23853001,Disorder of the central nervous system,group
+2776000,Delirium,granular,23853001,Disorder of the central nervous system,group
+22255007,Progressive multifocal leukoencephalopathy,granular,23853001,Disorder of the central nervous system,group
+49049000,Parkinson's disease,granular,23853001,Disorder of the central nervous system,group
+20022000,Hemiparesis,granular,23853001,Disorder of the central nervous system,group
+52448006,Dementia,granular,23853001,Disorder of the central nervous system,group
+26929004,Alzheimer's disease,granular,23853001,Disorder of the central nervous system,group
+78667006,Dysthymia,granular,23853001,Disorder of the central nervous system,group
+52702003,Chronic fatigue syndrome,granular,23853001,Disorder of the central nervous system,group
+15662003,Senile dementia,granular,23853001,Disorder of the central nervous system,group
+230696001,Posterior cerebral circulation infarction,granular,62914000,Cerebrovascular disease,group
+192759008,Cerebral venous sinus thrombosis,granular,62914000,Cerebrovascular disease,group
+432504007,Cerebral infarction,granular,62914000,Cerebrovascular disease,group
+230698000,Lacunar infarction,granular,62914000,Cerebrovascular disease,group
+371040005,Thrombotic stroke,granular,62914000,Cerebrovascular disease,group
+95453001,Subdural intracranial hematoma,granular,62914000,Cerebrovascular disease,group
+422504002,Ischemic stroke,granular,62914000,Cerebrovascular disease,group
+274100004,Cerebral hemorrhage,granular,62914000,Cerebrovascular disease,group
+271594007,Syncope,granular,62914000,Cerebrovascular disease,group
+230690007,Cerebrovascular accident,granular,62914000,Cerebrovascular disease,group
+266257000,Transient ischemic attack,granular,62914000,Cerebrovascular disease,group
+385494008,Hematoma,granular,64779008,Blood coagulation disorder,group
+651000119108,Acute deep vein thrombosis of lower limb,granular,64779008,Blood coagulation disorder,group
+52403007,Thromboangiitis obliterans,granular,64779008,Blood coagulation disorder,group
+2897005,Immune thrombocytopenia,granular,64779008,Blood coagulation disorder,group
+302215000,Thrombocytopenic disorder,granular,64779008,Blood coagulation disorder,group
+20427003,Postphlebitic syndrome,granular,64779008,Blood coagulation disorder,group
+19442009,Heterozygous thalassemia,granular,64779008,Blood coagulation disorder,group
+371804009,Left main coronary artery disease,granular,414024009,Disorder of coronary artery,group
+194842008,Single coronary vessel disease,granular,414024009,Disorder of coronary artery,group
+719678003,Non-obstructive atherosclerosis of coronary artery,granular,414024009,Disorder of coronary artery,group
+139011000119104,Coronary arteriosclerosis following coronary artery bypass graft,granular,414024009,Disorder of coronary artery,group
+194843003,Double coronary vessel disease,granular,414024009,Disorder of coronary artery,group
+233817007,Triple vessel disease of the heart,granular,414024009,Disorder of coronary artery,group
+53741008,Coronary arteriosclerosis,granular,414024009,Disorder of coronary artery,group
+26435006,Acute dermatitis,granular,703938007,Inflammatory dermatosis,group
+93423006,Dermatitis of eyelid,granular,703938007,Inflammatory dermatosis,group
+111189002,Acute contact dermatitis,granular,703938007,Inflammatory dermatosis,group
+20343006,Pigmented purpuric lichenoid dermatitis of Gougerot and Blum,granular,703938007,Inflammatory dermatosis,group
+111209006,Photoallergic dermatitis,granular,703938007,Inflammatory dermatosis,group
+402196005,Childhood atopic dermatitis,granular,703938007,Inflammatory dermatosis,group
+737171005,Dermatitis of male genitalia,granular,703938007,Inflammatory dermatosis,group
+24285001,Riehl's melanosis,granular,703938007,Inflammatory dermatosis,group
+238751002,Perioral dermatitis,granular,703938007,Inflammatory dermatosis,group
+402201001,Impetiginized atopic dermatitis,granular,703938007,Inflammatory dermatosis,group
+52636001,Actinic reticuloid,granular,703938007,Inflammatory dermatosis,group
+53107009,Subacute dermatitis,granular,703938007,Inflammatory dermatosis,group
+402197001,Adult atopic dermatitis,granular,703938007,Inflammatory dermatosis,group
+238539001,Hand eczema,granular,703938007,Inflammatory dermatosis,group
+50563003,Seborrheic dermatitis,granular,703938007,Inflammatory dermatosis,group
+156329007,Seborrheic dermatitis of scalp,granular,703938007,Inflammatory dermatosis,group
+70759006,Pyoderma,granular,703938007,Inflammatory dermatosis,group
+24079001,Atopic dermatitis,granular,703938007,Inflammatory dermatosis,group
+35498005,Stasis dermatitis,granular,703938007,Inflammatory dermatosis,group
+40275004,Contact dermatitis,granular,703938007,Inflammatory dermatosis,group
+110979008,Irritant contact dermatitis,granular,703938007,Inflammatory dermatosis,group
+128188000,Cerebral palsy,granular,5294002,Developmental disorder,group
+408856003,Autistic disorder,granular,5294002,Developmental disorder,group
+110359009,Intellectual disability,granular,5294002,Developmental disorder,group
+224958001,Global developmental delay,granular,5294002,Developmental disorder,group
+229721007,Speech delay,granular,5294002,Developmental disorder,group
+54840006,Failure to thrive,granular,5294002,Developmental disorder,group
+128192007,Peripheral neuritis,granular,42658009,Disorder of the peripheral nervous system,group
+282741006,Post-herpetic neuritis,granular,42658009,Disorder of the peripheral nervous system,group
+95662005,Sensory neuropathy,granular,42658009,Disorder of the peripheral nervous system,group
+15978831000119108,Disorder of right cervical nerve root,granular,42658009,Disorder of the peripheral nervous system,group
+230570005,Burning feet syndrome,granular,42658009,Disorder of the peripheral nervous system,group
+192976002,Progressive supranuclear palsy,granular,42658009,Disorder of the peripheral nervous system,group
+280816001,Facial palsy,granular,42658009,Disorder of the peripheral nervous system,group
+21018002,Inflammatory neuropathy,granular,42658009,Disorder of the peripheral nervous system,group
+42345000,Polyneuropathy,granular,42658009,Disorder of the peripheral nervous system,group
+609600000,Neuropathy of lower limb,granular,42658009,Disorder of the peripheral nervous system,group
+15978711000119106,Disorder of left cervical nerve root,granular,42658009,Disorder of the peripheral nervous system,group
+52585001,Sciatic neuropathy,granular,42658009,Disorder of the peripheral nervous system,group
+128209004,Chronic inflammatory demyelinating polyradiculoneuropathy,granular,42658009,Disorder of the peripheral nervous system,group
+57406009,Carpal tunnel syndrome,granular,42658009,Disorder of the peripheral nervous system,group
+31681005,Trigeminal neuralgia,granular,42658009,Disorder of the peripheral nervous system,group
+85007004,Meralgia paresthetica,granular,42658009,Disorder of the peripheral nervous system,group
+193093009,Bell's palsy,granular,42658009,Disorder of the peripheral nervous system,group
+127013003,Disorder of kidney due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+238982009,Dermopathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+237632004,Hypoglycemic event due to diabetes,granular,74627003,Complication due to diabetes mellitus,group
+420422005,Ketoacidosis due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+236499007,Microalbuminuric nephropathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+371087003,Ulcer of foot due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+713704004,Gastroparesis due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+761000119102,Dyslipidemia due to type 2 diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+39058009,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+4855003,Retinopathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+280137006,Diabetic foot,granular,74627003,Complication due to diabetes mellitus,group
+390834004,Nonproliferative retinopathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+424736006,Peripheral neuropathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+230572002,Neuropathy due to diabetes mellitus,granular,74627003,Complication due to diabetes mellitus,group
+191480000,Alcohol withdrawal syndrome,granular,26416006,Drug abuse,group
+9769006,Drug habituation,granular,26416006,Drug abuse,group
+231458000,Abuse of steroids,granular,26416006,Drug abuse,group
+15167005,Alcohol abuse,granular,26416006,Drug abuse,group
+231480002,Opium dependence,granular,26416006,Drug abuse,group
+5602001,Opioid abuse,granular,26416006,Drug abuse,group
+11387009,Psychoactive substance-induced organic mental disorder,granular,26416006,Drug abuse,group
+231477003,Heroin dependence,granular,26416006,Drug abuse,group
+7200002,Alcoholism,granular,26416006,Drug abuse,group
+89765005,Tobacco dependence syndrome,granular,26416006,Drug abuse,group
+66590003,Alcohol dependence,granular,26416006,Drug abuse,group
+75544000,Opioid dependence,granular,26416006,Drug abuse,group
+14784000,Opioid-induced organic mental disorder,granular,26416006,Drug abuse,group
+293070002,Antituberculous drug adverse reaction,granular,62014003,Adverse reaction caused by drug,group
+28926001,Eruption caused by drug,granular,62014003,Adverse reaction caused by drug,group
+73692007,Fixed drug eruption,granular,62014003,Adverse reaction caused by drug,group
+34528009,Familial hypertriglyceridemia,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+267434003,Mixed hyperlipidemia,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+13644009,Hypercholesterolemia,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+238951005,Xanthelasma,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+302870006,Hypertriglyceridemia,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+55822004,Hyperlipidemia,granular,370992007,Disorder of lipoprotein storage and metabolism,group
+269233004,Superficial partial thickness burn of ear,granular,25906001,Disorder of ear,group
+16001004,Otalgia,granular,25906001,Disorder of ear,group
+65668001,Otorrhea,granular,25906001,Disorder of ear,group
+87284002,Effects of high altitude,granular,8504008,Effect of exposure to physical force,group
+18615009,Sunstroke,granular,8504008,Effect of exposure to physical force,group
+44279002,Miliaria crystallina,granular,8504008,Effect of exposure to physical force,group
+63951004,Miliaria,granular,8504008,Effect of exposure to physical force,group
+43982006,Solar degeneration,granular,8504008,Effect of exposure to physical force,group
+72658003,Prickly heat,granular,8504008,Effect of exposure to physical force,group
+95868006,Heat exhaustion,granular,8504008,Effect of exposure to physical force,group
+403194002,Solar erythema,granular,8504008,Effect of exposure to physical force,group
+52072009,Heat stroke,granular,8504008,Effect of exposure to physical force,group
+71591001,Furuncle of ear,granular,49130001,Disorder of external ear,group
+95812002,Eczema of external auditory canal,granular,49130001,Disorder of external ear,group
+75441006,Foreign body in ear,granular,49130001,Disorder of external ear,group
+194204009,Furunculosis of external auditory meatus,granular,49130001,Disorder of external ear,group
+18070006,Impacted cerumen,granular,49130001,Disorder of external ear,group
+3135009,Otitis externa,granular,49130001,Disorder of external ear,group
+53316003,Otomycosis,granular,49130001,Disorder of external ear,group
+128473001,Uveitis,granular,371405004,Disorder of eye proper,group
+85777005,Dacryocystitis,granular,371405004,Disorder of eye proper,group
+230684008,Ocular myasthenia,granular,371405004,Disorder of eye proper,group
+12241791000119109,,granular,371405004,Disorder of eye proper,group
+24982008,Diplopia,granular,371405004,Disorder of eye proper,group
+64634000,Corneal opacity,granular,371405004,Disorder of eye proper,group
+31341008,Vitreous hemorrhage,granular,371405004,Disorder of eye proper,group
+1482004,Cyst of meibomian gland,granular,371405004,Disorder of eye proper,group
+193982009,Epiphora,granular,371405004,Disorder of eye proper,group
+87513003,Herpes zoster ophthalmicus,granular,371405004,Disorder of eye proper,group
+563001,Nystagmus,granular,371405004,Disorder of eye proper,group
+77489003,Pterygium,granular,371405004,Disorder of eye proper,group
+1489008,Hordeolum externum,granular,371405004,Disorder of eye proper,group
+41446000,Blepharitis,granular,371405004,Disorder of eye proper,group
+397549002,Meibomian gland dysfunction,granular,371405004,Disorder of eye proper,group
+46152009,Tear film insufficiency,granular,371405004,Disorder of eye proper,group
+22066006,Strabismus,granular,371405004,Disorder of eye proper,group
+232121005,Afferent pupillary defect,granular,371405004,Disorder of eye proper,group
+48130008,Hypogonadism,granular,27034006,Fertility problem,group
+66255005,Poor erection,granular,27034006,Fertility problem,group
+860914002,Erectile dysfunction,granular,27034006,Fertility problem,group
+33927004,Hypogonadotropic hypogonadism,granular,27034006,Fertility problem,group
+50890004,Fracture of shaft of humerus,granular,125605004,Fracture of bone,group
+263252002,Fracture of base of fifth metatarsal,granular,125605004,Fracture of bone,group
+127286005,Fracture of upper end of humerus,granular,125605004,Fracture of bone,group
+445875009,Fracture of trochanter of femur,granular,125605004,Fracture of bone,group
+297130008,Fracture of proximal phalanx of finger,granular,125605004,Fracture of bone,group
+125871005,Fracture of coccyx,granular,125605004,Fracture of bone,group
+263196008,Fracture of radial head,granular,125605004,Fracture of bone,group
+263200003,Volar Barton's fracture,granular,125605004,Fracture of bone,group
+263193000,Supracondylar fracture of humerus,granular,125605004,Fracture of bone,group
+123971006,Colles' fracture,granular,125605004,Fracture of bone,group
+263244000,Bimalleolar fracture of ankle,granular,125605004,Fracture of bone,group
+263171005,Fractured nasal bones,granular,125605004,Fracture of bone,group
+127287001,Intertrochanteric fracture,granular,125605004,Fracture of bone,group
+31978002,Fracture of tibia,granular,125605004,Fracture of bone,group
+71620000,Fracture of femur,granular,125605004,Fracture of bone,group
+31975004,Fracture of navicular bone of wrist,granular,125605004,Fracture of bone,group
+33737001,Fracture of rib,granular,125605004,Fracture of bone,group
+263251009,Metatarsal bone fracture,granular,125605004,Fracture of bone,group
+263247007,Fracture of calcaneus,granular,125605004,Fracture of bone,group
+281535004,Fracture of lateral malleolus,granular,125605004,Fracture of bone,group
+5913000,Fracture of neck of femur,granular,125605004,Fracture of bone,group
+75591007,Fracture of fibula,granular,125605004,Fracture of bone,group
+42942008,Compression fracture of vertebral column,granular,125605004,Fracture of bone,group
+58150001,Fracture of clavicle,granular,125605004,Fracture of bone,group
+263199001,Fracture of distal end of radius,granular,125605004,Fracture of bone,group
+240713001,Candidiasis of finger web,granular,3218000,Mycosis,group
+78048006,Candidiasis,granular,3218000,Mycosis,group
+20639004,Candidiasis of the esophagus,granular,3218000,Mycosis,group
+414941008,Onychomycosis,granular,3218000,Mycosis,group
+79740000,Candidiasis of mouth,granular,3218000,Mycosis,group
+72934000,Candidiasis of vagina,granular,3218000,Mycosis,group
+266158001,Candida intertrigo,granular,3218000,Mycosis,group
+14560005,Dermal mycosis,granular,3218000,Mycosis,group
+65275009,Acute cholecystitis,granular,39621005,Disorder of biliary tract,group
+197433003,Polyp of gallbladder,granular,39621005,Disorder of biliary tract,group
+363353009,Malignant tumor of gallbladder,granular,39621005,Disorder of biliary tract,group
+76581006,Cholecystitis,granular,39621005,Disorder of biliary tract,group
+25924004,Calculus of gallbladder with cholecystitis,granular,39621005,Disorder of biliary tract,group
+266474003,Calculus in biliary tract,granular,39621005,Disorder of biliary tract,group
+77480004,Congenital biliary atresia,granular,39621005,Disorder of biliary tract,group
+235919008,Gallbladder calculus,granular,39621005,Disorder of biliary tract,group
+5158005,Gilles de la Tourette's syndrome,granular,782964007,Genetic disease,group
+281022002,Down's child in family,granular,782964007,Genetic disease,group
+430329007,Family history of celiac disease,granular,782964007,Genetic disease,group
+160389004,Family history: Polycystic kidney,granular,782964007,Genetic disease,group
+58756001,Huntington's chorea,granular,782964007,Genetic disease,group
+88518009,Wilson's disease,granular,782964007,Genetic disease,group
+41040004,Complete trisomy 21 syndrome,granular,782964007,Genetic disease,group
+725043006,Autosomal recessive limb girdle muscular dystrophy type 2O,granular,782964007,Genetic disease,group
+765330003,Autosomal dominant polycystic kidney disease,granular,782964007,Genetic disease,group
+82525005,Congenital cystic kidney disease,granular,782964007,Genetic disease,group
+27503000,Gilbert's syndrome,granular,782964007,Genetic disease,group
+7573000,Classical phenylketonuria,granular,782964007,Genetic disease,group
+400179000,Precocious puberty,granular,310789003,Disorder of female genital tract,group
+129103003,Endometriosis,granular,310789003,Disorder of female genital tract,group
+123841004,Neoplasm of uterine cervix,granular,310789003,Disorder of female genital tract,group
+146801000119103,Leiomyoma,granular,310789003,Disorder of female genital tract,group
+312984006,Abnormal uterine bleeding unrelated to menstrual cycle,granular,310789003,Disorder of female genital tract,group
+363354003,Malignant tumor of cervix,granular,310789003,Disorder of female genital tract,group
+363443007,Malignant tumor of ovary,granular,310789003,Disorder of female genital tract,group
+237788002,Premature ovarian failure,granular,310789003,Disorder of female genital tract,group
+123756000,Menopausal syndrome,granular,310789003,Disorder of female genital tract,group
+72605008,Candidal vulvovaginitis,granular,310789003,Disorder of female genital tract,group
+53277000,Vulvovaginitis,granular,310789003,Disorder of female genital tract,group
+30800001,Vaginitis,granular,310789003,Disorder of female genital tract,group
+266607004,Perimenopausal disorder,granular,310789003,Disorder of female genital tract,group
+784314006,Adenomyosis of uterus,granular,310789003,Disorder of female genital tract,group
+367504009,Pelvic inflammatory disease with female sterility due to Chlamydia trachomatis,granular,310789003,Disorder of female genital tract,group
+67882000,Pruritus of vulva,granular,310789003,Disorder of female genital tract,group
+34363003,Pruritus of vagina,granular,310789003,Disorder of female genital tract,group
+266599000,Dysmenorrhea,granular,310789003,Disorder of female genital tract,group
+237055002,Polycystic ovary syndrome,granular,310789003,Disorder of female genital tract,group
+44991000119100,Abnormal uterine bleeding,granular,310789003,Disorder of female genital tract,group
+82639001,Premenstrual tension syndrome,granular,310789003,Disorder of female genital tract,group
+95315005,Uterine leiomyoma,granular,310789003,Disorder of female genital tract,group
+830054005,Polycystic ovary syndrome of bilateral ovaries,granular,310789003,Disorder of female genital tract,group
+830052009,Polycystic ovary syndrome of right ovary,granular,310789003,Disorder of female genital tract,group
+79883001,Cyst of ovary,granular,310789003,Disorder of female genital tract,group
+198130006,Female pelvic inflammatory disease,granular,310789003,Disorder of female genital tract,group
+723005006,Acute telogen effluvium,granular,279425004,Disorder of hair,group
+17155009,Trichotillomania,granular,279425004,Disorder of hair,group
+238378003,Scalp folliculitis,granular,279425004,Disorder of hair,group
+247564004,White forelock,granular,279425004,Disorder of hair,group
+238496008,Hair sinus,granular,279425004,Disorder of hair,group
+387833009,Premature canities,granular,279425004,Disorder of hair,group
+400201008,Pityriasis capitis,granular,279425004,Disorder of hair,group
+399939002,Hirsutism,granular,279425004,Disorder of hair,group
+81000006,Pediculosis capitis,granular,279425004,Disorder of hair,group
+39479004,Telogen effluvium,granular,279425004,Disorder of hair,group
+403328001,Chronic telogen effluvium,granular,279425004,Disorder of hair,group
+29966009,Hypertrichosis,granular,279425004,Disorder of hair,group
+571000119103,Daily headache,granular,25064002,Headache,group
+230471006,Chronic tension-type headache,granular,25064002,Headache,group
+762592003,Chronic primary headache,granular,25064002,Headache,group
+230461009,Headache disorder,granular,25064002,Headache,group
+445322004,Migraine variant with headache,granular,25064002,Headache,group
+427419006,Transformed migraine,granular,25064002,Headache,group
+230477005,Chronic post-traumatic headache,granular,25064002,Headache,group
+4473006,Migraine with aura,granular,25064002,Headache,group
+128187005,Vascular headache,granular,25064002,Headache,group
+56097005,Migraine without aura,granular,25064002,Headache,group
+193031009,Cluster headache syndrome,granular,25064002,Headache,group
+37796009,Migraine,granular,25064002,Headache,group
+398057008,Tension-type headache,granular,25064002,Headache,group
+838456000,Severe tricuspid valve regurgitation,granular,368009,Heart valve finding,group
+838545002,Moderate aortic valve regurgitation,granular,368009,Heart valve finding,group
+838450006,Severe mitral valve stenosis,granular,368009,Heart valve finding,group
+838544003,Mild aortic valve regurgitation,granular,368009,Heart valve finding,group
+836480008,Mild stenosis of aortic valve,granular,368009,Heart valve finding,group
+838448003,Mild mitral valve stenosis,granular,368009,Heart valve finding,group
+72352009,Bicuspid aortic valve,granular,368009,Heart valve finding,group
+838449006,Moderate mitral valve stenosis,granular,368009,Heart valve finding,group
+836481007,Moderate stenosis of aortic valve,granular,368009,Heart valve finding,group
+838451005,Mild mitral valve regurgitation,granular,368009,Heart valve finding,group
+409712001,Mitral valve prolapse,granular,368009,Heart valve finding,group
+838452003,Moderate mitral valve regurgitation,granular,368009,Heart valve finding,group
+838453008,Severe mitral valve regurgitation,granular,368009,Heart valve finding,group
+836482000,Severe stenosis of aortic valve,granular,368009,Heart valve finding,group
+60573004,Aortic valve stenosis,granular,368009,Heart valve finding,group
+48724000,Mitral valve regurgitation,granular,368009,Heart valve finding,group
+79619009,Mitral valve stenosis,granular,368009,Heart valve finding,group
+111287006,Tricuspid valve regurgitation,granular,368009,Heart valve finding,group
+23685000,Rheumatic heart disease,granular,368009,Heart valve finding,group
+60234000,Aortic valve regurgitation,granular,368009,Heart valve finding,group
+29862005,Paraumbilical hernia,granular,52515009,Hernia of abdominal cavity,group
+236037000,Incisional hernia,granular,52515009,Hernia of abdominal cavity,group
+396232000,Inguinal hernia,granular,52515009,Hernia of abdominal cavity,group
+236021006,Right inguinal hernia,granular,52515009,Hernia of abdominal cavity,group
+236022004,Left inguinal hernia,granular,52515009,Hernia of abdominal cavity,group
+396347007,Umbilical hernia,granular,52515009,Hernia of abdominal cavity,group
+64146000,Progressive pigmentary dermatosis of Schamberg,granular,49765009,Hyperpigmentation of skin,group
+238634000,Benign acanthosis nigricans,granular,49765009,Hyperpigmentation of skin,group
+238703005,Periorbital hypermelanosis,granular,49765009,Hyperpigmentation of skin,group
+403628008,Pigmentation,granular,49765009,Hyperpigmentation of skin,group
+72129000,Acquired acanthosis nigricans,granular,49765009,Hyperpigmentation of skin,group
+238699007,Post-inflammatory hyperpigmentation,granular,49765009,Hyperpigmentation of skin,group
+403268000,Segmental vitiligo,granular,23006000,Hypopigmentation of skin,group
+277787003,Post-inflammatory hypopigmentation,granular,23006000,Hypopigmentation of skin,group
+403267005,Localized vitiligo,granular,23006000,Hypopigmentation of skin,group
+402296004,Pityriasis alba,granular,23006000,Hypopigmentation of skin,group
+56727007,Vitiligo,granular,23006000,Hypopigmentation of skin,group
+314116003,Post infarct angina,granular,414545008,Ischemic heart disease,group
+41334000,"Angina, class II",granular,414545008,Ischemic heart disease,group
+371807002,Atypical angina,granular,414545008,Ischemic heart disease,group
+233840006,Old inferior myocardial infarction,granular,414545008,Ischemic heart disease,group
+233839009,Old anterior myocardial infarction,granular,414545008,Ischemic heart disease,group
+59021001,Angina decubitus,granular,414545008,Ischemic heart disease,group
+5050001,Senile angioma,granular,414545008,Ischemic heart disease,group
+233819005,Stable angina,granular,414545008,Ischemic heart disease,group
+54329005,Acute myocardial infarction of anterior wall,granular,414545008,Ischemic heart disease,group
+300995000,Exercise-induced angina,granular,414545008,Ischemic heart disease,group
+394659003,Acute coronary syndrome,granular,414545008,Ischemic heart disease,group
+194849004,Generalized ischemic myocardial dysfunction,granular,414545008,Ischemic heart disease,group
+4557003,Preinfarction syndrome,granular,414545008,Ischemic heart disease,group
+401314000,Acute non-ST segment elevation myocardial infarction,granular,414545008,Ischemic heart disease,group
+73795002,Acute myocardial infarction of inferior wall,granular,414545008,Ischemic heart disease,group
+1755008,Old myocardial infarction,granular,414545008,Ischemic heart disease,group
+194828000,Angina,granular,414545008,Ischemic heart disease,group
+22298006,Myocardial infarction,granular,414545008,Ischemic heart disease,group
+187192000,Toxoplasmosis,granular,40733004,Infectious disease,group
+186803007,Visceral leishmaniasis,granular,40733004,Infectious disease,group
+28944009,Cytomegalovirus infection,granular,40733004,Infectious disease,group
+8098009,Sexually transmitted infectious disease,granular,40733004,Infectious disease,group
+840539006,Disease caused by Severe acute respiratory syndrome coronavirus 2,granular,40733004,Infectious disease,group
+91302008,Sepsis,granular,40733004,Infectious disease,group
+416113008,Febrile disorder,granular,40733004,Infectious disease,group
+428705008,Degenerative tear of triangular fibrocartilage complex of wrist,granular,785875003,Disorder of joint region,group
+239815007,Solitary sacroiliitis,granular,785875003,Disorder of joint region,group
+64298006,Acquired deformity of distal interphalangeal joint of finger due to trauma,granular,785875003,Disorder of joint region,group
+428671008,Arthropathy of lumbar facet joint,granular,785875003,Disorder of joint region,group
+417109008,Subluxation of radial head,granular,785875003,Disorder of joint region,group
+417373000,Inflammatory polyarthropathy,granular,785875003,Disorder of joint region,group
+41888000,Temporomandibular joint disorder,granular,785875003,Disorder of joint region,group
+50921008,Periarthritis,granular,785875003,Disorder of joint region,group
+42786005,Snapping thumb syndrome,granular,785875003,Disorder of joint region,group
+396332003,Rheumatism,granular,785875003,Disorder of joint region,group
+55146009,Inflammation of sacroiliac joint,granular,785875003,Disorder of joint region,group
+1539003,Acquired trigger finger,granular,785875003,Disorder of joint region,group
+386207004,Temporomandibular joint-pain-dysfunction syndrome,granular,785875003,Disorder of joint region,group
+64109004,Costal chondritis,granular,785875003,Disorder of joint region,group
+941000119103,Strain of knee,granular,128136007,Disorder of knee,group
+444470001,Injury of anterior cruciate ligament,granular,128136007,Disorder of knee,group
+438479005,Injury of ligament of knee,granular,128136007,Disorder of knee,group
+239817004,Synovitis of knee,granular,128136007,Disorder of knee,group
+54888009,Sprain of knee,granular,128136007,Disorder of knee,group
+240008008,Synovial cyst of knee,granular,128136007,Disorder of knee,group
+302932006,Tear of medial meniscus of knee,granular,128136007,Disorder of knee,group
+63198006,Chondromalacia,granular,128136007,Disorder of knee,group
+202381003,Knee joint effusion,granular,128136007,Disorder of knee,group
+22878006,Contusion of knee,granular,128136007,Disorder of knee,group
+239720000,Tear of meniscus of knee,granular,128136007,Disorder of knee,group
+239725005,Rupture of anterior cruciate ligament,granular,128136007,Disorder of knee,group
+36071006,Chondromalacia of patella,granular,128136007,Disorder of knee,group
+125601008,Injury of knee,granular,128136007,Disorder of knee,group
+63643000,Derangement of knee,granular,128136007,Disorder of knee,group
+197125005,Irritable bowel syndrome with diarrhea,granular,79787007,Disorder of lower gastrointestinal tract,group
+55525008,Paralytic ileus,granular,79787007,Disorder of lower gastrointestinal tract,group
+67365005,Recurrent appendicitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+1286877004,,granular,79787007,Disorder of lower gastrointestinal tract,group
+85189001,Acute appendicitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+446081009,Small bowel bacterial overgrowth syndrome,granular,79787007,Disorder of lower gastrointestinal tract,group
+74400008,Appendicitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+236071009,Chronic diarrhea,granular,79787007,Disorder of lower gastrointestinal tract,group
+54597004,Chronic colitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+236069009,Chronic constipation,granular,79787007,Disorder of lower gastrointestinal tract,group
+46799006,Dysenteric diarrhea,granular,79787007,Disorder of lower gastrointestinal tract,group
+128333008,Diarrheal disorder,granular,79787007,Disorder of lower gastrointestinal tract,group
+64613007,Inflammation of small intestine,granular,79787007,Disorder of lower gastrointestinal tract,group
+9209005,Acute abdomen,granular,79787007,Disorder of lower gastrointestinal tract,group
+14760008,Constipation,granular,79787007,Disorder of lower gastrointestinal tract,group
+64226004,Colitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+75375008,Bacterial enteritis,granular,79787007,Disorder of lower gastrointestinal tract,group
+64766004,Ulcerative colitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+396331005,Celiac disease,granular,79787007,Disorder of lower gastrointestinal tract,group
+43752006,Inflammation of small intestine and colon,granular,79787007,Disorder of lower gastrointestinal tract,group
+24526004,Inflammatory bowel disease,granular,79787007,Disorder of lower gastrointestinal tract,group
+10743008,Irritable bowel syndrome,granular,79787007,Disorder of lower gastrointestinal tract,group
+111843007,Viral gastroenteritis,granular,79787007,Disorder of lower gastrointestinal tract,group
+235747003,Amebic colitis,granular,79787007,Disorder of lower gastrointestinal tract,group
+197118003,Constipation - functional,granular,79787007,Disorder of lower gastrointestinal tract,group
+75258004,Food poisoning,granular,79787007,Disorder of lower gastrointestinal tract,group
+34000006,Crohn's disease,granular,79787007,Disorder of lower gastrointestinal tract,group
+409966000,Acute diarrhea,granular,79787007,Disorder of lower gastrointestinal tract,group
+431309003,Acute urinary tract infection,granular,4009004,Lower urinary tract infectious disease,group
+68566005,Urinary tract infectious disease,granular,4009004,Lower urinary tract infectious disease,group
+13758004,Paraphimosis,granular,363194005,Disorder of male reproductive system,group
+126900000,Neoplasm of testis,granular,363194005,Disorder of male reproductive system,group
+26614003,Hydrocele of testis,granular,363194005,Disorder of male reproductive system,group
+360380003,Candidal balano-posthitis,granular,363194005,Disorder of male reproductive system,group
+449826002,Phimosis,granular,363194005,Disorder of male reproductive system,group
+52643007,Candidal balanitis,granular,363194005,Disorder of male reproductive system,group
+51070004,Varicocele,granular,363194005,Disorder of male reproductive system,group
+197983000,Orchitis and epididymitis,granular,363194005,Disorder of male reproductive system,group
+1335005,Induratio penis plastica,granular,363194005,Disorder of male reproductive system,group
+69069001,Pruritus of penis,granular,363194005,Disorder of male reproductive system,group
+44882003,Balanitis,granular,363194005,Disorder of male reproductive system,group
+95590003,Pruritus of male genital organs,granular,363194005,Disorder of male reproductive system,group
+31822004,Urethritis,granular,363194005,Disorder of male reproductive system,group
+236743008,Balanitis circumscripta plasmacellularis,granular,363194005,Disorder of male reproductive system,group
+46090001,Balanoposthitis,granular,363194005,Disorder of male reproductive system,group
+76618002,Urethral stricture,granular,363194005,Disorder of male reproductive system,group
+445760005,Acute sprain of ligament of neck,granular,106030000,Muscle finding,group
+301000119104,Muscle spasm of cervical muscle of neck,granular,106030000,Muscle finding,group
+70070008,Torticollis,granular,106030000,Muscle finding,group
+438505003,Strain of trapezius muscle,granular,106030000,Muscle finding,group
+300957005,Postural low back pain,granular,106030000,Muscle finding,group
+279039007,Low back pain,granular,106030000,Muscle finding,group
+360450007,Strain of neck muscle,granular,106030000,Muscle finding,group
+399346004,Supraspinatus tear,granular,106030000,Muscle finding,group
+300956001,Low back strain,granular,106030000,Muscle finding,group
+279030006,Myofascial pain syndrome of neck,granular,106030000,Muscle finding,group
+275320004,Injury of nail,granular,17790008,Disorder of nail,group
+71906005,Paronychia,granular,17790008,Disorder of nail,group
+773296007,Paronychia due to ingrown nail,granular,17790008,Disorder of nail,group
+400200009,Ingrowing toenail,granular,17790008,Disorder of nail,group
+64611009,Catarrhal nasal discharge,granular,89488007,Disorder of the nose,group
+736500007,Polyp of nasal cavity,granular,89488007,Disorder of the nose,group
+23714000,Nasal vestibulitis,granular,89488007,Disorder of the nose,group
+232354002,Anterior epistaxis,granular,89488007,Disorder of the nose,group
+70076002,Rhinitis,granular,89488007,Disorder of the nose,group
+249356002,Posterior end of inferior turbinate hypertrophy,granular,89488007,Disorder of the nose,group
+126660000,Deviated nasal septum,granular,89488007,Disorder of the nose,group
+232209000,Nasal obstruction,granular,89488007,Disorder of the nose,group
+238117007,Calcium deficiency,granular,70241007,Nutritional deficiency disorder,group
+238107002,Deficiency of macronutrients,granular,70241007,Nutritional deficiency disorder,group
+8900005,Hypoproteinemia,granular,70241007,Nutritional deficiency disorder,group
+119247004,Hypoalbuminemia,granular,70241007,Nutritional deficiency disorder,group
+53165003,Megaloblastic anemia,granular,70241007,Nutritional deficiency disorder,group
+35240004,Iron deficiency,granular,70241007,Nutritional deficiency disorder,group
+6383007,Premature labor,granular,173300003,Disorder of pregnancy,group
+268858006,Maternal injury,granular,173300003,Disorder of pregnancy,group
+14094001,Excessive vomiting in pregnancy,granular,173300003,Disorder of pregnancy,group
+48194001,Pregnancy-induced hypertension,granular,173300003,Disorder of pregnancy,group
+427921009,Chronic ulcer of ankle,granular,125643001,Open wound,group
+830072004,Ulcer of right foot,granular,125643001,Open wound,group
+830071006,Ulcer of left foot,granular,125643001,Open wound,group
+76844004,Local infection of wound,granular,125643001,Open wound,group
+440346008,Ulcer of limb due to chronic venous insufficiency,granular,125643001,Open wound,group
+283396008,Incised wound,granular,125643001,Open wound,group
+402863005,Venous stasis ulcer of leg,granular,125643001,Open wound,group
+399963005,Abrasion,granular,125643001,Open wound,group
+788949000,Healed venous leg ulcer,granular,125643001,Open wound,group
+308740002,Ulcer of big toe,granular,125643001,Open wound,group
+419193008,Ankle ulcer,granular,125643001,Open wound,group
+95344007,Ulcer of lower extremity,granular,125643001,Open wound,group
+312608009,Laceration - injury,granular,125643001,Open wound,group
+95345008,Ulcer of foot,granular,125643001,Open wound,group
+416462003,Wound,granular,125643001,Open wound,group
+87715008,Xerostomia,granular,118938008,Disorder of mouth,group
+39273001,Apical periodontitis,granular,118938008,Disorder of mouth,group
+5494004,Acute pulpitis,granular,118938008,Disorder of mouth,group
+714249007,Mild gingivitis,granular,118938008,Disorder of mouth,group
+414603003,Leukoplakia of oral mucosa,granular,118938008,Disorder of mouth,group
+4264000,Chronic pericoronitis,granular,118938008,Disorder of mouth,group
+269516007,Tongue carcinoma,granular,118938008,Disorder of mouth,group
+707251008,Generalized chronic periodontitis,granular,118938008,Disorder of mouth,group
+699489009,Dental caries class I,granular,118938008,Disorder of mouth,group
+109602002,Acute apical abscess,granular,118938008,Disorder of mouth,group
+274134003,Leukoplakia,granular,118938008,Disorder of mouth,group
+787446001,Localized periodontitis,granular,118938008,Disorder of mouth,group
+442551007,Dental caries extending into dentin,granular,118938008,Disorder of mouth,group
+399165002,Burning mouth syndrome,granular,118938008,Disorder of mouth,group
+363392002,Malignant tumor of oropharynx,granular,118938008,Disorder of mouth,group
+7847004,Cheilitis,granular,118938008,Disorder of mouth,group
+699490000,Dental caries class II,granular,118938008,Disorder of mouth,group
+37320007,Acquired absence of teeth,granular,118938008,Disorder of mouth,group
+196417006,Impacted third molar tooth,granular,118938008,Disorder of mouth,group
+713245008,Gingivitis due to dental plaque,granular,118938008,Disorder of mouth,group
+714126004,Generalized gingivitis,granular,118938008,Disorder of mouth,group
+57650002,Persistent primary tooth,granular,118938008,Disorder of mouth,group
+254437001,Squamous cell carcinoma of buccal mucosa,granular,118938008,Disorder of mouth,group
+17552000,Dental calculus,granular,118938008,Disorder of mouth,group
+266429005,Angular cheilitis,granular,118938008,Disorder of mouth,group
+66383009,Gingivitis,granular,118938008,Disorder of mouth,group
+14756005,Parotitis,granular,118938008,Disorder of mouth,group
+95248008,Salivary dysfunction caries secondary to radiation therapy,granular,118938008,Disorder of mouth,group
+75037000,Chronic pulpitis,granular,118938008,Disorder of mouth,group
+196341005,Periapical abscess,granular,118938008,Disorder of mouth,group
+109600005,Irreversible pulpitis,granular,118938008,Disorder of mouth,group
+53827007,Excessive salivation,granular,118938008,Disorder of mouth,group
+80967001,Dental caries,granular,118938008,Disorder of mouth,group
+45534005,Glossitis,granular,118938008,Disorder of mouth,group
+66123000,Ulcer on tongue,granular,118938008,Disorder of mouth,group
+32883009,Oral submucosal fibrosis,granular,118938008,Disorder of mouth,group
+363505006,Malignant tumor of oral cavity,granular,118938008,Disorder of mouth,group
+363386008,Malignant tumor of buccal mucosa,granular,118938008,Disorder of mouth,group
+26284000,Ulcer of mouth,granular,118938008,Disorder of mouth,group
+426965005,Aphthous ulcer of mouth,granular,118938008,Disorder of mouth,group
+427617000,Aphthous ulceration of skin and/or mucous membrane,granular,118938008,Disorder of mouth,group
+194289001,Acute right otitis media,granular,65363002,Otitis media,group
+194288009,Acute left otitis media,granular,65363002,Otitis media,group
+1091791000119107,,granular,65363002,Otitis media,group
+21186006,Chronic otitis media,granular,65363002,Otitis media,group
+14852000,Myringitis,granular,65363002,Otitis media,group
+60442001,Perforation of tympanic membrane,granular,65363002,Otitis media,group
+39288006,Purulent otitis media,granular,65363002,Otitis media,group
+30250000,Acute otitis externa,granular,65363002,Otitis media,group
+52404001,Mastoiditis,granular,65363002,Otitis media,group
+7699004,Adhesive middle ear disease,granular,65363002,Otitis media,group
+194281003,Acute suppurative otitis media,granular,65363002,Otitis media,group
+3110003,Acute otitis media,granular,65363002,Otitis media,group
+78868004,Chronic mucoid otitis media,granular,65363002,Otitis media,group
+1089181000119108,,granular,65363002,Otitis media,group
+38394007,Chronic purulent otitis media,granular,65363002,Otitis media,group
+80327007,Serous otitis media,granular,65363002,Otitis media,group
+126859007,Neoplasm of pancreas,granular,3855007,Disorder of pancreas,group
+301009006,Calcific chronic pancreatitis,granular,3855007,Disorder of pancreas,group
+235494005,Chronic pancreatitis,granular,3855007,Disorder of pancreas,group
+197456007,Acute pancreatitis,granular,3855007,Disorder of pancreas,group
+75694006,Pancreatitis,granular,3855007,Disorder of pancreas,group
+278284007,Right hemiplegia,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+249945007,Monoparesis - leg,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+278286009,Right hemiparesis,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+278285008,Left hemiplegia,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+50582007,Hemiplegia,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+278287000,Left hemiparesis,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+40956001,Guillain-Barré syndrome,granular,1a24405b88aae590dee4f4a65db4ef75,Paralysis,group
+248741001,Reticular varices,granular,400047006,Peripheral vascular disease,group
+64156001,Thrombophlebitis,granular,400047006,Peripheral vascular disease,group
+233961000,Lower limb ischemia,granular,400047006,Peripheral vascular disease,group
+31996006,Vasculitis,granular,400047006,Peripheral vascular disease,group
+195448005,Varicose veins of the leg with rupture,granular,400047006,Peripheral vascular disease,group
+72866009,Varicose veins of lower extremity,granular,400047006,Peripheral vascular disease,group
+20696009,Peripheral venous insufficiency,granular,400047006,Peripheral vascular disease,group
+304026004,Varicose ulcer of lower extremity,granular,400047006,Peripheral vascular disease,group
+128053003,Deep venous thrombosis,granular,400047006,Peripheral vascular disease,group
+233962007,Critical lower limb ischemia,granular,400047006,Peripheral vascular disease,group
+275700003,Varicose veins of the leg with eczema,granular,400047006,Peripheral vascular disease,group
+706913006,Varicose veins of lower limb co-occurrent with edema,granular,400047006,Peripheral vascular disease,group
+404223003,Deep venous thrombosis of lower extremity,granular,400047006,Peripheral vascular disease,group
+234050002,Venous insufficiency of leg,granular,400047006,Peripheral vascular disease,group
+403385000,Lymphedema of lower extremity,granular,400047006,Peripheral vascular disease,group
+128060009,Venous varices,granular,400047006,Peripheral vascular disease,group
+840580004,Peripheral arterial disease,granular,400047006,Peripheral vascular disease,group
+786878009,Fistula of anus,granular,426867001,Anorectal disorder,group
+249633001,Sentinel pile,granular,426867001,Anorectal disorder,group
+82985000,Hemorrhoids without complication,granular,426867001,Anorectal disorder,group
+90458007,Internal hemorrhoids,granular,426867001,Anorectal disorder,group
+82127005,Perianal abscess,granular,426867001,Anorectal disorder,group
+90446007,Pruritus ani,granular,426867001,Anorectal disorder,group
+197152000,Chronic anal fissure,granular,426867001,Anorectal disorder,group
+197151007,Acute anal fissure,granular,426867001,Anorectal disorder,group
+3951002,Proctitis,granular,426867001,Anorectal disorder,group
+10676911000119100,Pruritis of skin of anogenital region,granular,426867001,Anorectal disorder,group
+26373009,Thrombosed external hemorrhoids,granular,426867001,Anorectal disorder,group
+51551000,Bleeding hemorrhoids,granular,426867001,Anorectal disorder,group
+30037006,Anal fissure,granular,426867001,Anorectal disorder,group
+57773001,Rectal prolapse,granular,426867001,Anorectal disorder,group
+721705006,Internal hemorrhoids grade III,granular,426867001,Anorectal disorder,group
+721704005,Internal hemorrhoids grade II,granular,426867001,Anorectal disorder,group
+80426004,Prolapsed internal hemorrhoids,granular,426867001,Anorectal disorder,group
+12063002,Rectal hemorrhage,granular,426867001,Anorectal disorder,group
+23913003,External hemorrhoids,granular,426867001,Anorectal disorder,group
+70153002,Hemorrhoids,granular,426867001,Anorectal disorder,group
+399490008,Adenocarcinoma of prostate,granular,30281009,Problem of prostate,group
+303087003,Transurethral resection of prostate syndrome,granular,30281009,Problem of prostate,group
+399068003,Malignant tumor of prostate,granular,30281009,Problem of prostate,group
+9713002,Prostatitis,granular,30281009,Problem of prostate,group
+254900004,Neoplasm of prostate,granular,30281009,Problem of prostate,group
+266569009,Benign prostatic hyperplasia,granular,30281009,Problem of prostate,group
+69479009,Anxiety hyperventilation,granular,69322001,Psychotic disorder,group
+16265701000119107,,granular,69322001,Psychotic disorder,group
+426174008,Chronic stress disorder,granular,69322001,Psychotic disorder,group
+310495003,Mild depression,granular,69322001,Psychotic disorder,group
+191611001,"Recurrent major depressive episodes, moderate",granular,69322001,Psychotic disorder,group
+35607004,Panic disorder with agoraphobia,granular,69322001,Psychotic disorder,group
+76441001,"Severe major depression, single episode, without psychotic features",granular,69322001,Psychotic disorder,group
+430852001,"Severe major depression, single episode, with psychotic features",granular,69322001,Psychotic disorder,group
+64905009,Paranoid schizophrenia,granular,69322001,Psychotic disorder,group
+68890003,Schizoaffective disorder,granular,69322001,Psychotic disorder,group
+53936005,Alcohol-induced mood disorder,granular,69322001,Psychotic disorder,group
+25501002,Social phobia,granular,69322001,Psychotic disorder,group
+48500005,Delusional disorder,granular,69322001,Psychotic disorder,group
+20734000,Psychologic conversion disorder,granular,69322001,Psychotic disorder,group
+723916001,Bodily distress disorder,granular,69322001,Psychotic disorder,group
+197480006,Anxiety disorder,granular,69322001,Psychotic disorder,group
+47505003,Posttraumatic stress disorder,granular,69322001,Psychotic disorder,group
+46206005,Mood disorder,granular,69322001,Psychotic disorder,group
+370143000,Major depressive disorder,granular,69322001,Psychotic disorder,group
+371631005,Panic disorder,granular,69322001,Psychotic disorder,group
+21897009,Generalized anxiety disorder,granular,69322001,Psychotic disorder,group
+58214004,Schizophrenia,granular,69322001,Psychotic disorder,group
+35489007,Depressive disorder,granular,69322001,Psychotic disorder,group
+397923000,Somatization disorder,granular,69322001,Psychotic disorder,group
+231504006,Mixed anxiety and depressive disorder,granular,69322001,Psychotic disorder,group
+36923009,"Major depression, single episode",granular,69322001,Psychotic disorder,group
+352818000,Tonic-clonic epilepsy,granular,128613002,Seizure,group
+230381009,Localization-related epilepsy,granular,128613002,Seizure,group
+4103001,Complex partial seizure with impairment of consciousness,granular,128613002,Seizure,group
+193000002,Temporal lobe epilepsy,granular,128613002,Seizure,group
+19598007,Generalized epilepsy,granular,128613002,Seizure,group
+322112361000132104,,granular,128613002,Seizure,group
+36803009,Idiopathic generalized epilepsy,granular,128613002,Seizure,group
+6204001,Juvenile myoclonic epilepsy,granular,128613002,Seizure,group
+84757009,Epilepsy,granular,128613002,Seizure,group
+29753000,Partial seizure,granular,128613002,Seizure,group
+37356005,Myoclonic seizure,granular,128613002,Seizure,group
+414033006,Disorder of rotator cuff,granular,444003007,Finding of shoulder joint,group
+718539004,Injury of rotator cuff,granular,444003007,Finding of shoulder joint,group
+40799003,Subacromial bursitis,granular,444003007,Finding of shoulder joint,group
+789758005,Strain of rotator cuff of shoulder,granular,444003007,Finding of shoulder joint,group
+202849001,Subacromial impingement,granular,444003007,Finding of shoulder joint,group
+275334004,Shoulder strain,granular,444003007,Finding of shoulder joint,group
+417076003,Dislocation of shoulder joint,granular,444003007,Finding of shoulder joint,group
+239960007,Impingement syndrome of shoulder region,granular,444003007,Finding of shoulder joint,group
+399114005,Adhesive capsulitis of shoulder,granular,444003007,Finding of shoulder joint,group
+703470001,Bacterial sinusitis,granular,7393007,Disorder of nasal sinus,group
+195790000,Pansinusitis,granular,7393007,Disorder of nasal sinus,group
+18643000,Ethmoidal sinusitis,granular,7393007,Disorder of nasal sinus,group
+431231008,Acute rhinosinusitis,granular,7393007,Disorder of nasal sinus,group
+78737005,Frontal sinusitis,granular,7393007,Disorder of nasal sinus,group
+88348008,Maxillary sinusitis,granular,7393007,Disorder of nasal sinus,group
+15805002,Acute sinusitis,granular,7393007,Disorder of nasal sinus,group
+36971009,Sinusitis,granular,7393007,Disorder of nasal sinus,group
+75803007,Posterior rhinorrhea,granular,7393007,Disorder of nasal sinus,group
+32307003,Polyp of nasal sinus,granular,7393007,Disorder of nasal sinus,group
+40055000,Chronic sinusitis,granular,7393007,Disorder of nasal sinus,group
+410016009,Lipodermatosclerosis,granular,95320005,Disorder of skin,group
+238590000,Juvenile plantar dermatosis,granular,95320005,Disorder of skin,group
+21049007,Trichostasis spinulosa,granular,95320005,Disorder of skin,group
+238458007,Friction dermatosis,granular,95320005,Disorder of skin,group
+240533004,Facial wart,granular,95320005,Disorder of skin,group
+238418005,Erythrasma,granular,95320005,Disorder of skin,group
+201066002,Skin striae,granular,95320005,Disorder of skin,group
+706885006,Palmoplantar keratoderma,granular,95320005,Disorder of skin,group
+254805008,Compound nevus of skin,granular,95320005,Disorder of skin,group
+782957005,Ichthyosis,granular,95320005,Disorder of skin,group
+403375001,Palmoplantar hyperhidrosis,granular,95320005,Disorder of skin,group
+200722003,Pyogenic granuloma,granular,95320005,Disorder of skin,group
+121000119106,Lesion of skin of face,granular,95320005,Disorder of skin,group
+238629004,Phrynoderma,granular,95320005,Disorder of skin,group
+108365000,Infection of skin,granular,95320005,Disorder of skin,group
+372130007,Malignant neoplasm of skin,granular,95320005,Disorder of skin,group
+238597002,Senile xeroderma,granular,95320005,Disorder of skin,group
+419603000,Epidermoid cyst of skin,granular,95320005,Disorder of skin,group
+22649008,Photodermatitis,granular,95320005,Disorder of skin,group
+50584008,Fordyce's disease,granular,95320005,Disorder of skin,group
+399992009,Erythroderma,granular,95320005,Disorder of skin,group
+403190006,Epidermal burn of skin,granular,95320005,Disorder of skin,group
+36715001,Erythema multiforme,granular,95320005,Disorder of skin,group
+254679001,Milia,granular,95320005,Disorder of skin,group
+238389005,Boils of multiple sites,granular,95320005,Disorder of skin,group
+165185004,Dermatoglyphs - skin lines,granular,95320005,Disorder of skin,group
+1717003,Idiopathic guttate hypomelanosis,granular,95320005,Disorder of skin,group
+128873007,Post-scabetic nodules,granular,95320005,Disorder of skin,group
+35154004,Pemphigus foliaceus,granular,95320005,Disorder of skin,group
+414662006,Melanosis,granular,95320005,Disorder of skin,group
+77252004,Pityriasis rosea,granular,95320005,Disorder of skin,group
+403536009,Ephelis,granular,95320005,Disorder of skin,group
+394726009,Seborrheic keratosis,granular,95320005,Disorder of skin,group
+240539000,Plane wart,granular,95320005,Disorder of skin,group
+271807003,Eruption of skin,granular,95320005,Disorder of skin,group
+19824006,Infection of skin and/or subcutaneous tissue,granular,95320005,Disorder of skin,group
+64144002,Pruritic rash,granular,95320005,Disorder of skin,group
+725119006,Generalized rash,granular,95320005,Disorder of skin,group
+254669003,Dermatosis papulosa nigra,granular,95320005,Disorder of skin,group
+762535004,Hemosiderin pigmentation of lower limb due to varicose veins of lower limb,granular,95320005,Disorder of skin,group
+128869009,Infestation caused by Sarcoptes scabiei var hominis,granular,95320005,Disorder of skin,group
+717061002,Lichen planus pigmentosus,granular,95320005,Disorder of skin,group
+59393003,Hidradenitis suppurativa,granular,95320005,Disorder of skin,group
+416675009,Furuncle,granular,95320005,Disorder of skin,group
+201091002,Skin tag,granular,95320005,Disorder of skin,group
+238525001,Polymorphic light eruption,granular,95320005,Disorder of skin,group
+13600006,Folliculitis,granular,95320005,Disorder of skin,group
+48277006,Impetigo,granular,95320005,Disorder of skin,group
+33659008,Keloid scar,granular,95320005,Disorder of skin,group
+63501000,Prurigo nodularis,granular,95320005,Disorder of skin,group
+55608001,Prurigo simplex,granular,95320005,Disorder of skin,group
+63440008,Verruca plantaris,granular,95320005,Disorder of skin,group
+5132005,Keratosis pilaris,granular,95320005,Disorder of skin,group
+21626009,Cutaneous hypersensitivity,granular,95320005,Disorder of skin,group
+89105000,Asteatosis cutis,granular,95320005,Disorder of skin,group
+58759008,Intertrigo,granular,95320005,Disorder of skin,group
+36209000,Chloasma,granular,95320005,Disorder of skin,group
+57019003,Verruca vulgaris,granular,95320005,Disorder of skin,group
+788499005,Eczema of lower limb,granular,95320005,Disorder of skin,group
+400096001,Melanocytic nevus,granular,95320005,Disorder of skin,group
+5387003,Pigmented hairy epidermal nevus,granular,95320005,Disorder of skin,group
+91487003,Diaper rash,granular,95320005,Disorder of skin,group
+19843006,Hypertrophic scar,granular,95320005,Disorder of skin,group
+403541001,Achromic nevus,granular,95320005,Disorder of skin,group
+201049004,Morphea,granular,95320005,Disorder of skin,group
+239065004,Keratolysis exfoliativa,granular,95320005,Disorder of skin,group
+49420001,Pemphigus vulgaris,granular,95320005,Disorder of skin,group
+42570001,Pruritus senilis,granular,95320005,Disorder of skin,group
+34319007,Induration of skin,granular,95320005,Disorder of skin,group
+404002000,Atypical,granular,95320005,Disorder of skin,group
+77090002,Bullous pemphigoid,granular,95320005,Disorder of skin,group
+403262004,Hemosiderin pigmentation of skin due to venous insufficiency,granular,95320005,Disorder of skin,group
+718105008,Lichen amyloidosis,granular,95320005,Disorder of skin,group
+201237005,Seborrhea faciei,granular,95320005,Disorder of skin,group
+79893008,Vesicular eruption,granular,95320005,Disorder of skin,group
+10057001,Chronic lichenoid pityriasis,granular,95320005,Disorder of skin,group
+201067006,Physiological striae,granular,95320005,Disorder of skin,group
+767543001,Sebaceous cyst of skin,granular,95320005,Disorder of skin,group
+235049008,Oral lichen planus,granular,95320005,Disorder of skin,group
+60380001,Narcolepsy,granular,39898005,Finding related to sleep,group
+8009008,Nocturnal enuresis,granular,39898005,Finding related to sleep,group
+724748004,Chronic insomnia,granular,39898005,Finding related to sleep,group
+230489007,Excessive daytime sleepiness - normal night sleep,granular,39898005,Finding related to sleep,group
+192454004,Nonorganic insomnia,granular,39898005,Finding related to sleep,group
+248261008,Oversleeps,granular,39898005,Finding related to sleep,group
+194439006,Disorders of excessive somnolence,granular,39898005,Finding related to sleep,group
+193462001,Insomnia,granular,39898005,Finding related to sleep,group
+78275009,Obstructive sleep apnea syndrome,granular,39898005,Finding related to sleep,group
+73430006,Sleep apnea,granular,39898005,Finding related to sleep,group
+429350001,Arthropathy of spinal facet joint,granular,410730009,Disorder of spinal region,group
+608830002,Discogenic pain,granular,410730009,Disorder of spinal region,group
+281598004,Sprain of spinal ligament,granular,410730009,Disorder of spinal region,group
+762305005,Degeneration of spine,granular,410730009,Disorder of spinal region,group
+72274001,Nerve root disorder,granular,410730009,Disorder of spinal region,group
+9631008,Ankylosing spondylitis,granular,410730009,Disorder of spinal region,group
+127018007,Neoplasm of thyroid gland,granular,14304000,Disorder of thyroid gland,group
+66999008,Hyperparathyroidism,granular,14304000,Disorder of thyroid gland,group
+427970008,Subclinical hyperthyroidism,granular,14304000,Disorder of thyroid gland,group
+91478007,Secondary hyperparathyroidism,granular,14304000,Disorder of thyroid gland,group
+190268003,Congenital hypothyroidism,granular,14304000,Disorder of thyroid gland,group
+190293001,Acute thyroiditis,granular,14304000,Disorder of thyroid gland,group
+367631000119105,Hypothyroidism caused by drug,granular,14304000,Disorder of thyroid gland,group
+66944004,Autoimmune thyroiditis,granular,14304000,Disorder of thyroid gland,group
+428165003,Hypothyroidism in pregnancy,granular,14304000,Disorder of thyroid gland,group
+237495005,Thyroid nodule,granular,14304000,Disorder of thyroid gland,group
+90739004,Thyrotoxicosis,granular,14304000,Disorder of thyroid gland,group
+82119001,Thyroiditis,granular,14304000,Disorder of thyroid gland,group
+36976004,Hypoparathyroidism,granular,14304000,Disorder of thyroid gland,group
+21983002,Hashimoto thyroiditis,granular,14304000,Disorder of thyroid gland,group
+57185003,Primary hypothyroidism,granular,14304000,Disorder of thyroid gland,group
+54823002,Subclinical hypothyroidism,granular,14304000,Disorder of thyroid gland,group
+237570007,Multinodular goiter,granular,14304000,Disorder of thyroid gland,group
+353295004,Graves' disease,granular,14304000,Disorder of thyroid gland,group
+3716002,Goiter,granular,14304000,Disorder of thyroid gland,group
+276177000,Thyroid eye disease,granular,14304000,Disorder of thyroid gland,group
+40930008,Hypothyroidism,granular,14304000,Disorder of thyroid gland,group
+34486009,Hyperthyroidism,granular,14304000,Disorder of thyroid gland,group
+48971001,Tinea manus,granular,47382004,Dermatophytosis,group
+240696004,Tinea faciei,granular,47382004,Dermatophytosis,group
+238435009,Steroid-modified tinea infection,granular,47382004,Dermatophytosis,group
+399029005,Tinea cruris,granular,47382004,Dermatophytosis,group
+84849002,Tinea corporis,granular,47382004,Dermatophytosis,group
+56454009,Pityriasis versicolor,granular,47382004,Dermatophytosis,group
+5441008,Tinea capitis,granular,47382004,Dermatophytosis,group
+6020002,Tinea pedis,granular,47382004,Dermatophytosis,group
+195798007,Chronic adenotonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+10351008,Suppurative tonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+6461009,Amygdalolith,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+195667003,Acute follicular tonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+27878001,Follicular tonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+70020005,Adenoiditis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+111591002,Hypertrophy of adenoids,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+90979004,Chronic tonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+66622006,Hypertrophy of both palatine AND pharyngeal tonsils,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+17741008,Acute tonsillitis,granular,51499002,Disorder of tonsil AND/OR adenoid,group
+116225000,Complication of injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+262525000,Chest injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+274227007,Cut - accidental,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+282764008,Injury of coccyx,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+242056005,Accidental injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+274164006,Minor head injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+282769003,Injury of side of chest,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+11854011000119108,Injury of left foot,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+422916003,Blunt injury of thorax,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+417746004,Traumatic injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+125604000,Injury of foot,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+82271004,Injury of head,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+282026002,Soft tissue injury,granular,417163006,Traumatic AND/OR non-traumatic injury,group
+422400008,Vomiting,granular,119291004,Disorder of upper gastrointestinal tract,group
+37372002,Upper gastrointestinal hemorrhage,granular,119291004,Disorder of upper gastrointestinal tract,group
+715192004,Idiopathic achalasia of esophagus,granular,119291004,Disorder of upper gastrointestinal tract,group
+84089009,Hiatal hernia,granular,119291004,Disorder of upper gastrointestinal tract,group
+40739000,Dysphagia,granular,119291004,Disorder of upper gastrointestinal tract,group
+28670008,Esophageal varices,granular,119291004,Disorder of upper gastrointestinal tract,group
+2901004,Melena,granular,119291004,Disorder of upper gastrointestinal tract,group
+8765009,Hematemesis,granular,119291004,Disorder of upper gastrointestinal tract,group
+34742003,Portal hypertension,granular,119291004,Disorder of upper gastrointestinal tract,group
+55355000,Acute laryngopharyngitis,granular,54150009,Upper respiratory infection,group
+6655004,Acute laryngitis,granular,54150009,Upper respiratory infection,group
+1532007,Viral pharyngitis,granular,54150009,Upper respiratory infection,group
+267756004,Catarrh - eustachian,granular,54150009,Upper respiratory infection,group
+312422001,Infective pharyngitis,granular,54150009,Upper respiratory infection,group
+140004,Chronic pharyngitis,granular,54150009,Upper respiratory infection,group
+201060008,Disorder of upper respiratory system,granular,54150009,Upper respiratory infection,group
+51476001,Nasopharyngitis,granular,54150009,Upper respiratory infection,group
+54398005,Acute upper respiratory infection,granular,54150009,Upper respiratory infection,group
+45913009,Laryngitis,granular,54150009,Upper respiratory infection,group
+2365002,Chronic granular pharyngitis,granular,54150009,Upper respiratory infection,group
+363746003,Acute pharyngitis,granular,54150009,Upper respiratory infection,group
+82272006,Common cold,granular,54150009,Upper respiratory infection,group
+281794004,Viral upper respiratory tract infection,granular,54150009,Upper respiratory infection,group
+405737000,Pharyngitis,granular,54150009,Upper respiratory infection,group
+165232002,Urinary incontinence,granular,42643001,Disorder of urinary bladder,group
+416991005,Bladder outlet obstruction,granular,42643001,Disorder of urinary bladder,group
+126885006,Neoplasm of bladder,granular,42643001,Disorder of urinary bladder,group
+68226007,Acute cystitis,granular,42643001,Disorder of urinary bladder,group
+786457000,Overactive bladder,granular,42643001,Disorder of urinary bladder,group
+399326009,Malignant tumor of urinary bladder,granular,42643001,Disorder of urinary bladder,group
+236645006,Bladder outflow obstruction,granular,42643001,Disorder of urinary bladder,group
+70650003,Urinary bladder stone,granular,42643001,Disorder of urinary bladder,group
+7163005,Urinary tract obstruction,granular,42643001,Disorder of urinary bladder,group
+38822007,Cystitis,granular,42643001,Disorder of urinary bladder,group
+447043009,Calculus of lower third of ureter,granular,95566004,Urolithiasis,group
+31054009,Ureteric stone,granular,95566004,Urolithiasis,group
+95570007,Kidney stone,granular,95566004,Urolithiasis,group
+78420004,Viral enteritis,granular,34014006,Viral disease,group
+240107001,Viral myalgia,granular,34014006,Viral disease,group
+36989005,Mumps,granular,34014006,Viral disease,group
+51771007,Postviral fatigue syndrome,granular,34014006,Viral disease,group
+49882001,Viral exanthem,granular,34014006,Viral disease,group
+266108008,Hand foot and mouth disease,granular,34014006,Viral disease,group
+123948009,Post-viral disorder,granular,34014006,Viral disease,group
+409631000,Acute viral disease,granular,34014006,Viral disease,group
+40070004,Infection caused by Molluscum contagiosum,granular,34014006,Viral disease,group
+41345002,Rickets,granular,85670002,Vitamin deficiency,group
+4039009,Multiple vitamin deficiency disease,granular,85670002,Vitamin deficiency,group
+72000004,Vitamin A deficiency,granular,85670002,Vitamin deficiency,group
+34713006,Vitamin D deficiency,granular,85670002,Vitamin deficiency,group
+190634004,Cobalamin deficiency,granular,85670002,Vitamin deficiency,group
+61170000,Stomatitis,granular,85670002,Vitamin deficiency,group
+373945007,Pericardial effusion,granular,105981003,Disorder of cardiac function,group
+253361002,Left atrial dilatation,granular,105981003,Disorder of cardiac function,group
+443343001,Acute diastolic heart failure,granular,105981003,Disorder of cardiac function,group
+415295002,Restrictive cardiomyopathy,granular,105981003,Disorder of cardiac function,group
+134401001,Left ventricular systolic dysfunction,granular,105981003,Disorder of cardiac function,group
+233873004,Hypertrophic cardiomyopathy,granular,105981003,Disorder of cardiac function,group
+703272007,Heart failure with reduced ejection fraction,granular,105981003,Disorder of cardiac function,group
+45227007,Hypertrophic obstructive cardiomyopathy,granular,105981003,Disorder of cardiac function,group
+8186001,Cardiomegaly,granular,105981003,Disorder of cardiac function,group
+446221000,Heart failure with normal ejection fraction,granular,105981003,Disorder of cardiac function,group
+85898001,Cardiomyopathy,granular,105981003,Disorder of cardiac function,group
+85232009,Left heart failure,granular,105981003,Disorder of cardiac function,group
+399020009,Congestive cardiomyopathy,granular,105981003,Disorder of cardiac function,group
+429589006,Left ventricular cardiac dysfunction,granular,105981003,Disorder of cardiac function,group
+55827005,Left ventricular hypertrophy,granular,105981003,Disorder of cardiac function,group
+42343007,Congestive heart failure,granular,105981003,Disorder of cardiac function,group
+253010003,Microprolactinoma,granular,399244003,Disorder of pituitary gland,group
+254965007,Pituitary macroadenoma,granular,399244003,Disorder of pituitary gland,group
+74107003,Acromegaly,granular,399244003,Disorder of pituitary gland,group
+254963000,Pituitary microadenoma,granular,399244003,Disorder of pituitary gland,group
+74728003,Hypopituitarism,granular,399244003,Disorder of pituitary gland,group
+237662005,Hyperprolactinemia,granular,399244003,Disorder of pituitary gland,group
+11366004,Singers' nodes,granular,60600009,Disorder of the larynx,group
+414581006,Laryngopharyngeal reflux,granular,60600009,Disorder of the larynx,group
+402323000,Hypertrophic palmoplantar psoriasis,granular,9014002,Psoriasis,group
+37042000,Guttate psoriasis,granular,9014002,Psoriasis,group
+200975007,Psoriasis vulgaris,granular,9014002,Psoriasis,group
+200971003,Psoriasis plantaris,granular,9014002,Psoriasis,group
+238600001,Flexural psoriasis,granular,9014002,Psoriasis,group
+238604005,Psoriasis of nail,granular,9014002,Psoriasis,group
+200970002,Psoriasis palmaris,granular,9014002,Psoriasis,group
+25847004,Seborrheic psoriasis,granular,9014002,Psoriasis,group
+200965009,Plaque psoriasis,granular,9014002,Psoriasis,group
+238608008,Psoriasis of scalp,granular,9014002,Psoriasis,group
+13213009,Congenital heart disease,group,106063007,Cardiovascular finding,system
+129154003,Neoplasm of hematopoietic cell type,group,106063007,Cardiovascular finding,system
+370992007,Disorder of lipoprotein storage and metabolism,group,106063007,Cardiovascular finding,system
+698247007,Cardiac arrhythmia,group,106063007,Cardiovascular finding,system
+414024009,Disorder of coronary artery,group,106063007,Cardiovascular finding,system
+41339005,Coronary angioplasty,group,106063007,Cardiovascular finding,system
+266894000,Family history: Cardiovascular disease,group,106063007,Cardiovascular finding,system
+414545008,Ischemic heart disease,group,106063007,Cardiovascular finding,system
+400047006,Peripheral vascular disease,group,106063007,Cardiovascular finding,system
+368009,Heart valve finding,group,106063007,Cardiovascular finding,system
+38936003,Abnormal blood pressure,group,106063007,Cardiovascular finding,system
+105981003,Disorder of cardiac function,group,106063007,Cardiovascular finding,system
+418285008,Repair of blood vessel,group,106063007,Cardiovascular finding,system
+30904006,Vascular surgery procedure,group,106063007,Cardiovascular finding,system
+274023003,Varicose vein operation,group,106063007,Cardiovascular finding,system
+77343006,Angiography,group,106063007,Cardiovascular finding,system
+85830006,Repair of heart valve,group,106063007,Cardiovascular finding,system
+232717009,Coronary artery bypass grafting,group,106063007,Cardiovascular finding,system
+75087007,Repair of aneurysm,group,106063007,Cardiovascular finding,system
+34068001,Heart valve replacement,group,106063007,Cardiovascular finding,system
+1115001,Decortication,group,106048009,Respiratory finding,system
+118794001,Procedure on lung,group,106048009,Respiratory finding,system
+233635001,Disorder of pleura AND/OR pleural cavity,group,106048009,Respiratory finding,system
+54150009,Upper respiratory infection,group,106048009,Respiratory finding,system
+195967001,Asthma,group,106048009,Respiratory finding,system
+19829001,Disorder of lung,group,106048009,Respiratory finding,system
+32398004,Bronchitis,group,106048009,Respiratory finding,system
+275498002,Respiratory tract infection,group,106048009,Respiratory finding,system
+233703007,Interstitial lung disease,group,106048009,Respiratory finding,system
+50417007,Lower respiratory tract infection,group,106048009,Respiratory finding,system
+70995007,Pulmonary hypertension,group,106048009,Respiratory finding,system
+13645005,Chronic obstructive lung disease,group,106048009,Respiratory finding,system
+52172007,Repair of ligament,group,106028002,Musculoskeletal finding,system
+13714004,Arthroscopy,group,106028002,Musculoskeletal finding,system
+387731002,Excision of lamina of vertebra,group,106028002,Musculoskeletal finding,system
+239279000,Fixation of fracture,group,106028002,Musculoskeletal finding,system
+179342005,Knee joint operation,group,106028002,Musculoskeletal finding,system
+14290001000004107,,group,106028002,Musculoskeletal finding,system
+61557004,Implantation of joint prosthesis,group,106028002,Musculoskeletal finding,system
+14375003,Operation on mandible,group,106028002,Musculoskeletal finding,system
+125605004,Fracture of bone,group,106028002,Musculoskeletal finding,system
+106030000,Muscle finding,group,106028002,Musculoskeletal finding,system
+118749007,Procedure on hip joint,group,106028002,Musculoskeletal finding,system
+785875003,Disorder of joint region,group,106028002,Musculoskeletal finding,system
+123798002,Lumbosacral spondylosis,group,106028002,Musculoskeletal finding,system
+128136007,Disorder of knee,group,106028002,Musculoskeletal finding,system
+428281000,Malignant neoplasm of bone,group,106028002,Musculoskeletal finding,system
+444003007,Finding of shoulder joint,group,106028002,Musculoskeletal finding,system
+3723001,Arthritis,group,106028002,Musculoskeletal finding,system
+92027006,Benign neoplasm of bone,group,106028002,Musculoskeletal finding,system
+298380006,Deformity of spine,group,106028002,Musculoskeletal finding,system
+416209007,Synovitis,group,106028002,Musculoskeletal finding,system
+410730009,Disorder of spinal region,group,106028002,Musculoskeletal finding,system
+76069003,Disorder of bone,group,106028002,Musculoskeletal finding,system
+26889001,Myositis,group,106028002,Musculoskeletal finding,system
+105611005,Sprain of ligament of joint,group,106028002,Musculoskeletal finding,system
+84017003,Bursitis,group,106028002,Musculoskeletal finding,system
+23056005,Sciatica,group,106028002,Musculoskeletal finding,system
+73589001,Intervertebral disc prolapse,group,106028002,Musculoskeletal finding,system
+68172002,Disorder of tendon,group,106028002,Musculoskeletal finding,system
+387800004,Cervical spondylosis,group,106028002,Musculoskeletal finding,system
+23680005,Enthesopathy,group,106028002,Musculoskeletal finding,system
+90560007,Inflammatory disorder due to increased blood urate level,group,106028002,Musculoskeletal finding,system
+61627001,Hyperchlorhydria,group,386617003,Digestive system finding,system
+128241005,Inflammatory disease of liver,group,386617003,Digestive system finding,system
+3738000,Viral hepatitis,group,386617003,Digestive system finding,system
+41309000,Alcoholic liver damage,group,386617003,Digestive system finding,system
+25374005,Gastroenteritis,group,386617003,Digestive system finding,system
+197321007,Steatosis of liver,group,386617003,Digestive system finding,system
+14783006,Hyperbilirubinemia,group,386617003,Digestive system finding,system
+79787007,Disorder of lower gastrointestinal tract,group,386617003,Digestive system finding,system
+52515009,Hernia of abdominal cavity,group,386617003,Digestive system finding,system
+426867001,Anorectal disorder,group,386617003,Digestive system finding,system
+39621005,Disorder of biliary tract,group,386617003,Digestive system finding,system
+3855007,Disorder of pancreas,group,386617003,Digestive system finding,system
+119291004,Disorder of upper gastrointestinal tract,group,386617003,Digestive system finding,system
+118822003,Procedure on liver,group,386617003,Digestive system finding,system
+29630005,Operation on pancreas,group,386617003,Digestive system finding,system
+430715008,Bariatric operative procedure,group,386617003,Digestive system finding,system
+235388001,Hemorrhoid operation,group,386617003,Digestive system finding,system
+8613002,Operation on appendix,group,386617003,Digestive system finding,system
+24265000,Operation on anus,group,386617003,Digestive system finding,system
+19744006,Operation on gallbladder,group,386617003,Digestive system finding,system
+16453004,Operation on stomach,group,386617003,Digestive system finding,system
+275018007,Anal fistula operation,group,386617003,Digestive system finding,system
+50465008,Hernia repair,group,386617003,Digestive system finding,system
+14861000,Operation on bladder,group,386617003,Digestive system finding,system
+118831003,Procedure on intestine,group,386617003,Digestive system finding,system
+73211009,Diabetes mellitus,group,106176003,Endocrine finding,system
+14304000,Disorder of thyroid gland,group,106176003,Endocrine finding,system
+399244003,Disorder of pituitary gland,group,106176003,Endocrine finding,system
+30171000,Disorder of adrenal gland,group,106176003,Endocrine finding,system
+74627003,Complication due to diabetes mellitus,group,106176003,Endocrine finding,system
+118766009,Procedure on thyroid gland,group,106176003,Endocrine finding,system
+238181003,Procedure on spine,group,118940003,Disorder of nervous system,system
+1a24405b88aae590dee4f4a65db4ef75,Paralysis,group,118940003,Disorder of nervous system,system
+23853001,Disorder of the central nervous system,group,118940003,Disorder of nervous system,system
+5294002,Developmental disorder,group,118940003,Disorder of nervous system,system
+25064002,Headache,group,118940003,Disorder of nervous system,system
+42658009,Disorder of the peripheral nervous system,group,118940003,Disorder of nervous system,system
+39898005,Finding related to sleep,group,118940003,Disorder of nervous system,system
+128613002,Seizure,group,118940003,Disorder of nervous system,system
+62914000,Cerebrovascular disease,group,118940003,Disorder of nervous system,system
+30746006,Lymphadenopathy,group,414029004,Disorder of immune function,system
+422290000,Allergic disorder of skin,group,414029004,Disorder of immune function,system
+419076005,Allergic reaction,group,414029004,Disorder of immune function,system
+9014002,Psoriasis,group,414029004,Disorder of immune function,system
+735445000,Allergic disorder of respiratory tract,group,414029004,Disorder of immune function,system
+863903001,Allergy to component of vaccine product,group,414029004,Disorder of immune function,system
+426232007,Environmental allergy,group,414029004,Disorder of immune function,system
+416098002,Allergy to drug,group,414029004,Disorder of immune function,system
+830259009,Allergy to fluoroquinolone,group,414029004,Disorder of immune function,system
+91934008,Allergy to nut,group,414029004,Disorder of immune function,system
+414285001,Allergy to food,group,414029004,Disorder of immune function,system
+91937001,Allergy to seafood,group,414029004,Disorder of immune function,system
+69322001,Psychotic disorder,group,74732009,Mental disorder,system
+266969002,Family history of psychotic illness,group,74732009,Mental disorder,system
+26416006,Drug abuse,group,74732009,Mental disorder,system
+62014003,Adverse reaction caused by drug,group,74732009,Mental disorder,system
+35253001,"Attention deficit hyperactivity disorder, predominantly inattentive type",granular,74732009,Mental disorder,system
+406506008,Attention deficit hyperactivity disorder,granular,74732009,Mental disorder,system
+236347006,Hydrocele operation,group,118232004,Reproductive finding,system
+363194005,Disorder of male reproductive system,group,118232004,Reproductive finding,system
+27034006,Fertility problem,group,118232004,Reproductive finding,system
+79604008,Disorder of breast,group,118232004,Reproductive finding,system
+30281009,Problem of prostate,group,118232004,Reproductive finding,system
+173300003,Disorder of pregnancy,group,118232004,Reproductive finding,system
+392089008,Breast procedure,group,118232004,Reproductive finding,system
+310789003,Disorder of female genital tract,group,118232004,Reproductive finding,system
+236886002,Hysterectomy,group,118232004,Reproductive finding,system
+236973005,Delivery procedure,group,118232004,Reproductive finding,system
+703145006,Sterilization procedure,group,118232004,Reproductive finding,system
+120001005,Testis excision,group,118232004,Reproductive finding,system
+69031006,Excision of breast tissue,group,118232004,Reproductive finding,system
+30253003,Dilation of urethra,group,118232004,Reproductive finding,system
+52637005,Test tube ovum fertilization,group,118232004,Reproductive finding,system
+386639001,Termination of pregnancy,group,118232004,Reproductive finding,system
+42010004,Uterine myomectomy,group,118232004,Reproductive finding,system
+118870009,Procedure on ovary,group,118232004,Reproductive finding,system
+90470006,Prostatectomy,group,118232004,Reproductive finding,system
+118877007,Procedure on prostate,group,118232004,Reproductive finding,system
+392250009,Operation on fallopian tube,group,118232004,Reproductive finding,system
+304040003,Grafting to skin,group,415531008,Integumentary system finding,system
+21054003,Hair transplant,group,415531008,Integumentary system finding,system
+441457006,Cyst,group,415531008,Integumentary system finding,system
+49765009,Hyperpigmentation of skin,group,415531008,Integumentary system finding,system
+95320005,Disorder of skin,group,415531008,Integumentary system finding,system
+445008009,Ganglion cyst,group,415531008,Integumentary system finding,system
+11381005,Acne,group,415531008,Integumentary system finding,system
+703938007,Inflammatory dermatosis,group,415531008,Integumentary system finding,system
+92069005,Benign neoplasm of soft tissue,group,415531008,Integumentary system finding,system
+23006000,Hypopigmentation of skin,group,415531008,Integumentary system finding,system
+288509005,Burn of skin of body region,group,415531008,Integumentary system finding,system
+279425004,Disorder of hair,group,415531008,Integumentary system finding,system
+56317004,Alopecia,group,415531008,Integumentary system finding,system
+17790008,Disorder of nail,group,415531008,Integumentary system finding,system
+47382004,Dermatophytosis,group,415531008,Integumentary system finding,system
+275322007,Scar,group,415531008,Integumentary system finding,system
+201040000,Callosity,group,415531008,Integumentary system finding,system
+125667009,Contusion,group,415531008,Integumentary system finding,system
+88996004,Lichen,group,415531008,Integumentary system finding,system
+126485001,Urticaria,group,415531008,Integumentary system finding,system
+43116000,Eczema,group,415531008,Integumentary system finding,system
+52845002,Nephritis,group,106098005,Urinary system finding,system
+709044004,Chronic kidney disease,group,106098005,Urinary system finding,system
+126880001,Neoplasm of kidney,group,106098005,Urinary system finding,system
+95566004,Urolithiasis,group,106098005,Urinary system finding,system
+42643001,Disorder of urinary bladder,group,106098005,Urinary system finding,system
+16934004,Renal vascular disorder,group,106098005,Urinary system finding,system
+4009004,Lower urinary tract infectious disease,group,106098005,Urinary system finding,system
+43064006,Hydronephrosis,group,106098005,Urinary system finding,system
+76314005,Disorder of fluid AND/OR electrolyte,group,106098005,Urinary system finding,system
+128073008,,group,106098005,Urinary system finding,system
+108022006,Kidney excision,group,106098005,Urinary system finding,system
+133864008,Lithotripsy,group,106098005,Urinary system finding,system
+175898006,Kidney operation,group,106098005,Urinary system finding,system
+271737000,Anemia,group,299691001,"Finding of blood, lymphatics and immune system",system
+64779008,Blood coagulation disorder,group,299691001,"Finding of blood, lymphatics and immune system",system
+362970003,Hemorrhagic disorder due to circulating anticoagulants,group,299691001,"Finding of blood, lymphatics and immune system",system
+248342006,Underweight,group,2492009,Nutritional disorder,system
+238131007,High body weight,group,2492009,Nutritional disorder,system
+70241007,Nutritional deficiency disorder,group,2492009,Nutritional disorder,system
+85670002,Vitamin deficiency,group,2492009,Nutritional disorder,system
+61462000,Malaria,group,25f27d630d8d21704116323e3798659c,,system
+15188001,Hearing loss,group,25f27d630d8d21704116323e3798659c,,system
+9826008,Conjunctivitis,group,25f27d630d8d21704116323e3798659c,,system
+88594005,Herpes simplex,group,25f27d630d8d21704116323e3798659c,,system
+232297009,Disorder of inner ear,group,25f27d630d8d21704116323e3798659c,,system
+56717001,Tuberculosis,group,25f27d630d8d21704116323e3798659c,,system
+399153001,Vertigo,group,25f27d630d8d21704116323e3798659c,,system
+23986001,Glaucoma,group,25f27d630d8d21704116323e3798659c,,system
+31928004,Abscess of skin and/or subcutaneous tissue,group,25f27d630d8d21704116323e3798659c,,system
+34014006,Viral disease,group,25f27d630d8d21704116323e3798659c,,system
+7393007,Disorder of nasal sinus,group,25f27d630d8d21704116323e3798659c,,system
+371405004,Disorder of eye proper,group,25f27d630d8d21704116323e3798659c,,system
+8504008,Effect of exposure to physical force,group,25f27d630d8d21704116323e3798659c,,system
+60600009,Disorder of the larynx,group,25f27d630d8d21704116323e3798659c,,system
+87628006,Bacterial infectious disease,group,25f27d630d8d21704116323e3798659c,,system
+40733004,Infectious disease,group,25f27d630d8d21704116323e3798659c,,system
+65363002,Otitis media,group,25f27d630d8d21704116323e3798659c,,system
+118814005,Procedure on mouth,group,25f27d630d8d21704116323e3798659c,,system
+108290001,Radiation oncology AND/OR radiotherapy,group,25f27d630d8d21704116323e3798659c,,system
+269469005,Neoplasm of soft tissue,group,25f27d630d8d21704116323e3798659c,,system
+38362002,Dengue,group,25f27d630d8d21704116323e3798659c,,system
+118938008,Disorder of mouth,group,25f27d630d8d21704116323e3798659c,,system
+309465005,Varicella-zoster virus infection,group,25f27d630d8d21704116323e3798659c,,system
+399907009,Animal bite wound,group,25f27d630d8d21704116323e3798659c,,system
+128045006,Cellulitis,group,25f27d630d8d21704116323e3798659c,,system
+25906001,Disorder of ear,group,25f27d630d8d21704116323e3798659c,,system
+160305008,Family history of metabolic disorder,group,25f27d630d8d21704116323e3798659c,,system
+49130001,Disorder of external ear,group,25f27d630d8d21704116323e3798659c,,system
+89488007,Disorder of the nose,group,25f27d630d8d21704116323e3798659c,,system
+417163006,Traumatic AND/OR non-traumatic injury,group,25f27d630d8d21704116323e3798659c,,system
+782964007,Genetic disease,group,25f27d630d8d21704116323e3798659c,,system
+3218000,Mycosis,group,25f27d630d8d21704116323e3798659c,,system
+125643001,Open wound,group,25f27d630d8d21704116323e3798659c,,system
+239953001,Soft tissue lesion,group,25f27d630d8d21704116323e3798659c,,system
+51499002,Disorder of tonsil AND/OR adenoid,group,25f27d630d8d21704116323e3798659c,,system
+373385008,Surgical repair of head and neck structure,group,25f27d630d8d21704116323e3798659c,,system
+56783008,Incision AND drainage,group,25f27d630d8d21704116323e3798659c,,system
+232522007,,group,25f27d630d8d21704116323e3798659c,,system
+53696006,Operation on retina,group,25f27d630d8d21704116323e3798659c,,system
+359652001,,group,25f27d630d8d21704116323e3798659c,,system
+82035006,Resection of polyp,group,25f27d630d8d21704116323e3798659c,,system
+22925008,,group,25f27d630d8d21704116323e3798659c,,system
+110473004,Cataract surgery,group,25f27d630d8d21704116323e3798659c,,system
+66091009,,group,25f27d630d8d21704116323e3798659c,,system
+88733004,,group,25f27d630d8d21704116323e3798659c,,system
+85828009,,group,25f27d630d8d21704116323e3798659c,,system
+371587008,Repair of inguinal hernia,group,25f27d630d8d21704116323e3798659c,,system
+415070008,Percutaneous coronary intervention,granular,41339005,Coronary angioplasty,group
+49266009,Hydrocelectomy,granular,236347006,Hydrocele operation,group
+47458005,Repair of hip joint,granular,118749007,Procedure on hip joint,group
+80742007,Fixation of hip,granular,118749007,Procedure on hip joint,group
+52734007,Total replacement of hip,granular,118749007,Procedure on hip joint,group
+386649003,Partial hip replacement by prosthesis,granular,118749007,Procedure on hip joint,group
+71369009,Orthodontic service,granular,118814005,Procedure on mouth,group
+65546002,Extraction of wisdom tooth,granular,118814005,Procedure on mouth,group
+55670007,Endodontic procedure,granular,118814005,Procedure on mouth,group
+55162003,Tooth extraction,granular,118814005,Procedure on mouth,group
+735085002,Lumpectomy of left breast,granular,392089008,Breast procedure,group
+119856003,Breast repair,granular,392089008,Breast procedure,group
+392022002,Excision of mass,granular,392089008,Breast procedure,group
+69990006,Excision of fibroadenoma of breast,granular,392089008,Breast procedure,group
+392021009,Lumpectomy of breast,granular,392089008,Breast procedure,group
+401004,Distal subtotal pancreatectomy,granular,29630005,Operation on pancreas,group
+448013009,Incision of pancreatic sphincter,granular,29630005,Operation on pancreas,group
+287847009,Partial pancreatectomy,granular,29630005,Operation on pancreas,group
+235481008,Lateral pancreaticojejunostomy,granular,29630005,Operation on pancreas,group
+235477008,Pancreaticojejunostomy,granular,29630005,Operation on pancreas,group
+33149006,Pancreatectomy,granular,29630005,Operation on pancreas,group
+59656001,Incision of pancreas,granular,29630005,Operation on pancreas,group
+235471009,Debridement of pancreatic and peripancreatic necrosis,granular,29630005,Operation on pancreas,group
+18027006,Transplantation of liver,granular,118822003,Procedure on liver,group
+235461007,Drainage of liver abscess,granular,118822003,Procedure on liver,group
+107963000,Excision of liver,granular,118822003,Procedure on liver,group
+438300009,Biopsy of liver using ultrasound guidance,granular,118822003,Procedure on liver,group
+870378000,Endoscopic sleeve gastroplasty,granular,e1b7448162810914571d8ea0a8f546a3,,group
+359890009,Fundoplication,granular,e1b7448162810914571d8ea0a8f546a3,,group
+442426009,Lipectomy,granular,e1b7448162810914571d8ea0a8f546a3,,group
+427074001,Laparoscopic sleeve gastrectomy,granular,e1b7448162810914571d8ea0a8f546a3,,group
+76009000,Esophagogastroduodenoscopy,granular,264274002,Endoscopic operation,group
+386718000,Endoscopic retrograde cholangiopancreatography,granular,264274002,Endoscopic operation,group
+450559006,Laparoscopic excision of leiomyoma of uterus,granular,42010004,Uterine myomectomy,group
+236901008,Endoscopic myomectomy,granular,42010004,Uterine myomectomy,group
+265059000,Open myomectomy,granular,42010004,Uterine myomectomy,group
